@@ -9,7 +9,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	</xsl:apply-templates>
 </xsl:template>
 
-<xsl:template match="relation[not((tag/@v='bicycle') or (tag/@v='foot') or (tag/@v='hiking') or (tag/@v='ski') or (tag/@v='horse'))]">
+<xsl:template match="relation[not((tag/@v='bicycle') or (tag/@v='mtb') or (tag/@v='foot') or (tag/@v='hiking') or (tag/@v='ski') or (tag/@v='horse') or (tag/@v='wheelchair'))]">
 		<xsl:value-of select="@id"/>
 		<xsl:text> </xsl:text>
 		<xsl:value-of select="tag[@k = 'ref']/@v"/>

@@ -9,7 +9,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	</xsl:apply-templates>
 </xsl:template>
 
-<xsl:template match="relation[tag/@v = 'bicycle']">
+<xsl:template match="relation[(tag/@v = 'bicycle') or (tag/@v='mtb')]">
 		<xsl:text>|-&#xa;</xsl:text>
 
 		<xsl:text>|  </xsl:text>
