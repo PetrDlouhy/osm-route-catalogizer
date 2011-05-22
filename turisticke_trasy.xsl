@@ -9,11 +9,20 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	</xsl:apply-templates>
 </xsl:template>
 
-<xsl:template match="relation[tag/@v = 'foot' or tag/@v='hiking' or tag/@v='ski' or tag/@v='horse']">
+<xsl:template match="relation[tag/@v = 'foot' or tag/@v='hiking' or tag/@v='ski' or tag/@v='horse' or tag/@v='wheelchair']">
 		<xsl:text>|-&#xa;</xsl:text>
 
 		<xsl:text>|  </xsl:text>
+		<xsl:if test="tag[matches(@k, 'wikipedia$')]">
+			<xsl:text>[http://en.wikipedia.org/wiki/</xsl:text>
+			<xsl:value-of select="replace(tag[matches(@k, '^wikipedia:')]/@k, 'wikipedia:', '')"/>
+			<xsl:value-of select="encode-for-uri(tag[matches(@k, 'wikipedia$')]/@v)"/>
+			<xsl:text> </xsl:text>
+		</xsl:if>
 		<xsl:value-of select="tag[@k = 'ref']/@v"/>
+		<xsl:if test="tag[matches(@k, 'wikipedia$')]">
+			<xsl:text>]</xsl:text>
+		</xsl:if>
 		<xsl:text>&#xa;</xsl:text>
 
 		<xsl:text>| </xsl:text>
@@ -99,7 +108,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			<xsl:when test="($kct_type = 'major' or $kct_type = 'yes') and ($osmc_symbol_type != 'bar' or $osmc_background_color != 'white')">
 				<xsl:text>no</xsl:text>
 			</xsl:when>
-			<xsl:when test="$kct_type = 'local' and ($osmc_symbol_type != 'right_corner' and $osmc_background_color != 'white')">
+			<xsl:when test="$kct_type = 'local' and ($osmc_symbol_type != 'corner' and $osmc_background_color != 'white')">
 				<xsl:text>no</xsl:text>
 			</xsl:when>
 			<xsl:when test="$kct_type = 'learning' and ($osmc_symbol_type != 'backslash' or $osmc_background_color != 'white')">
@@ -111,7 +120,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			<xsl:when test="$kct_type = 'peak' and ($osmc_symbol_type != 'triangle' or $osmc_background_color != 'white')">
 				<xsl:text>no</xsl:text>
 			</xsl:when>
-			<xsl:when test="$kct_type = 'spring' and ($osmc_symbol_type != 'bottom_halfcircle' or $osmc_background_color != 'white')">
+			<xsl:when test="$kct_type = 'spring' and ($osmc_symbol_type != 'bowl' or $osmc_background_color != 'white')">
 				<xsl:text>no</xsl:text>
 			</xsl:when>
 			<xsl:when test="$kct_type = 'interesting_object' and ($osmc_symbol_type != 'turned_T' or $osmc_background_color != 'white')">

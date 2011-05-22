@@ -16,8 +16,19 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		<xsl:text>&lt;span style="display:none"></xsl:text>
 		<xsl:value-of select="string-length(replace(tag[@k = 'ref']/@v, '[^0-9]', ''))"/>
 		<xsl:text>&lt;/span></xsl:text>
+
+		<xsl:if test="tag[matches(@k, 'wikipedia$')]">
+			<xsl:text>[http://en.wikipedia.org/wiki/</xsl:text>
+			<xsl:value-of select="replace(tag[matches(@k, '^wikipedia:')]/@k, 'wikipedia:', '')"/>
+			<xsl:value-of select="encode-for-uri(tag[matches(@k, 'wikipedia$')]/@v)"/>
+			<xsl:text> </xsl:text>
+		</xsl:if>
 		<xsl:value-of select="tag[@k = 'ref']/@v"/>
-		<xsl:text>&#xa;</xsl:text>
+		<xsl:if test="tag[matches(@k, 'wikipedia$')]">
+			<xsl:text>]</xsl:text>
+		</xsl:if>
+		<xsl:text>
+</xsl:text>
 
 		<xsl:text>| </xsl:text>
 		<xsl:value-of select="tag[@k = 'name']/@v"/>
