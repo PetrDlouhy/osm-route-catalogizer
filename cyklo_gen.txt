@@ -1,0 +1,5643 @@
+|-
+|  <span style="display:none">4</span>4113
+| 
+| {{Relation|12925|tools=short}}
+| 4
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4115
+| 
+| {{Relation|12926|tools=short}}
+| 12.11
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4120
+| 
+| {{Relation|12927|tools=short}}
+| 25.07
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4022
+| 
+| {{Relation|12928|tools=short}}
+| 17.54
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8100
+| Pražské kolo
+| {{Relation|13116|tools=short}}
+| 129.08
+| 5
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5215
+| 
+| {{Relation|14711|tools=short}}
+| 16.28
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4336
+| 
+| {{Relation|14712|tools=short}}
+| 11.16
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>14
+| 14 Praha-Liberec
+| {{Relation|14949|tools=short}}
+| 69.4
+| 8
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0078
+| Dejvice-Okoř
+| {{Relation|19987|tools=short}}
+| 20.89
+| 5
+| rcn
+| yes
+
+|-
+|  <span style="display:none">3</span>201
+| Praha-Rakovník
+| {{Relation|20832|tools=short}}
+| 26.76
+| 7
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0077
+| Dejvice-Okoř
+| {{Relation|20833|tools=short}}
+| 27.88
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">2</span>54
+| 
+| {{Relation|21038|tools=short}}
+| 5.58
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>19
+| Posázavská cyklotrasa
+| {{Relation|22721|tools=short}}
+| 230.37
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>4156
+| 
+| {{Relation|22728|tools=short}}
+| 7.41
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>1
+| Praha-Brno
+| {{Relation|23496|tools=short}}
+| 292.75
+| 5
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>4337
+| 
+| {{Relation|23589|tools=short}}
+| 8.51
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4340
+| 
+| {{Relation|23595|tools=short}}
+| 2
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>104
+| 
+| {{Relation|23596|tools=short}}
+| 14.75
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>4338
+| 
+| {{Relation|23737|tools=short}}
+| 6.45
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4180
+| 
+| {{Relation|27314|tools=short}}
+| 13.23
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4105
+| 
+| {{Relation|27315|tools=short}}
+| 4.6
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4021
+| 
+| {{Relation|27318|tools=short}}
+| 8.9
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4024
+| 
+| {{Relation|27319|tools=short}}
+| 4.52
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>331
+| 
+| {{Relation|27376|tools=short}}
+| 25.64
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>4122
+| 
+| {{Relation|27471|tools=short}}
+| 12.98
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4184
+| 
+| {{Relation|27476|tools=short}}
+| 1.4
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4101
+| 
+| {{Relation|27477|tools=short}}
+| 3.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>9
+| 
+| {{Relation|27478|tools=short}}
+| 3.36
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>5
+| 
+| {{Relation|27480|tools=short}}
+| 6.53
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|27481|tools=short}}
+| 2.92
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>341
+| 
+| {{Relation|27538|tools=short}}
+| 20.25
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>3015
+| 
+| {{Relation|27786|tools=short}}
+| 14.86
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0081
+| 
+| {{Relation|30999|tools=short}}
+| 19.71
+| 1
+| rcn
+| ?
+
+|-
+|  <span style="display:none">4</span>0082
+| 
+| {{Relation|31000|tools=short}}
+| 14.39
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">2</span>33
+| Šumavská magistrála
+| {{Relation|31977|tools=short}}
+| 194.87
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1033
+| 
+| {{Relation|31978|tools=short}}
+| 40.26
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>2
+| Praha-Dresden
+| {{Relation|32835|tools=short}}
+| 162.55
+| 6
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>1113
+| 
+| {{Relation|33639|tools=short}}
+| 17.2
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1242
+| 
+| {{Relation|33640|tools=short}}
+| 14.22
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1241
+| 
+| {{Relation|33641|tools=short}}
+| 8.9
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1115
+| 
+| {{Relation|33642|tools=short}}
+| 3.98
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3052
+| 
+| {{Relation|34071|tools=short}}
+| 1.79
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3013
+| 
+| {{Relation|34072|tools=short}}
+| 10.33
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1023
+| 
+| {{Relation|36244|tools=short}}
+| 38.4
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1028
+| 
+| {{Relation|36245|tools=short}}
+| 1.85
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3059
+| 
+| {{Relation|36419|tools=short}}
+| 22.4
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3016
+| 
+| {{Relation|36420|tools=short}}
+| 38.91
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>3006
+| 
+| {{Relation|36423|tools=short}}
+| 79.16
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>21
+| 
+| {{Relation|38927|tools=short}}
+| 60.32
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>3014
+| Rumburk-Zahrady-Mikulášovice-Dolní Poustevna
+| {{Relation|66366|tools=short}}
+| 13.67
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2127
+| 
+| {{Relation|66451|tools=short}}
+| 15.53
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>22
+| 
+| {{Relation|75408|tools=short}}
+| 162.51
+| 10
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>3019
+| 
+| {{Relation|75414|tools=short}}
+| 4.46
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3020
+| 
+| {{Relation|75420|tools=short}}
+| 42.62
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3023
+| 
+| {{Relation|75421|tools=short}}
+| 17.61
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>3029
+| Vysoká Lípa-Na Tokáni-U Sloupu-Kyjov-Vlčí Hora
+| {{Relation|75725|tools=short}}
+| 8.38
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0013
+| Řeporyje-Karlštejn
+| {{Relation|108306|tools=short}}
+| 18.66
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0027
+| 
+| {{Relation|108308|tools=short}}
+| 8.19
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0021
+| 
+| {{Relation|108311|tools=short}}
+| 17.35
+| 7
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0026
+| Královice-Říčany
+| {{Relation|108317|tools=short}}
+| 6.05
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0035
+| 
+| {{Relation|108324|tools=short}}
+| 5.91
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0036
+| Horní počernice-Klánovice
+| {{Relation|108325|tools=short}}
+| 2.94
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>241
+| 
+| {{Relation|108344|tools=short}}
+| 88.56
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>141
+| 
+| {{Relation|108345|tools=short}}
+| 13.46
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0034
+| Ctěnice-Zeleneč
+| {{Relation|108347|tools=short}}
+| 6.24
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4204
+| 
+| {{Relation|110379|tools=short}}
+| 6.24
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4029
+| 
+| {{Relation|110380|tools=short}}
+| 4.08
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>12
+| 
+| {{Relation|112079|tools=short}}
+| 115.33
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>25
+| 
+| {{Relation|121165|tools=short}}
+| 59.65
+| 8
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>3046
+| 
+| {{Relation|121176|tools=short}}
+| 2.69
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3032
+| Kyjov-Zadní Doubice-Kopec-Brtníky
+| {{Relation|124591|tools=short}}
+| 10.29
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>3043
+| Filipov-Jiříkov-Šluknov-Lobendava-Dolní Poustevna
+| {{Relation|125464|tools=short}}
+| 17.6
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0028
+| 
+| {{Relation|125535|tools=short}}
+| 17.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0030
+| 
+| {{Relation|125539|tools=short}}
+| 6.14
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0085
+| 
+| {{Relation|125581|tools=short}}
+| 0.68
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0087
+| 
+| {{Relation|125582|tools=short}}
+| 8.49
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0086
+| 
+| {{Relation|125593|tools=short}}
+| 4.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0088
+| 
+| {{Relation|125594|tools=short}}
+| 19.59
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0126
+| 
+| {{Relation|125599|tools=short}}
+| 23.87
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0125
+| 
+| {{Relation|125601|tools=short}}
+| 0.12
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0109
+| 
+| {{Relation|125607|tools=short}}
+| 0.77
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3030
+| 
+| {{Relation|131831|tools=short}}
+| 12.7
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0079
+| 
+| {{Relation|131877|tools=short}}
+| 12.35
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>0080
+| 
+| {{Relation|131878|tools=short}}
+| 13.72
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>0018
+| Okoř-Družec
+| {{Relation|131884|tools=short}}
+| 22.34
+| 3
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>0101
+| Algida cesta
+| {{Relation|133281|tools=short}}
+| 11.46
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3031
+| 
+| {{Relation|139165|tools=short}}
+| 7.81
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>3
+| Praha-Plzeň-Regensburg
+| {{Relation|142464|tools=short}}
+| 173.4
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">1</span>5
+| Jantarová stezka
+| {{Relation|148159|tools=short}}
+| 261.25
+| 13
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>3042
+| Šluknov-Království-Rumburk-Filipov
+| {{Relation|150995|tools=short}}
+| 7.74
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5231
+| 
+| {{Relation|154371|tools=short}}
+| 21.76
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5005
+| Brněnské kolečko
+| {{Relation|158284|tools=short}}
+| 71.63
+| 7
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>23
+| 
+| {{Relation|158971|tools=short}}
+| 135.86
+| 1
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>8129
+| 
+| {{Relation|162053|tools=short}}
+| 16
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8130
+| 
+| {{Relation|162062|tools=short}}
+| 14.29
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| Mníšek pod Brdy-Zbraslav
+| {{Relation|162065|tools=short}}
+| 48.86
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>0029
+| 
+| {{Relation|162088|tools=short}}
+| 10.56
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0020
+| 
+| {{Relation|162091|tools=short}}
+| 13.97
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">1</span>4
+| Brno-Wien
+| {{Relation|163126|tools=short}}
+| 61.12
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1099
+| 
+| {{Relation|163412|tools=short}}
+| 5
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4183
+| 
+| {{Relation|164300|tools=short}}
+| 3.4
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>12A
+| 
+| {{Relation|164385|tools=short}}
+| 2.06
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1051
+| 
+| {{Relation|164397|tools=short}}
+| 3.68
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1081
+| 
+| {{Relation|164398|tools=short}}
+| 17.6
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1103
+| 
+| {{Relation|164468|tools=short}}
+| 2.54
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1090
+| 
+| {{Relation|164501|tools=short}}
+| 7.73
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1085
+| 
+| {{Relation|164502|tools=short}}
+| 23.35
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1196
+| 
+| {{Relation|164515|tools=short}}
+| 0.77
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1084
+| 
+| {{Relation|164544|tools=short}}
+| 8.45
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>36
+| 
+| {{Relation|164624|tools=short}}
+| 221.43
+| 11
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>37
+| Plzeň-Železná
+| {{Relation|168331|tools=short}}
+| 89.5
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|168616|tools=short}}
+| 0.57
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|168617|tools=short}}
+| 0.39
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6081
+| 
+| {{Relation|172089|tools=short}}
+| 9.12
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6084
+| 
+| {{Relation|174534|tools=short}}
+| 10.57
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>461
+| 
+| {{Relation|174543|tools=short}}
+| 7.06
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6181
+| 
+| {{Relation|174544|tools=short}}
+| 8.81
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6176
+| 
+| {{Relation|174545|tools=short}}
+| 9.89
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5056
+| 
+| {{Relation|174577|tools=short}}
+| 50.2
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>46
+| 
+| {{Relation|174594|tools=short}}
+| 163.96
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>49
+| 
+| {{Relation|174602|tools=short}}
+| 30.55
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5052
+| 
+| {{Relation|174604|tools=short}}
+| 26.79
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>103
+| 
+| {{Relation|175205|tools=short}}
+| 36.29
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5130
+| 
+| {{Relation|175206|tools=short}}
+| 1.47
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5172
+| 
+| {{Relation|175290|tools=short}}
+| 23.49
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5171
+| 
+| {{Relation|175291|tools=short}}
+| 35.06
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0095
+| 
+| {{Relation|176410|tools=short}}
+| 9.59
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>8132
+| 
+| {{Relation|176411|tools=short}}
+| 4.03
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>111
+| 
+| {{Relation|176429|tools=short}}
+| 13.69
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>112
+| 
+| {{Relation|176430|tools=short}}
+| 2.43
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>11a
+| 
+| {{Relation|176490|tools=short}}
+| 0.27
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1154
+| 
+| {{Relation|176491|tools=short}}
+| 0.1
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0042
+| 
+| {{Relation|176492|tools=short}}
+| 0.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0075
+| 
+| {{Relation|176493|tools=short}}
+| 3.29
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0074
+| 
+| {{Relation|176501|tools=short}}
+| 0.19
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1176
+| 
+| {{Relation|176504|tools=short}}
+| 0.22
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1175
+| 
+| {{Relation|176505|tools=short}}
+| 0.3
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1206
+| 
+| {{Relation|176548|tools=short}}
+| 0.61
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>31
+| Plzeň-Lnáře
+| {{Relation|176549|tools=short}}
+| 21.76
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>32
+| 
+| {{Relation|176550|tools=short}}
+| 87.96
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1171
+| 
+| {{Relation|176566|tools=short}}
+| 4.76
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1136
+| 
+| {{Relation|176567|tools=short}}
+| 1.12
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1133
+| 
+| {{Relation|176568|tools=short}}
+| 3.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1060
+| 
+| {{Relation|176587|tools=short}}
+| 4.81
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1061
+| 
+| {{Relation|176588|tools=short}}
+| 1.32
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1056
+| 
+| {{Relation|176589|tools=short}}
+| 4.28
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1082
+| 
+| {{Relation|176608|tools=short}}
+| 4.06
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1109
+| 
+| {{Relation|176610|tools=short}}
+| 2.01
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1108
+| 
+| {{Relation|176612|tools=short}}
+| 3.37
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>122
+| 
+| {{Relation|176613|tools=short}}
+| 32.54
+| 6
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1121
+| 
+| {{Relation|176619|tools=short}}
+| 16.44
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1197
+| 
+| {{Relation|176623|tools=short}}
+| 7.51
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1135
+| 
+| {{Relation|176624|tools=short}}
+| 11.95
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1169
+| 
+| {{Relation|176634|tools=short}}
+| 27.24
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1199
+| 
+| {{Relation|176650|tools=short}}
+| 9.36
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1245
+| 
+| {{Relation|176651|tools=short}}
+| 16.24
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>1200
+| 
+| {{Relation|176652|tools=short}}
+| 0.24
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1188
+| 
+| {{Relation|176653|tools=short}}
+| 15.8
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>34
+| 
+| {{Relation|176654|tools=short}}
+| 78.93
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>302
+| 
+| {{Relation|176715|tools=short}}
+| 0.88
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>303
+| 
+| {{Relation|176716|tools=short}}
+| 0.42
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>006
+| 
+| {{Relation|176721|tools=short}}
+| 0.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2252
+| 
+| {{Relation|176759|tools=short}}
+| 0.98
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2153
+| 
+| {{Relation|176760|tools=short}}
+| 1.03
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2157
+| 
+| {{Relation|176761|tools=short}}
+| 0.28
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2158
+| 
+| {{Relation|176777|tools=short}}
+| 0.28
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2124
+| 
+| {{Relation|176778|tools=short}}
+| 10.62
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>35
+| Plzeň-Měděnec
+| {{Relation|176855|tools=short}}
+| 35.91
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>2259
+| 
+| {{Relation|176893|tools=short}}
+| 12.27
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>2204
+| 
+| {{Relation|176909|tools=short}}
+| 8.61
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>306
+| 
+| {{Relation|176911|tools=short}}
+| 10.3
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>2223
+| 
+| {{Relation|176912|tools=short}}
+| 0.07
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2211
+| 
+| {{Relation|176915|tools=short}}
+| 6.38
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2240
+| 
+| {{Relation|176931|tools=short}}
+| 0.12
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2235
+| 
+| {{Relation|176941|tools=short}}
+| 13.18
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2235a
+| 
+| {{Relation|176942|tools=short}}
+| 0.18
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2237
+| 
+| {{Relation|176957|tools=short}}
+| 0.24
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2238
+| 
+| {{Relation|176972|tools=short}}
+| 33.66
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2207
+| 
+| {{Relation|176973|tools=short}}
+| 4.19
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2238a
+| 
+| {{Relation|176974|tools=short}}
+| 1.84
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>322
+| 
+| {{Relation|177055|tools=short}}
+| 12.31
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>24
+| 
+| {{Relation|178469|tools=short}}
+| 41.51
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>2
+| 
+| {{Relation|178475|tools=short}}
+| 5.69
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0057
+| 
+| {{Relation|178476|tools=short}}
+| 26.77
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0010
+| 
+| {{Relation|178477|tools=short}}
+| 2.17
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3053
+| 
+| {{Relation|178510|tools=short}}
+| 21.71
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3086
+| 
+| {{Relation|178511|tools=short}}
+| 2.8
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3098
+| 
+| {{Relation|178512|tools=short}}
+| 7.11
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3100
+| 
+| {{Relation|178517|tools=short}}
+| 6.01
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3054
+| 
+| {{Relation|178528|tools=short}}
+| 14.23
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3056
+| 
+| {{Relation|178585|tools=short}}
+| 7.41
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>211
+| Rožany-Krásná Lípa-Chřibská-Kytlice-Kamenický Šenov-Stružnice-Holany-Dubá
+| {{Relation|178587|tools=short}}
+| 87.86
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0003
+| 
+| {{Relation|178774|tools=short}}
+| 1.5
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>143
+| 
+| {{Relation|178784|tools=short}}
+| 24.99
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>142
+| 
+| {{Relation|178785|tools=short}}
+| 13.24
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5219
+| 
+| {{Relation|180434|tools=short}}
+| 3.57
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4348
+| 
+| {{Relation|181071|tools=short}}
+| 7.75
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4334
+| 
+| {{Relation|181072|tools=short}}
+| 1.15
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|181073|tools=short}}
+| 1.96
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>0019
+| labská pravobřežní
+| {{Relation|181088|tools=short}}
+| 28.02
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>24
+| Labská
+| {{Relation|181093|tools=short}}
+| 53.69
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0124
+| 
+| {{Relation|181130|tools=short}}
+| 3.55
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0037
+| 
+| {{Relation|181134|tools=short}}
+| 11.04
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0041
+| 
+| {{Relation|181136|tools=short}}
+| 7.63
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5170
+| 
+| {{Relation|184721|tools=short}}
+| 31.04
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>403
+| 
+| {{Relation|184722|tools=short}}
+| 7.48
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>403a
+| 
+| {{Relation|184723|tools=short}}
+| 3.65
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>8162
+| 
+| {{Relation|192571|tools=short}}
+| 11.02
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8145
+| 
+| {{Relation|192576|tools=short}}
+| 16.36
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8202
+| 
+| {{Relation|192577|tools=short}}
+| 6.12
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8151
+| 
+| {{Relation|192578|tools=short}}
+| 11.46
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8157
+| 
+| {{Relation|192579|tools=short}}
+| 3.47
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8160
+| 
+| {{Relation|192587|tools=short}}
+| 0.19
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0038
+| 
+| {{Relation|192589|tools=short}}
+| 0.65
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8149
+| 
+| {{Relation|192613|tools=short}}
+| 5.55
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>52
+| 
+| {{Relation|195813|tools=short}}
+| 32.75
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6044
+| 6044
+| {{Relation|195843|tools=short}}
+| 13.7
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">4</span>2055
+| 
+| {{Relation|196537|tools=short}}
+| 30.99
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1251
+| 
+| {{Relation|198114|tools=short}}
+| 4.38
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1254
+| 
+| {{Relation|198115|tools=short}}
+| 6.75
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1255
+| 
+| {{Relation|198116|tools=short}}
+| 1.9
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3055
+| 
+| {{Relation|214992|tools=short}}
+| 3.11
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2100
+| 
+| {{Relation|215602|tools=short}}
+| 11.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2113
+| 
+| {{Relation|215700|tools=short}}
+| 26.39
+| 3
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>1041
+| 
+| {{Relation|215709|tools=short}}
+| 6.37
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1042
+| 
+| {{Relation|215711|tools=short}}
+| 5.06
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2122
+| 
+| {{Relation|215715|tools=short}}
+| 3.08
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2114
+| 
+| {{Relation|215716|tools=short}}
+| 7.06
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2121
+| 
+| {{Relation|215717|tools=short}}
+| 0.68
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2115
+| 
+| {{Relation|215723|tools=short}}
+| 2.28
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2116
+| 
+| {{Relation|215724|tools=short}}
+| 6.12
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">4</span>2119
+| 
+| {{Relation|215741|tools=short}}
+| 1.24
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>332
+| 
+| {{Relation|215742|tools=short}}
+| 26.64
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>2118
+| 
+| {{Relation|215769|tools=short}}
+| 1.66
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2117
+| 
+| {{Relation|215770|tools=short}}
+| 1.65
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2120
+| 
+| {{Relation|215773|tools=short}}
+| 4.45
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>1020
+| 
+| {{Relation|215775|tools=short}}
+| 0.81
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3018
+| 
+| {{Relation|222232|tools=short}}
+| 36.18
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4326
+| 
+| {{Relation|222267|tools=short}}
+| 4.36
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4306
+| 
+| {{Relation|222314|tools=short}}
+| 4.56
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4095
+| 
+| {{Relation|222321|tools=short}}
+| 4.11
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4020
+| 
+| {{Relation|222352|tools=short}}
+| 7.43
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4152
+| 
+| {{Relation|222353|tools=short}}
+| 1.9
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4281
+| 
+| {{Relation|222355|tools=short}}
+| 3.78
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4032
+| 
+| {{Relation|222357|tools=short}}
+| 5.55
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6041
+| 
+| {{Relation|222616|tools=short}}
+| 26.31
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>55
+| 
+| {{Relation|222625|tools=short}}
+| 52.8
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>64
+| 
+| {{Relation|223331|tools=short}}
+| 0.36
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0068
+| 
+| {{Relation|223332|tools=short}}
+| 0.89
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0106
+| 
+| {{Relation|223506|tools=short}}
+| 0.19
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0122
+| 
+| {{Relation|223507|tools=short}}
+| 0.24
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>101
+| 
+| {{Relation|223525|tools=short}}
+| 26.67
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0071
+| 
+| {{Relation|223526|tools=short}}
+| 5.29
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0073
+| 
+| {{Relation|223527|tools=short}}
+| 0.09
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0072
+| 
+| {{Relation|223528|tools=short}}
+| 0.13
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0004
+| 
+| {{Relation|223551|tools=short}}
+| 0.18
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4155
+| 
+| {{Relation|223553|tools=short}}
+| 1.45
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>19A
+| 
+| {{Relation|223554|tools=short}}
+| 1.75
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>19B
+| 
+| {{Relation|223571|tools=short}}
+| 0.18
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1211
+| 
+| {{Relation|223634|tools=short}}
+| 3.18
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>19C
+| 
+| {{Relation|223635|tools=short}}
+| 0.22
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4153
+| 
+| {{Relation|223638|tools=short}}
+| 1.03
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4157
+| 
+| {{Relation|223639|tools=short}}
+| 1.63
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>16
+| 
+| {{Relation|223690|tools=short}}
+| 1.34
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>4335
+| 
+| {{Relation|223691|tools=short}}
+| 0.1
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0053
+| 
+| {{Relation|224185|tools=short}}
+| 3.97
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1034
+| 
+| {{Relation|225400|tools=short}}
+| 25.19
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1035
+| 
+| {{Relation|225401|tools=short}}
+| 6.32
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>53
+| 
+| {{Relation|225567|tools=short}}
+| 27.9
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>51
+| 
+| {{Relation|226242|tools=short}}
+| 39.14
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>511
+| 
+| {{Relation|226244|tools=short}}
+| 36.86
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>553
+| 
+| {{Relation|226261|tools=short}}
+| 10.92
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>47
+| 
+| {{Relation|226262|tools=short}}
+| 121.64
+| 7
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>473
+| 
+| {{Relation|226263|tools=short}}
+| 94.04
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>2205
+| 
+| {{Relation|226264|tools=short}}
+| 3.51
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>41
+| 
+| {{Relation|226272|tools=short}}
+| 37.33
+| 2
+| ncn
+| yes
+
+|-
+|  <span style="display:none">3</span>512
+| 
+| {{Relation|226447|tools=short}}
+| 9.74
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6053
+| 
+| {{Relation|226448|tools=short}}
+| 18.17
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6114
+| 
+| {{Relation|226449|tools=short}}
+| 0.78
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6058
+| 
+| {{Relation|226450|tools=short}}
+| 0.93
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>412
+| 
+| {{Relation|226458|tools=short}}
+| 73.73
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5045
+| 
+| {{Relation|226459|tools=short}}
+| 8.93
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5066
+| 
+| {{Relation|226460|tools=short}}
+| 24.88
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5008
+| 
+| {{Relation|226461|tools=short}}
+| 18.66
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>47A
+| 
+| {{Relation|226463|tools=short}}
+| 11.58
+| 1
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>1170
+| 
+| {{Relation|226471|tools=short}}
+| 19.54
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1243
+| 
+| {{Relation|226472|tools=short}}
+| 4.75
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1107
+| 
+| {{Relation|226473|tools=short}}
+| 4.27
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1106
+| 
+| {{Relation|226474|tools=short}}
+| 1.08
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1105
+| 
+| {{Relation|226475|tools=short}}
+| 5.7
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1195
+| 
+| {{Relation|226476|tools=short}}
+| 1.03
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1182
+| 
+| {{Relation|226477|tools=short}}
+| 0.45
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6026
+| 
+| {{Relation|226478|tools=short}}
+| 21.09
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6235
+| 
+| {{Relation|226479|tools=short}}
+| 6.86
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6033
+| 
+| {{Relation|226480|tools=short}}
+| 22.93
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6245
+| 
+| {{Relation|226481|tools=short}}
+| 2.27
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6027
+| 
+| {{Relation|226482|tools=short}}
+| 23.37
+| 1
+| rcn
+| probably yes
+
+|-
+|  <span style="display:none">4</span>6106
+| 
+| {{Relation|226484|tools=short}}
+| 0.59
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6009
+| 
+| {{Relation|226485|tools=short}}
+| 13.85
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6202
+| 
+| {{Relation|226486|tools=short}}
+| 5.07
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6204
+| 
+| {{Relation|226487|tools=short}}
+| 17.35
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6107
+| 
+| {{Relation|226498|tools=short}}
+| 14.75
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6056
+| 
+| {{Relation|226499|tools=short}}
+| 4.53
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6029
+| 
+| {{Relation|226500|tools=short}}
+| 42.34
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6052
+| 
+| {{Relation|226501|tools=short}}
+| 10.11
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6032
+| 
+| {{Relation|226502|tools=short}}
+| 9.27
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6031
+| 
+| {{Relation|226503|tools=short}}
+| 6.15
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5013
+| 
+| {{Relation|226504|tools=short}}
+| 60.2
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5018
+| 
+| {{Relation|226505|tools=short}}
+| 17.35
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5157
+| 
+| {{Relation|226506|tools=short}}
+| 4.09
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5150
+| 
+| {{Relation|226507|tools=short}}
+| 31.81
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5151
+| 
+| {{Relation|226508|tools=short}}
+| 30.97
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5014
+| 
+| {{Relation|226509|tools=short}}
+| 28.15
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6025
+| 
+| {{Relation|226541|tools=short}}
+| 25.56
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6025A
+| 
+| {{Relation|226542|tools=short}}
+| 1.17
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6205
+| 
+| {{Relation|226543|tools=short}}
+| 1.68
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6227
+| 
+| {{Relation|226544|tools=short}}
+| 2.46
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6036
+| 
+| {{Relation|226545|tools=short}}
+| 3.55
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6028
+| 
+| {{Relation|226546|tools=short}}
+| 15.23
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6243
+| 
+| {{Relation|226547|tools=short}}
+| 7.11
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6030
+| 
+| {{Relation|226548|tools=short}}
+| 0.95
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6102
+| 
+| {{Relation|226549|tools=short}}
+| 2.96
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6105
+| 
+| {{Relation|226550|tools=short}}
+| 6.73
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6051
+| 
+| {{Relation|226552|tools=short}}
+| 2.47
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5075
+| 
+| {{Relation|226553|tools=short}}
+| 14.1
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5050
+| 
+| {{Relation|226554|tools=short}}
+| 34.06
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3066
+| 
+| {{Relation|226557|tools=short}}
+| 0.23
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>231
+| 
+| {{Relation|226558|tools=short}}
+| 1.35
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6077
+| 
+| {{Relation|226563|tools=short}}
+| 0.14
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>11
+| Praha-Lom
+| {{Relation|227469|tools=short}}
+| 108.36
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>48
+| 
+| {{Relation|227470|tools=short}}
+| 110.22
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">2</span>38
+| 
+| {{Relation|240942|tools=short}}
+| 25.09
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>3007
+| Ještěd-Stráž pod Ralskem
+| {{Relation|254614|tools=short}}
+| 0.96
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>5241
+| 
+| {{Relation|275468|tools=short}}
+| 24.76
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8154
+| 
+| {{Relation|280672|tools=short}}
+| 9.87
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|280693|tools=short}}
+| 4.24
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2185
+| 
+| {{Relation|282249|tools=short}}
+| 8
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2152
+| Klatovy - Nýrsko
+| {{Relation|282258|tools=short}}
+| 19.15
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>1166
+| 
+| {{Relation|283516|tools=short}}
+| 18.87
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1166A
+| 
+| {{Relation|283517|tools=short}}
+| 2.81
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>2032
+| 
+| {{Relation|284003|tools=short}}
+| 4.77
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2151
+| okruh okolo Plzně
+| {{Relation|287032|tools=short}}
+| 47.43
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0012
+| 
+| {{Relation|302392|tools=short}}
+| 0.37
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0009
+| 
+| {{Relation|308093|tools=short}}
+| 14.85
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0008
+| 
+| {{Relation|308094|tools=short}}
+| 10.26
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5009
+| 
+| {{Relation|325835|tools=short}}
+| 27.58
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>121
+| 
+| {{Relation|332014|tools=short}}
+| 5.83
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1071
+| 
+| {{Relation|332015|tools=short}}
+| 3.32
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1192
+| 
+| {{Relation|332019|tools=short}}
+| 11.41
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>8131
+| 
+| {{Relation|333269|tools=short}}
+| 8.79
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|333271|tools=short}}
+| 24.76
+| 4
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| Jíloviště-Mníšek pod Brdy-Černolice
+| {{Relation|333457|tools=short}}
+| 28.36
+| 6
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2053
+| Suché studánky-Zelená Lhota
+| {{Relation|333919|tools=short}}
+| 0.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2034
+| 
+| {{Relation|333940|tools=short}}
+| 4.73
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>2093
+| 
+| {{Relation|333941|tools=short}}
+| 0.16
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>3085
+| Paseky nad Jizerou-Martinské údolí
+| {{Relation|339203|tools=short}}
+| 14.59
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>1193
+| 
+| {{Relation|358078|tools=short}}
+| 15.08
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1007
+| 
+| {{Relation|361381|tools=short}}
+| 5.87
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>4174
+| Sachrův hřeben-Vysoké nad Jizerou
+| {{Relation|367825|tools=short}}
+| 5.46
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4175
+| Žel. Brod – Semily – Kundratice – Karlov – Stará Paka - Nová Paka 35km
+| {{Relation|368655|tools=short}}
+| 14.71
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6129
+| 
+| {{Relation|370155|tools=short}}
+| 4.33
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6104
+| 
+| {{Relation|370189|tools=short}}
+| 7.19
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1096
+| 
+| {{Relation|370193|tools=short}}
+| 3.35
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1018
+| 
+| {{Relation|370194|tools=short}}
+| 16.32
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1050
+| 
+| {{Relation|370195|tools=short}}
+| 9.44
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1052
+| 
+| {{Relation|370196|tools=short}}
+| 0.32
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0076
+| 
+| {{Relation|371430|tools=short}}
+| 14.93
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0093
+| 
+| {{Relation|371431|tools=short}}
+| 11.78
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4170
+| 
+| {{Relation|371632|tools=short}}
+| 6.6
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6075
+| 
+| {{Relation|387405|tools=short}}
+| 15.42
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3033
+| Turistický most-silnice Vlčí Hora-Brtníky
+| {{Relation|388754|tools=short}}
+| 3.28
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5189
+| Údolím Bílého potoka
+| {{Relation|406338|tools=short}}
+| 11.51
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>5006
+| 
+| {{Relation|408400|tools=short}}
+| 33.68
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0060
+| 
+| {{Relation|412902|tools=short}}
+| 2.11
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3038
+| 
+| {{Relation|415454|tools=short}}
+| 30
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>4310
+| 
+| {{Relation|443750|tools=short}}
+| 1.94
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>404
+| 
+| {{Relation|444819|tools=short}}
+| 5.63
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5062
+| 
+| {{Relation|444860|tools=short}}
+| 10.55
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5113
+| 
+| {{Relation|444861|tools=short}}
+| 4.13
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5149
+| 
+| {{Relation|444868|tools=short}}
+| 8.02
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5043
+| 
+| {{Relation|444883|tools=short}}
+| 27.77
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5173
+| 
+| {{Relation|448602|tools=short}}
+| 17.68
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">5</span>6020-3
+| 
+| {{Relation|448717|tools=short}}
+| 8.55
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6190
+| 
+| {{Relation|453233|tools=short}}
+| 11.29
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|536640|tools=short}}
+| 2.29
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|536641|tools=short}}
+| 3.79
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|536642|tools=short}}
+| 1.62
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>6126
+| 
+| {{Relation|538850|tools=short}}
+| 6.6
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">3</span>411
+| 
+| {{Relation|542266|tools=short}}
+| 0.21
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6073
+| 
+| {{Relation|546150|tools=short}}
+| 9.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6159
+| 
+| {{Relation|546151|tools=short}}
+| 27.58
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6166
+| 
+| {{Relation|546152|tools=short}}
+| 17.41
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6160
+| 
+| {{Relation|546153|tools=short}}
+| 32.94
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6167
+| 
+| {{Relation|546154|tools=short}}
+| 14.35
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>4025
+| 
+| {{Relation|551848|tools=short}}
+| 37.15
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1118
+| 
+| {{Relation|574903|tools=short}}
+| 4.14
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>551
+| Kružberk-Opava
+| {{Relation|610951|tools=short}}
+| 41.79
+| 1
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>6078
+| 
+| {{Relation|610953|tools=short}}
+| 37.51
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6055
+| 
+| {{Relation|610959|tools=short}}
+| 21.45
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6199
+| 
+| {{Relation|610962|tools=short}}
+| 23.2
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6198
+| 
+| {{Relation|610964|tools=short}}
+| 12.88
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6092
+| 
+| {{Relation|611004|tools=short}}
+| 25.83
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6054
+| 
+| {{Relation|611055|tools=short}}
+| 24.55
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6096
+| 
+| {{Relation|611057|tools=short}}
+| 9.37
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6153
+| 
+| {{Relation|611058|tools=short}}
+| 7.85
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6095
+| 
+| {{Relation|611063|tools=short}}
+| 11.2
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5124
+| 
+| {{Relation|611143|tools=short}}
+| 4.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6168
+| 
+| {{Relation|611206|tools=short}}
+| 5.27
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6164
+| 
+| {{Relation|611213|tools=short}}
+| 30.29
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">3</span>503
+| 
+| {{Relation|611232|tools=short}}
+| 24.73
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6221
+| 
+| {{Relation|611309|tools=short}}
+| 16.34
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5212
+| 
+| {{Relation|659664|tools=short}}
+| 5.31
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4345
+| 
+| {{Relation|906090|tools=short}}
+| 2.06
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6063
+| 
+| {{Relation|919501|tools=short}}
+| 6.85
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2125
+| 
+| {{Relation|934459|tools=short}}
+| 22.81
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6140
+| 
+| {{Relation|945604|tools=short}}
+| 20.05
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6011
+| 
+| {{Relation|945605|tools=short}}
+| 6.32
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2268
+| 
+| {{Relation|949141|tools=short}}
+| 6.21
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2271
+| 
+| {{Relation|949146|tools=short}}
+| 27.36
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2266
+| 
+| {{Relation|949178|tools=short}}
+| 2.98
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>308
+| 
+| {{Relation|951087|tools=short}}
+| 18.64
+| 3
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>1078
+| 
+| {{Relation|952463|tools=short}}
+| 15.15
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5007
+| 
+| {{Relation|955149|tools=short}}
+| 12.7
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5011
+| 
+| {{Relation|955150|tools=short}}
+| 9.01
+| 2
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>5077
+| Adamov-Jedovnice
+| {{Relation|959179|tools=short}}
+| 16.52
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| spojka 5077-5081
+| {{Relation|959941|tools=short}}
+| 1.51
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">4</span>5081
+| 
+| {{Relation|959942|tools=short}}
+| 24.85
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|959943|tools=short}}
+| 1.95
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| spojka 5077-5081
+| {{Relation|961406|tools=short}}
+| 1.31
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">4</span>1127
+| 
+| {{Relation|966773|tools=short}}
+| 11.57
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0017
+| 
+| {{Relation|968242|tools=short}}
+| 28.32
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>4206
+| Horní Branná – Martinice – Peřimovský most 16,5km
+| {{Relation|968970|tools=short}}
+| 16.21
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>4171
+| Jilemnice – Lomnice n. P. 46km
+| {{Relation|968971|tools=short}}
+| 15.88
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4173
+| Jesenný – Roprachtice- Mříčná 20km
+| {{Relation|968992|tools=short}}
+| 6.35
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0101A
+| 
+| {{Relation|969803|tools=short}}
+| 1.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0049
+| Nižbor-
+| {{Relation|977546|tools=short}}
+| 1.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6135
+| 
+| {{Relation|1014873|tools=short}}
+| 5.64
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6136
+| 
+| {{Relation|1014875|tools=short}}
+| 5.02
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6134
+| 
+| {{Relation|1014905|tools=short}}
+| 3.89
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0025
+| 
+| {{Relation|1015035|tools=short}}
+| 1.2
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8134
+| 
+| {{Relation|1015445|tools=short}}
+| 0.34
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8195
+| 
+| {{Relation|1015568|tools=short}}
+| 25.82
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2141
+| 
+| {{Relation|1016302|tools=short}}
+| 21.27
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2154
+| 
+| {{Relation|1016498|tools=short}}
+| 7.95
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2126
+| 
+| {{Relation|1016499|tools=short}}
+| 1.21
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5061
+| 
+| {{Relation|1016951|tools=short}}
+| 24.75
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1194
+| 
+| {{Relation|1017241|tools=short}}
+| 6.66
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1168
+| 
+| {{Relation|1017287|tools=short}}
+| 13.87
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>1047
+| 
+| {{Relation|1017288|tools=short}}
+| 4.65
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2251
+| 
+| {{Relation|1018964|tools=short}}
+| 5.37
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>4207
+| Pod Kozincem – Jilemnice – Horní Branná 11km
+| {{Relation|1019623|tools=short}}
+| 10.61
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5079
+| 
+| {{Relation|1019789|tools=short}}
+| 2.78
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>5A
+| 
+| {{Relation|1019791|tools=short}}
+| 7.79
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5119
+| 
+| {{Relation|1019792|tools=short}}
+| 8.45
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5082
+| 
+| {{Relation|1019793|tools=short}}
+| 2.6
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5029
+| 
+| {{Relation|1020148|tools=short}}
+| 10.05
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5031
+| 
+| {{Relation|1020214|tools=short}}
+| 5.83
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5040
+| 
+| {{Relation|1020240|tools=short}}
+| 41.18
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5041
+| 
+| {{Relation|1020241|tools=short}}
+| 7.59
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>126
+| 
+| {{Relation|1020378|tools=short}}
+| 2.75
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">3</span>481
+| 
+| {{Relation|1020379|tools=short}}
+| 5.71
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5000
+| 
+| {{Relation|1024525|tools=short}}
+| 10.23
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5122
+| 
+| {{Relation|1025501|tools=short}}
+| 1.01
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1040
+| 
+| {{Relation|1027564|tools=short}}
+| 4.99
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>1246
+| 
+| {{Relation|1027565|tools=short}}
+| 4.5
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6141
+| 
+| {{Relation|1028028|tools=short}}
+| 24.26
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>1088
+| 
+| {{Relation|1028279|tools=short}}
+| 1.91
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6193
+| 
+| {{Relation|1028822|tools=short}}
+| 14.65
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>2128
+| 
+| {{Relation|1043245|tools=short}}
+| 10.24
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>5147
+| 
+| {{Relation|1046987|tools=short}}
+| 6.39
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5163
+| 
+| {{Relation|1057480|tools=short}}
+| 5.96
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5143
+| 
+| {{Relation|1060718|tools=short}}
+| 3.14
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5226
+| 
+| {{Relation|1060722|tools=short}}
+| 6.85
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5117
+| 
+| {{Relation|1060818|tools=short}}
+| 15.46
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5028
+| 
+| {{Relation|1060830|tools=short}}
+| 3.35
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5044
+| 
+| {{Relation|1066188|tools=short}}
+| 13.69
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4294
+| Libštát – Karlov – Dolní Kalná – Hostinné  31km
+| {{Relation|1067936|tools=short}}
+| 28.21
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3047
+| 
+| {{Relation|1069715|tools=short}}
+| 29.37
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>401
+| 
+| {{Relation|1069838|tools=short}}
+| 15.03
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6200
+| 
+| {{Relation|1070533|tools=short}}
+| 20.89
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>4012
+| 
+| {{Relation|1070734|tools=short}}
+| 16.48
+| 5
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6192
+| 
+| {{Relation|1070794|tools=short}}
+| 15.61
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6064
+| Havířov-Šimška-Horní Datyně-Vratimov
+| {{Relation|1070838|tools=short}}
+| 14.44
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6165
+| 
+| {{Relation|1070966|tools=short}}
+| 13.6
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>3048
+| 
+| {{Relation|1071031|tools=short}}
+| 0.42
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">3</span>223
+| 
+| {{Relation|1071032|tools=short}}
+| 11.64
+| 1
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>5243
+| 
+| {{Relation|1073949|tools=short}}
+| 8.78
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5257
+| 
+| {{Relation|1073950|tools=short}}
+| 1.54
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5240
+| 
+| {{Relation|1073951|tools=short}}
+| 2.46
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6162
+| 
+| {{Relation|1074382|tools=short}}
+| 24.23
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4078
+| 
+| {{Relation|1074457|tools=short}}
+| 1.52
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3037
+| 
+| {{Relation|1074480|tools=short}}
+| 6.84
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6094
+| 
+| {{Relation|1074523|tools=short}}
+| 6.83
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6093
+| 
+| {{Relation|1074540|tools=short}}
+| 11.95
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6091
+| 
+| {{Relation|1074592|tools=short}}
+| 19.07
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5049
+| 
+| {{Relation|1075793|tools=short}}
+| 38.27
+| 8
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5235
+| 
+| {{Relation|1076409|tools=short}}
+| 21.06
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4300
+| Hostinné – Vlčice – Horní St. Město  19km
+| {{Relation|1077226|tools=short}}
+| 5.51
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4007
+| 
+| {{Relation|1079078|tools=short}}
+| 3.94
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4280
+| 
+| {{Relation|1079079|tools=short}}
+| 1.3
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4006
+| 
+| {{Relation|1079080|tools=short}}
+| 7.38
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3038A
+| 
+| {{Relation|1079417|tools=short}}
+| 2.6
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5071
+| 
+| {{Relation|1083444|tools=short}}
+| 32.43
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>251
+| 
+| {{Relation|1084557|tools=short}}
+| 0.14
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5264
+| 
+| {{Relation|1084729|tools=short}}
+| 3.23
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| Mlynářská stezka
+| {{Relation|1084800|tools=short}}
+| 32.12
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>5175
+| 
+| {{Relation|1084816|tools=short}}
+| 6.11
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1068
+| 
+| {{Relation|1086401|tools=short}}
+| 4.75
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3017
+| 
+| {{Relation|1099759|tools=short}}
+| 5.03
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|1100125|tools=short}}
+| 0.19
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>x4
+| 
+| {{Relation|1100328|tools=short}}
+| 7
+| 1
+| ncn
+| 
+
+|-
+|  <span style="display:none">4</span>1125
+| 
+| {{Relation|1100765|tools=short}}
+| 3.9
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>B
+| 
+| {{Relation|1111601|tools=short}}
+| 4.7
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>A
+| 
+| {{Relation|1111603|tools=short}}
+| 7.43
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>C
+| 
+| {{Relation|1111605|tools=short}}
+| 4.7
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>1100
+| 
+| {{Relation|1124229|tools=short}}
+| 4.13
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1092
+| 
+| {{Relation|1124237|tools=short}}
+| 6.33
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5016
+| 
+| {{Relation|1124249|tools=short}}
+| 8.98
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>471
+| 
+| {{Relation|1124255|tools=short}}
+| 28.93
+| 3
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>5017
+| 
+| {{Relation|1125616|tools=short}}
+| 7.08
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5014
+| 
+| {{Relation|1125617|tools=short}}
+| 0
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5015
+| 
+| {{Relation|1125627|tools=short}}
+| 15.85
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>361
+| Klášter Teplá - Cheb Šlapany
+| {{Relation|1135450|tools=short}}
+| 1.49
+| 1
+| ncn
+| 
+
+|-
+|  <span style="display:none">4</span>2253
+| 
+| {{Relation|1135451|tools=short}}
+| 2.03
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>2135
+| Krásno - Kladská - Kynžvart - Jedlová ...
+| {{Relation|1135453|tools=short}}
+| 23.84
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>2278
+| 
+| {{Relation|1140779|tools=short}}
+| 16.23
+| 2
+| rcn
+| 
+
+|-
+|  <span style="display:none">3</span>351
+| Greenways Jesenice - Rakovník - Křivoklát
+| {{Relation|1140780|tools=short}}
+| 20.26
+| 1
+| ncn
+| 
+
+|-
+|  <span style="display:none">4</span>3035
+| 
+| {{Relation|1153302|tools=short}}
+| 13.86
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>241A
+| 
+| {{Relation|1153514|tools=short}}
+| 3.48
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>8146
+| 
+| {{Relation|1153643|tools=short}}
+| 3.99
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0039
+| 
+| {{Relation|1153644|tools=short}}
+| 8.4
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8156
+| 
+| {{Relation|1153645|tools=short}}
+| 7.37
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8155
+| 
+| {{Relation|1154514|tools=short}}
+| 0.95
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8152
+| 
+| {{Relation|1154646|tools=short}}
+| 0.21
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4247
+| 
+| {{Relation|1155807|tools=short}}
+| 0.46
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4249
+| 
+| {{Relation|1155921|tools=short}}
+| 3.47
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1110
+| 
+| {{Relation|1161940|tools=short}}
+| 3.58
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1054
+| 
+| {{Relation|1161942|tools=short}}
+| 5.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0022
+| 
+| {{Relation|1163484|tools=short}}
+| 10.18
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0023
+| 
+| {{Relation|1163485|tools=short}}
+| 14.05
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4302
+| Kunčice n. L. – Dolní Kalná – Mostek  20km
+| {{Relation|1164814|tools=short}}
+| 7.69
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1198
+| 
+| {{Relation|1165003|tools=short}}
+| 1.67
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>301
+| 
+| {{Relation|1165789|tools=short}}
+| 35.83
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>8133
+| 
+| {{Relation|1166115|tools=short}}
+| 2.19
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8137
+| 
+| {{Relation|1166116|tools=short}}
+| 0.12
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4298
+| Lánov – Fořt – Hostinné  15km
+| {{Relation|1166472|tools=short}}
+| 3.84
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5060
+| 
+| {{Relation|1168805|tools=short}}
+| 21.03
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5054
+| 
+| {{Relation|1168826|tools=short}}
+| 36.3
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5020
+| 
+| {{Relation|1169065|tools=short}}
+| 12.4
+| 3
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5055
+| 
+| {{Relation|1170163|tools=short}}
+| 23.67
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>Svatební
+| 
+| {{Relation|1170447|tools=short}}
+| 4.44
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">4</span>6208
+| 
+| {{Relation|1172846|tools=short}}
+| 7.4
+| 1
+| 
+| 
+
+|-
+|  <span style="display:none">4</span>6156
+| 
+| {{Relation|1174546|tools=short}}
+| 4.95
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>6146
+| 
+| {{Relation|1178028|tools=short}}
+| 28.32
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>6149
+| 
+| {{Relation|1178031|tools=short}}
+| 22.68
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6152
+| 
+| {{Relation|1178032|tools=short}}
+| 9.04
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6142
+| 
+| {{Relation|1178033|tools=short}}
+| 28.31
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>8193
+| 
+| {{Relation|1178130|tools=short}}
+| 3.23
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>0047
+| 
+| {{Relation|1179872|tools=short}}
+| 0.27
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|1183394|tools=short}}
+| 2.74
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>5076
+| 
+| {{Relation|1183533|tools=short}}
+| 0.11
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5080
+| 
+| {{Relation|1184441|tools=short}}
+| 1.13
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>5078
+| 
+| {{Relation|1184442|tools=short}}
+| 1.49
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>5067
+| 
+| {{Relation|1187178|tools=short}}
+| 5.97
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5036
+| 
+| {{Relation|1187184|tools=short}}
+| 26.42
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1122
+| 
+| {{Relation|1187374|tools=short}}
+| 0.04
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1191
+| 
+| {{Relation|1187966|tools=short}}
+| 6.93
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1218
+| 
+| {{Relation|1191242|tools=short}}
+| 3.83
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>161
+| 
+| {{Relation|1191246|tools=short}}
+| 9.61
+| 2
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>0089
+| 
+| {{Relation|1191389|tools=short}}
+| 8.66
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6117
+| 
+| {{Relation|1192342|tools=short}}
+| 48.66
+| 5
+| 
+| 
+
+|-
+|  <span style="display:none">2</span>19A
+| 
+| {{Relation|1198061|tools=short}}
+| 14.36
+| 1
+| ncn
+| yes
+
+|-
+|  <span style="display:none">4</span>5085
+| 
+| {{Relation|1202472|tools=short}}
+| 9.21
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5116
+| 
+| {{Relation|1204797|tools=short}}
+| 3.1
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5230
+| 
+| {{Relation|1204967|tools=short}}
+| 0.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>505
+| 
+| {{Relation|1204968|tools=short}}
+| 10.77
+| 1
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>6148
+| 
+| {{Relation|1205806|tools=short}}
+| 6.43
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>56
+| Česko-Polská Přihraniční trasa
+| {{Relation|1208747|tools=short}}
+| 59.01
+| 6
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>4018
+| Okruh Boženy Němcové
+| {{Relation|1213889|tools=short}}
+| 19.82
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6098
+| 
+| {{Relation|1217069|tools=short}}
+| 8.84
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>2282
+| 
+| {{Relation|1222976|tools=short}}
+| 2.81
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">0</span>
+| spojka 5119-5081
+| {{Relation|1243716|tools=short}}
+| 1.97
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">4</span>5197
+| 
+| {{Relation|1246558|tools=short}}
+| 1.91
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|1246593|tools=short}}
+| 0.12
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|1246929|tools=short}}
+| 2.64
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>4058
+| 
+| {{Relation|1249678|tools=short}}
+| 7.88
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4055
+| 
+| {{Relation|1249703|tools=short}}
+| 8.03
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4034
+| 
+| {{Relation|1249715|tools=short}}
+| 1.14
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6260
+| 
+| {{Relation|1251205|tools=short}}
+| 3.99
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>6012
+| 
+| {{Relation|1251406|tools=short}}
+| 7.67
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6018
+| 
+| {{Relation|1251431|tools=short}}
+| 5.94
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>3042A
+| 
+| {{Relation|1251541|tools=short}}
+| 0.74
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>472
+| Cyklotrasa Bečva
+| {{Relation|1251672|tools=short}}
+| 30.68
+| 4
+| ncn
+| no
+
+|-
+|  <span style="display:none">4</span>4112
+| 
+| {{Relation|1263492|tools=short}}
+| 0.79
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4114
+| 
+| {{Relation|1263493|tools=short}}
+| 4.03
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4121
+| 
+| {{Relation|1267471|tools=short}}
+| 2.91
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5127
+| 
+| {{Relation|1267472|tools=short}}
+| 2.49
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5242
+| 
+| {{Relation|1267475|tools=short}}
+| 7.37
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5019
+| 
+| {{Relation|1271664|tools=short}}
+| 17.12
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>1167
+| 
+| {{Relation|1271803|tools=short}}
+| 14.21
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>4099
+| 
+| {{Relation|1329836|tools=short}}
+| 0.14
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>13
+| 
+| {{Relation|1335095|tools=short}}
+| 4.71
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">4</span>4248
+| 
+| {{Relation|1342895|tools=short}}
+| 0.94
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4251
+| 
+| {{Relation|1342896|tools=short}}
+| 1.48
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5001
+| 
+| {{Relation|1350301|tools=short}}
+| 6.24
+| 3
+| 
+| 
+
+|-
+|  <span style="display:none">4</span>5000
+| okružní cyklotrasa
+| {{Relation|1350304|tools=short}}
+| 0
+| 1
+| 
+| 
+
+|-
+|  <span style="display:none">4</span>4060
+| 
+| {{Relation|1377523|tools=short}}
+| 3.47
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4059
+| 
+| {{Relation|1377524|tools=short}}
+| 5.78
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4055
+| 
+| {{Relation|1399114|tools=short}}
+| 0
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4056
+| 
+| {{Relation|1399115|tools=short}}
+| 1.34
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>4095
+| 
+| {{Relation|1399118|tools=short}}
+| 0
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>6117
+| 
+| {{Relation|1401578|tools=short}}
+| 0
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2075
+| 
+| {{Relation|1415485|tools=short}}
+| 10.46
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>2163
+| 
+| {{Relation|1415486|tools=short}}
+| 4.13
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2077
+| 
+| {{Relation|1415487|tools=short}}
+| 5.23
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>5151A
+| 
+| {{Relation|1417324|tools=short}}
+| 1.88
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>2084
+| 
+| {{Relation|1417507|tools=short}}
+| 6.74
+| 1
+| rcn
+| 
+
+|-
+|  <span style="display:none">4</span>0065
+| 
+| {{Relation|1418321|tools=short}}
+| 5.36
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5061
+| 
+| {{Relation|1424838|tools=short}}
+| 0
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|1425025|tools=short}}
+| 1.08
+| 1
+| 
+| no
+
+|-
+|  <span style="display:none">4</span>5199
+| 
+| {{Relation|1425026|tools=short}}
+| 19.92
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5177
+| 
+| {{Relation|1427208|tools=short}}
+| 5.21
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">4</span>5050A
+| 
+| {{Relation|1436123|tools=short}}
+| 0.81
+| 1
+| rcn
+| yes
+
+|-
+|  <span style="display:none">4</span>5159
+| 
+| {{Relation|1441148|tools=short}}
+| 0
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|1447925|tools=short}}
+| 13.58
+| 1
+| 
+| no
+
+|-
+|  <span style="display:none">0</span>Uhersko-Hradišťská
+| 
+| {{Relation|1455230|tools=short}}
+| 8.59
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">4</span>5181
+| 
+| {{Relation|1460799|tools=short}}
+| 2.55
+| 1
+| rcn
+| no
+

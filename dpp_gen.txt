@@ -1,0 +1,540 @@
+|-
+|  2
+| 
+| {{Relation|36231|tools=short}}
+| PID
+| 5.76
+| 2
+| no
+
+|-
+|  26
+| 
+| {{Relation|36232|tools=short}}
+| PID
+| 19.4
+| 7
+| no
+
+|-
+|  20
+| 
+| {{Relation|36233|tools=short}}
+| PID
+| 17.02
+| 1
+| no, fix it
+
+|-
+|  1
+| 
+| {{Relation|36239|tools=short}}
+| PID
+| 14.54
+| 2
+| no
+
+|-
+|  18
+| 
+| {{Relation|36240|tools=short}}
+| PID
+| 14.15
+| 1
+| no
+
+|-
+|  22
+| 
+| {{Relation|66011|tools=short}}
+| PID
+| 21.35
+| 1
+| no
+
+|-
+|  8
+| 
+| {{Relation|66673|tools=short}}
+| PID
+| 14.03
+| 7
+| no
+
+|-
+|  12
+| 
+| {{Relation|67775|tools=short}}
+| PID
+| 16.53
+| 2
+| no
+
+|-
+|  4
+| 
+| {{Relation|67790|tools=short}}
+| PID
+| 8.38
+| 1
+| no
+
+|-
+|  17
+| 
+| {{Relation|69140|tools=short}}
+| PID
+| 19.36
+| 1
+| no
+
+|-
+|  21
+| 
+| {{Relation|69142|tools=short}}
+| PID
+| 11.47
+| 2
+| no
+
+|-
+|  3
+| 
+| {{Relation|104728|tools=short}}
+| PID
+| 23.84
+| 2
+| no
+
+|-
+|  7
+| 
+| {{Relation|104731|tools=short}}
+| PID
+| 13.8
+| 2
+| no
+
+|-
+|  16
+| 
+| {{Relation|104732|tools=short}}
+| PID
+| 12.76
+| 2
+| 2010-02-02
+
+|-
+|  11
+| 
+| {{Relation|104738|tools=short}}
+| PID
+| 12.05
+| 4
+| no
+
+|-
+|  6
+| 
+| {{Relation|104739|tools=short}}
+| PID
+| 11.33
+| 3
+| no
+
+|-
+|  9
+| 
+| {{Relation|104749|tools=short}}
+| PID
+| 17.67
+| 4
+| no
+
+|-
+|  10
+| 
+| {{Relation|104751|tools=short}}
+| PID
+| 22.79
+| 1
+| no
+
+|-
+|  13
+| 
+| {{Relation|104755|tools=short}}
+| PID
+| 6.09
+| 1
+| no
+
+|-
+|  14
+| 
+| {{Relation|104757|tools=short}}
+| PID
+| 17.82
+| 2
+| no
+
+|-
+|  19
+| 
+| {{Relation|105467|tools=short}}
+| PID
+| 12.72
+| 2
+| no
+
+|-
+|  15
+| 
+| {{Relation|105469|tools=short}}
+| PID
+| 0.25
+| 1
+| no
+
+|-
+|  24
+| 
+| {{Relation|105475|tools=short}}
+| PID
+| 14.95
+| 3
+| no
+
+|-
+|  25
+| 
+| {{Relation|105477|tools=short}}
+| PID
+| 14.51
+| 2
+| no
+
+|-
+|  5
+| 
+| {{Relation|105480|tools=short}}
+| PID
+| 8.88
+| 2
+| no
+
+|-
+|  128
+| 
+| {{Relation|78974|tools=short}}
+| PID
+| 0.92
+| 1
+| no
+
+|-
+|  218
+| 
+| {{Relation|81632|tools=short}}
+| PID
+| 2.24
+| 4
+| no
+
+|-
+|  179
+| 
+| {{Relation|81703|tools=short}}
+| PID
+| 9.64
+| 8
+| no
+
+|-
+|  208
+| 
+| {{Relation|114544|tools=short}}
+| PID
+| 4.83
+| 3
+| no
+
+|-
+|  216
+| 
+| {{Relation|120963|tools=short}}
+| PID
+| 2.37
+| 8
+| no
+
+|-
+|  131
+| 
+| {{Relation|121148|tools=short}}
+| PID
+| 4.26
+| 4
+| yes
+
+|-
+|  112
+| 
+| {{Relation|121909|tools=short}}
+| PID
+| 2.92
+| 2
+| no
+
+|-
+|  133
+| 
+| {{Relation|121938|tools=short}}
+| PID
+| 4.82
+| 2
+| no
+
+|-
+|  181
+| 
+| {{Relation|152729|tools=short}}
+| PID
+| 20.67
+| 9
+| no
+
+|-
+|  135
+| 
+| {{Relation|163127|tools=short}}
+| PID
+| 8.48
+| 4
+| 
+
+|-
+|  363
+| 
+| {{Relation|165254|tools=short}}
+| PID
+| 8.5
+| 7
+| no
+
+|-
+|  605
+| 
+| {{Relation|165255|tools=short}}
+| PID
+| 9.12
+| 10
+| no
+
+|-
+|  100
+| 
+| {{Relation|318573|tools=short}}
+| PID
+| 21.3
+| 6
+| yes
+
+|-
+|  135
+| 
+| {{Relation|330858|tools=short}}
+| PID
+| 19.27
+| 11
+| no
+
+|-
+|  154
+| 
+| {{Relation|372922|tools=short}}
+| PID
+| 23.59
+| 21
+| yes
+
+|-
+|  102
+| 
+| {{Relation|375825|tools=short}}
+| PID
+| 18.08
+| 6
+| yes
+
+|-
+|  170
+| 
+| {{Relation|383072|tools=short}}
+| PID
+| 20.32
+| 9
+| yes
+
+|-
+|  213
+| 
+| {{Relation|416453|tools=short}}
+| PID
+| 20.44
+| 11
+| yes
+
+|-
+|  291
+| 
+| {{Relation|571617|tools=short}}
+| PID
+| 3.03
+| 2
+| yes
+
+|-
+|  292
+| 
+| {{Relation|574598|tools=short}}
+| PID
+| 0.63
+| 1
+| yes
+
+|-
+|  122
+| 
+| {{Relation|896611|tools=short}}
+| PID
+| 4.3
+| 4
+| yes
+
+|-
+|  198
+| 
+| {{Relation|1135613|tools=short}}
+| PID
+| 4.03
+| 4
+| no
+
+|-
+|  189
+| 
+| {{Relation|1135614|tools=short}}
+| PID
+| 1.65
+| 4
+| no
+
+|-
+|  119
+| 
+| {{Relation|1209383|tools=short}}
+| PID
+| 2.13
+| 2
+| no
+
+|-
+|  124
+| 
+| {{Relation|1212665|tools=short}}
+| PID
+| 17.37
+| 11
+| no
+
+|-
+|  177
+| 
+| {{Relation|1229403|tools=short}}
+| PID
+| 12.14
+| 14
+| 
+
+|-
+|  175
+| 
+| {{Relation|1229758|tools=short}}
+| PID
+| 20.27
+| 10
+| no
+
+|-
+|  137
+| 
+| {{Relation|1293828|tools=short}}
+| PID
+| 2.95
+| 1
+| yes
+
+|-
+|  180
+| 
+| {{Relation|1322976|tools=short}}
+| PID
+| 3.06
+| 3
+| no
+
+|-
+|  125
+| 
+| {{Relation|1354727|tools=short}}
+| PID
+| 26.85
+| 7
+| yes
+
+|-
+|  167
+| 
+| {{Relation|1401287|tools=short}}
+| PID
+| 4.52
+| 2
+| no
+
+|-
+|  144
+| 
+| {{Relation|1435154|tools=short}}
+| PID
+| 0.35
+| 2
+| 
+
+|-
+|  C
+| Metro linka C
+| {{Relation|58898|tools=short}}
+| PID
+| 22.35
+| 1
+| yes
+
+|-
+|  A
+| Metro linka A
+| {{Relation|58899|tools=short}}
+| PID
+| 10.81
+| 1
+| yes
+
+|-
+|  B
+| Metro linka B
+| {{Relation|58900|tools=short}}
+| PID
+| 25.08
+| 1
+| yes
+
