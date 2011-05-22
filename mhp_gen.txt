@@ -1,0 +1,639 @@
+|-
+|  <span style="display:none">2</span>A22
+| Kunratický potok
+| {{Relation|14950|tools=short}}
+| 25.33
+| 5
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>A2
+| Vltava, pravobřežní trasa
+| {{Relation|15066|tools=short}}
+| 29.94
+| 2
+| rcn
+| yes
+
+|-
+|  <span style="display:none">2</span>A26
+| Rokytka
+| {{Relation|15110|tools=short}}
+| 5.63
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>A44
+| Petrovice–Letňany
+| {{Relation|19937|tools=short}}
+| 7.58
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A111
+| 
+| {{Relation|20062|tools=short}}
+| 5.18
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A33
+| 
+| {{Relation|32813|tools=short}}
+| 6.47
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>A34
+| 
+| {{Relation|32814|tools=short}}
+| 3.72
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>A17
+| Šárecký potok
+| {{Relation|32816|tools=short}}
+| 5.99
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>A16
+| Veleslavínská
+| {{Relation|32817|tools=short}}
+| 1.8
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>A32
+| 
+| {{Relation|32821|tools=short}}
+| 1.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">1</span>A1
+| Vltava, levobřežní trasa
+| {{Relation|32836|tools=short}}
+| 26.9
+| 11
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>KB-VI
+| Kbely-Vinoř
+| {{Relation|37595|tools=short}}
+| 4.82
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A254
+| 
+| {{Relation|52324|tools=short}}
+| 1.09
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A214
+| 
+| {{Relation|75680|tools=short}}
+| 1.04
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A18
+| Suchdolská
+| {{Relation|102688|tools=short}}
+| 7.25
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A181
+| 
+| {{Relation|102704|tools=short}}
+| 3.2
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A171
+| 
+| {{Relation|102705|tools=short}}
+| 3.42
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>ŘE-HL
+| Řepy-Hlubočepy
+| {{Relation|108253|tools=short}}
+| 10.25
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A15
+| Břevnovská
+| {{Relation|108269|tools=short}}
+| 2.58
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">0</span>BŘ-LE
+| Břevnov-Letná
+| {{Relation|108273|tools=short}}
+| 6.48
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A263
+| 
+| {{Relation|109095|tools=short}}
+| 3.89
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A251
+| 
+| {{Relation|109098|tools=short}}
+| 2.11
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A14
+| Motolský potok
+| {{Relation|109807|tools=short}}
+| 3.46
+| 3
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A13
+| Radlická
+| {{Relation|109813|tools=short}}
+| 13.24
+| 2
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A11
+| Radotínský potok
+| {{Relation|109818|tools=short}}
+| 10.06
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">2</span>A12
+| Prokopské údolí
+| {{Relation|109823|tools=short}}
+| 5.32
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A225
+| 
+| {{Relation|117788|tools=short}}
+| 2.71
+| 4
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A41
+| severojižní cyklomagistrála
+| {{Relation|121887|tools=short}}
+| 3.42
+| 4
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A222
+| 
+| {{Relation|121905|tools=short}}
+| 1.11
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A165
+| 
+| {{Relation|123911|tools=short}}
+| 1.33
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>ÚJ-BR
+| Újezd-Braník
+| {{Relation|125503|tools=short}}
+| 8.7
+| 3
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A163
+| 
+| {{Relation|132431|tools=short}}
+| 5.44
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">3</span>A166
+| 
+| {{Relation|132432|tools=short}}
+| 1.49
+| 2
+| lcn
+| yes
+
+|-
+|  <span style="display:none">2</span>A28
+| Bohnické údolí
+| {{Relation|135876|tools=short}}
+| 7.68
+| 2
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A27
+| Bulovka
+| {{Relation|135891|tools=short}}
+| 8.19
+| 1
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A25
+| Žižkovská
+| {{Relation|136555|tools=short}}
+| 12.54
+| 3
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">3</span>A258
+| 
+| {{Relation|147269|tools=short}}
+| 2.99
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A257
+| 
+| {{Relation|192466|tools=short}}
+| 2.04
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A23
+| Botič
+| {{Relation|223932|tools=short}}
+| 3.22
+| 3
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A216
+| 
+| {{Relation|223933|tools=short}}
+| 3.48
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A226
+| 
+| {{Relation|223934|tools=short}}
+| 2.07
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A21
+| Modřanská rokle
+| {{Relation|236770|tools=short}}
+| 11.82
+| 4
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">3</span>A212
+| 
+| {{Relation|236771|tools=short}}
+| 4.48
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A215
+| 
+| {{Relation|236772|tools=short}}
+| 1.22
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">0</span>SM-LE
+| Straré město-Letná
+| {{Relation|269705|tools=short}}
+| 0.99
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A283
+| Ládví-Chabry
+| {{Relation|277549|tools=short}}
+| 1.7
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A43
+| Hostivař-Prosek
+| {{Relation|282565|tools=short}}
+| 0.87
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A211
+| 
+| {{Relation|301013|tools=short}}
+| 0.18
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A204
+| 
+| {{Relation|301014|tools=short}}
+| 7
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A202
+| 
+| {{Relation|301035|tools=short}}
+| 0.59
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A213
+| 
+| {{Relation|301043|tools=short}}
+| 1.91
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A120
+| Radlice - Jinonice
+| {{Relation|951074|tools=short}}
+| 1.65
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A113
+| 
+| {{Relation|1101175|tools=short}}
+| 0.19
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A112
+| 
+| {{Relation|1101176|tools=short}}
+| 2.94
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A159
+| 
+| {{Relation|1180029|tools=short}}
+| 0.15
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">3</span>A160
+| 
+| {{Relation|1181906|tools=short}}
+| 0.19
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">2</span>A16
+| Veleslavínská - návrh
+| {{Relation|1189162|tools=short}}
+| 8.29
+| 5
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A12
+| Prokopské údolí - návrh
+| {{Relation|1189164|tools=short}}
+| 7
+| 2
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A26
+| Rokytka - návrh
+| {{Relation|1189168|tools=short}}
+| 8.5
+| 2
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">3</span>A168
+| 
+| {{Relation|1189741|tools=short}}
+| 2.88
+| 3
+| lcn
+| yes
+
+|-
+|  <span style="display:none">2</span>A32
+| 
+| {{Relation|1189765|tools=short}}
+| 6.83
+| 8
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A33
+| 
+| {{Relation|1189782|tools=short}}
+| 7.66
+| 1
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A15
+| Břevnovská - návrh
+| {{Relation|1189797|tools=short}}
+| 8.66
+| 4
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A34
+| 
+| {{Relation|1189798|tools=short}}
+| 12.22
+| 3
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A23
+| Botič-návrh
+| {{Relation|1190880|tools=short}}
+| 16.1
+| 4
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">3</span>A122
+| Hlubočepy-Jinonice
+| {{Relation|1191421|tools=short}}
+| 0.31
+| 2
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A201
+| 
+| {{Relation|1198073|tools=short}}
+| 2.69
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>A42
+| Hodkovice-Palmovka
+| {{Relation|1212299|tools=short}}
+| 4.54
+| 1
+| rcn
+| no
+
+|-
+|  <span style="display:none">3</span>A122
+| Hlubočepy-Jinonice
+| {{Relation|1214422|tools=short}}
+| 2.11
+| 1
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">2</span>A44
+| Petrovice–Letňany (návrh)
+| {{Relation|1228252|tools=short}}
+| 13.12
+| 1
+| rcn
+| proposed
+
+|-
+|  <span style="display:none">3</span>A225
+| 
+| {{Relation|1228849|tools=short}}
+| 0.71
+| 1
+| lcn
+| proposed
+
