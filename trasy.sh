@@ -1,8 +1,11 @@
 #source="http://osmxapi.hypercube.telascience.org/api/0.6/" 
-source="http://www.informationfreeway.org/api/0.6/"
+#source="http://www.informationfreeway.org/api/0.6/"
 #source="http://osm.bearstech.com/osmxapi/api/0.6/"
+source="http://jxapi.openstreetmap.org/xapi/api/0.6/"
 
-wget "${source}relation[operator=cz:KČT|operator=cz:KCT|operator=cz:kčt|operator=cz:kct|operator=CZ:KCT|operator=CZ:KČT]" -O kct.osm
+#wget "${source}relation[operator=cz:KČT|operator=cz:KCT|operator=cz:kčt|operator=cz:kct|operator=CZ:KCT|operator=CZ:KČT]" -O kct.osm
+#wget "${source}relation[kct_red=*][kct_green=*][kct_blue=*][kct_yellow=*][kct_white=*]" -O kct.osm
+wget "${source}relation[operator=cz:KČT|cz:KCT|cz:kčt|cz:kct|CZ:KCT|CZ:KČT]" -O kct.osm
 
 echo "-------------------"
 java -Xmx700M -classpath /usr/share/java/saxonb.jar net.sf.saxon.Transform kct.osm other.xsl
@@ -16,12 +19,14 @@ java -Xmx700M -classpath /usr/share/java/saxonb.jar net.sf.saxon.Transform kct.o
 #vimdiff cyklo_gen.txt cyklo_wiki.txt
 #mv cyklo_gen.txt cyklo_wiki.txt
 
-wget "${source}relation[operator=cz:KRNAP|operator=cz:krnap|operator=CZ:KRNAP]" -O krnap.osm
+#wget "${source}relation[operator=cz:KRNAP|operator=cz:krnap|operator=CZ:KRNAP]" -O krnap.osm
+wget "${source}relation[operator=cz:KRNAP|cz:krnap|CZ:KRNAP]" -O krnap.osm
 java -Xmx700M -classpath /usr/share/java/saxonb.jar net.sf.saxon.Transform krnap.osm bicycle2wiki.xsl | awk -f relan.awk > krnap_gen.txt
 #vimdiff krnap_gen.txt krnap_wiki.txt
 #mv krnap_gen.txt krnap_wiki.txt
 
-wget "${source}relation[operator=cz:MHP|operator=cz:mhp|operator=CZ:MHP]" -O mhp.osm
+#wget "${source}relation[operator=cz:MHP|operator=cz:mhp|operator=CZ:MHP]" -O mhp.osm
+wget "${source}relation[operator=cz:MHP|cz:mhp|CZ:MHP]" -O mhp.osm
 java -Xmx700M -classpath /usr/share/java/saxonb.jar net.sf.saxon.Transform mhp.osm bicycle2wiki.xsl | awk -f relan.awk > mhp_gen.txt
 #vimdiff mhp_gen.txt mhp_wiki.txt
 #mv mhp_gen.txt mhp_wiki.txt
