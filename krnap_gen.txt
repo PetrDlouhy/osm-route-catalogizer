@@ -1,0 +1,225 @@
+|-
+|  <span style="display:none">1</span>5
+| Ručičky-Rokytnice
+| {{Relation|64349|tools=short}}
+| 3.62
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>1A
+| Krkonošská diagonála (Harrachov-Žacléř)
+| {{Relation|64350|tools=short}}
+| 70.63
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">1</span>4
+| Ručičky-Janov
+| {{Relation|64351|tools=short}}
+| 9.97
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">1</span>7
+| Rokytnice-Rýžoviště
+| {{Relation|64352|tools=short}}
+| 3.26
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">1</span>6
+| Sedlo pod Dvoračkami-Pod vlčím hřebenem
+| {{Relation|64355|tools=short}}
+| 4.19
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>2B
+| Kládová cesta
+| {{Relation|64386|tools=short}}
+| 5.46
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">1</span>2
+| Terex - Janouškova cesta (Harrachov-Krakonošova snídaně-Harrachov)
+| {{Relation|64387|tools=short}}
+| 22.9
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>1B
+| 
+| {{Relation|206491|tools=short}}
+| 16.96
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">2</span>13
+| Horní Mísečky-Vrbatova Bouda
+| {{Relation|237006|tools=short}}
+| 4.59
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>15
+| 
+| {{Relation|254686|tools=short}}
+| 1.86
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>14
+| 
+| {{Relation|254985|tools=short}}
+| 3.71
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>16
+| 
+| {{Relation|254986|tools=short}}
+| 0.48
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>4A
+| Harrachov-Janova cesta
+| {{Relation|331106|tools=short}}
+| 0.6
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>1F
+| Růžová hora-Janovy boudy
+| {{Relation|332165|tools=short}}
+| 4.63
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>3
+| Paseky nad Jizerou-Kořenov
+| {{Relation|339204|tools=short}}
+| 14.95
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">1</span>7A
+| Liščí díra-Na Kamlu
+| {{Relation|339241|tools=short}}
+| 4.15
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">1</span>8A
+| Stromkovice-Vidlice
+| {{Relation|366459|tools=short}}
+| 7.42
+| 1
+| lcn
+| yes
+
+|-
+|  <span style="display:none">2</span>13A
+| 
+| {{Relation|367738|tools=short}}
+| 0.96
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>8
+| Stromkovice-Dolní Dušnice
+| {{Relation|367792|tools=short}}
+| 9.51
+| 2
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>17
+| 
+| {{Relation|1017370|tools=short}}
+| 1.87
+| 1
+| lcn
+| 
+
+|-
+|  <span style="display:none">2</span>10
+| 
+| {{Relation|1059683|tools=short}}
+| 12
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>11
+| 
+| {{Relation|1346149|tools=short}}
+| 6.62
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>10A
+| 
+| {{Relation|1346150|tools=short}}
+| 6.77
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">1</span>9
+| 
+| {{Relation|1596896|tools=short}}
+| 3.54
+| 1
+| lcn
+| no
+
+|-
+|  <span style="display:none">2</span>12
+| 
+| {{Relation|1671065|tools=short}}
+| 10.02
+| 1
+| lcn
+| no
+
