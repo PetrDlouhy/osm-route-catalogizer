@@ -132,6 +132,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			<xsl:when test="$kct_type = 'ski' and ($osmc_symbol_type != 'bar' or $osmc_background_color != 'orange')">
 				<xsl:text>no</xsl:text>
 			</xsl:when>
+			<xsl:when test="$kct_type = 'wheelchair' and ($osmc_symbol_type != 'wheelchair' or $osmc_background_color != 'white')">
+				<xsl:text>no</xsl:text>
+			</xsl:when>
 			<!--
 			<xsl:when test="$kct_type = 'bicycle' and ($osmc_symbol_type != 'bar' or $osmc_background_color != 'yellow')">
 				<xsl:text>no</xsl:text>
