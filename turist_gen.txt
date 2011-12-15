@@ -1,12 +1,12 @@
 |-
 |  
 | kct_red
-| yes
+| major
 | 
-| 
+| Sedlisko - Litovel - Mladeč - Javoříčko - Břesko
 | {{Relation|5397|tools=short}}
-| 33.13
-| 4
+| 36.64
+| 3
 | no
 | yes
 
@@ -27,10 +27,10 @@
 | kct_red
 | major
 | cesta T.G. Masaryka
-| 
+| Hodonín - Čejkovice - Čejč - Klobouky - Hustopeče
 | {{Relation|21777|tools=short}}
-| 4.06
-| 1
+| 10.44
+| 3
 | no
 | yes
 
@@ -71,14 +71,14 @@
 | yes
 
 |-
-|  
+|  4308
 | kct_green
 | major
 | Krajem Chrudimky
-| 
+| Čachnov - Kameničky - Hlinsko - Veselý kopec
 | {{Relation|23495|tools=short}}
-| 11.61
-| 2
+| 17.52
+| 3
 | no
 | yes
 
@@ -89,7 +89,7 @@
 | 
 | Klánovice-Uhříněves
 | {{Relation|53343|tools=short}}
-| 14.61
+| 14.62
 | 1
 | no
 | yes
@@ -101,7 +101,7 @@
 | Železnorudský okruh 19,5Km
 | 
 | {{Relation|63889|tools=short}}
-| 11.8
+| 11.80
 | 1
 | no
 | yes
@@ -185,7 +185,7 @@
 | 
 | 
 | {{Relation|63911|tools=short}}
-| 3.2
+| 3.20
 | 1
 | no
 | yes
@@ -197,7 +197,7 @@
 | 
 | Nový Brunst-Bývalé Zhůří
 | {{Relation|63959|tools=short}}
-| 5.46
+| 5.50
 | 1
 | yes
 | yes
@@ -221,8 +221,8 @@
 | 
 | Jezero Laka-Petrovice
 | {{Relation|63961|tools=short}}
-| 5.66
-| 1
+| 7.09
+| 2
 | no
 | yes
 
@@ -233,7 +233,7 @@
 | 
 | 
 | {{Relation|63964|tools=short}}
-| 13.7
+| 13.71
 | 1
 | no
 | yes
@@ -257,7 +257,7 @@
 | 
 | Velký Bor - Srní
 | {{Relation|64008|tools=short}}
-| 18.84
+| 18.94
 | 1
 | no
 | yes
@@ -269,7 +269,7 @@
 | 
 | Poledník-?
 | {{Relation|64009|tools=short}}
-| 8.82
+| 8.77
 | 1
 | no
 | yes
@@ -281,8 +281,8 @@
 | 
 | Černé jezero - Prášily
 | {{Relation|64010|tools=short}}
-| 96.18
-| 2
+| 110.62
+| 4
 | no
 | yes
 
@@ -293,8 +293,8 @@
 | 
 | 
 | {{Relation|64011|tools=short}}
-| 10.4
-| 1
+| 13.12
+| 3
 | no
 | yes
 
@@ -341,7 +341,7 @@
 | 
 | 
 | {{Relation|64026|tools=short}}
-| 5.99
+| 5.98
 | 1
 | no
 | yes
@@ -377,8 +377,8 @@
 | 
 | Ostrý - Čachrov - Kolinec - Nalžovské Hory - Pačejov
 | {{Relation|64029|tools=short}}
-| 24.36
-| 6
+| 26.02
+| 7
 | no
 | yes
 
@@ -389,7 +389,7 @@
 | 
 | 
 | {{Relation|64030|tools=short}}
-| 0.93
+| 0.86
 | 1
 | no
 | yes
@@ -413,7 +413,7 @@
 | Kvilda/Außergefild - Siebensteinfelsen (D/CZ)
 | Kvilda-Pramen Vltavy
 | {{Relation|64035|tools=short}}
-| 13.4
+| 13.41
 | 1
 | no
 | yes
@@ -437,8 +437,8 @@
 | 
 | Kašperské hory - Březník
 | {{Relation|64049|tools=short}}
-| 7.11
-| 1
+| 14.51
+| 2
 | no
 | yes
 
@@ -449,7 +449,7 @@
 | 
 | Čertova hora-Huťský potok
 | {{Relation|64341|tools=short}}
-| 7.19
+| 7.18
 | 1
 | yes
 | yes
@@ -485,7 +485,7 @@
 | 
 | Rokytnice nad Jizerou (U Kroupů)-Harrachov (kemp)
 | {{Relation|64346|tools=short}}
-| 10.74
+| 10.72
 | 1
 | yes
 | yes
@@ -521,7 +521,7 @@
 | 
 | Vrbatova bouda-Vysoké nad Jizerou
 | {{Relation|64356|tools=short}}
-| 12.81
+| 13.28
 | 1
 | no
 | yes
@@ -557,7 +557,7 @@
 | 
 | Harrachov-Sedlo nad obřím dolem
 | {{Relation|64365|tools=short}}
-| 29.48
+| 29.64
 | 1
 | no
 | yes
@@ -605,7 +605,7 @@
 | Krkonošská magistrála
 | 
 | {{Relation|64385|tools=short}}
-| 14.51
+| 14.50
 | 2
 | no
 | yes
@@ -629,7 +629,7 @@
 | Bucharova cesta (v úseku Pramen Labe-Horní mísečky)
 | Pramen Labe-Horní mísečky
 | {{Relation|64409|tools=short}}
-| 11.19
+| 11.20
 | 2
 | no
 | yes
@@ -641,31 +641,31 @@
 | 
 | U Kotelních jam-Dolní mísečky
 | {{Relation|64428|tools=short}}
-| 1.8
+| 1.80
 | 1
 | yes
 | yes
 
 |-
-|  
+|  1925
 | kct_blue
 | major
 | 
-| 
+| ?? - Radostín - Velké Dářko
 | {{Relation|66939|tools=short}}
-| 5.69
+| 5.70
 | 1
 | no
 | yes
 
 |-
-|  
+|  7353
 | kct_yellow
 | major
 | 
-| 
+| Hluboká - Ransko
 | {{Relation|66964|tools=short}}
-| 4
+| 6.53
 | 1
 | no
 | yes
@@ -677,7 +677,7 @@
 | 
 | 
 | {{Relation|67324|tools=short}}
-| 18.74
+| 18.77
 | 1
 | yes
 | yes
@@ -701,7 +701,7 @@
 | Cesta Vojty Náprstka
 | Chřenovice-Karolínova ves
 | {{Relation|68268|tools=short}}
-| 187.25
+| 187.24
 | 5
 | no
 | yes
@@ -723,11 +723,11 @@
 | kct_yellow
 | major
 | 
-| 
+| Horní Planá (náměstí) - Horní Planá (přívoz)
 | {{Relation|72951|tools=short}}
-| 1.74
+| 1.35
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -737,7 +737,7 @@
 | Jizerská magistrála - červená
 | 
 | {{Relation|75394|tools=short}}
-| 21.67
+| 21.68
 | 1
 | yes
 | yes
@@ -749,8 +749,8 @@
 | 
 | 
 | {{Relation|75395|tools=short}}
-| 6.75
-| 2
+| 14.02
+| 1
 | no
 | yes
 
@@ -773,7 +773,7 @@
 | Předěl - Nové Město pod Smrkem
 | Předěl - Nové Město pod Smrkem
 | {{Relation|75399|tools=short}}
-| 12.49
+| 12.48
 | 1
 | yes
 | yes
@@ -785,8 +785,8 @@
 | 
 | Hubertka - Desná
 | {{Relation|75400|tools=short}}
-| 21.14
-| 2
+| 23.03
+| 1
 | no
 | yes
 
@@ -797,7 +797,7 @@
 | 
 | Hejnice-Harrachov
 | {{Relation|75401|tools=short}}
-| 19.7
+| 19.64
 | 1
 | no
 | yes
@@ -821,7 +821,7 @@
 | 
 | Liberec-Ferdinandov
 | {{Relation|75403|tools=short}}
-| 12.23
+| 13.16
 | 1
 | no
 | yes
@@ -833,7 +833,7 @@
 | 
 | Liberec-Hejnice
 | {{Relation|75404|tools=short}}
-| 13.97
+| 14.00
 | 1
 | no
 | yes
@@ -845,7 +845,7 @@
 | Jizerská magistrála - zelená
 | 
 | {{Relation|75405|tools=short}}
-| 14.66
+| 14.64
 | 1
 | yes
 | yes
@@ -857,9 +857,9 @@
 | 
 | Jizerka-Desná
 | {{Relation|75407|tools=short}}
-| 10.37
+| 10.35
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -869,7 +869,7 @@
 | 
 | Sedlo holubníku - U Spálené hospody
 | {{Relation|75410|tools=short}}
-| 10.42
+| 10.48
 | 2
 | no
 | yes
@@ -893,7 +893,7 @@
 | 
 | Oldřichov v hájích-Jablonecké Paseky
 | {{Relation|75412|tools=short}}
-| 20.49
+| 20.50
 | 1
 | no
 | yes
@@ -917,7 +917,7 @@
 | 
 | Albrechtice-Dolní Smržovka
 | {{Relation|75415|tools=short}}
-| 3.21
+| 3.02
 | 1
 | no
 | yes
@@ -929,7 +929,7 @@
 | 
 | Kristiánov-Jizerka
 | {{Relation|75417|tools=short}}
-| 14.86
+| 14.85
 | 2
 | no
 | yes
@@ -941,7 +941,7 @@
 | 
 | Kristiánov-Hejnice
 | {{Relation|75418|tools=short}}
-| 14.74
+| 14.75
 | 1
 | no
 | yes
@@ -953,7 +953,7 @@
 | Jizerská magistrála - žlutá
 | 
 | {{Relation|75422|tools=short}}
-| 14.43
+| 14.44
 | 2
 | yes
 | yes
@@ -965,7 +965,7 @@
 | 
 | U Čihadel-Pod vodopády
 | {{Relation|75423|tools=short}}
-| 5.11
+| 5.14
 | 1
 | no
 | yes
@@ -989,20 +989,8 @@
 | 
 | Živohošť-Hříměždice-Žebrák
 | {{Relation|75636|tools=short}}
-| 8.08
+| 8.18
 | 5
-| no
-| yes
-
-|-
-|  
-| kct_red
-| yes
-| 
-| 
-| {{Relation|75993|tools=short}}
-| 2.13
-| 1
 | no
 | yes
 
@@ -1013,7 +1001,7 @@
 | 
 | 
 | {{Relation|75994|tools=short}}
-| 6.01
+| 6.13
 | 1
 | no
 | yes
@@ -1025,7 +1013,7 @@
 | 
 | 
 | {{Relation|75995|tools=short}}
-| 6.99
+| 7.00
 | 1
 | no
 | yes
@@ -1037,7 +1025,7 @@
 | Mokrá Hora-Adamov-Křtiny-Pod Ronovem
 | 
 | {{Relation|76743|tools=short}}
-| 29.18
+| 29.72
 | 1
 | yes
 | yes
@@ -1049,7 +1037,7 @@
 | 
 | 
 | {{Relation|76758|tools=short}}
-| 21.62
+| 21.66
 | 2
 | no
 | yes
@@ -1097,7 +1085,7 @@
 | 
 | 
 | {{Relation|76766|tools=short}}
-| 14.22
+| 14.26
 | 1
 | no
 | yes
@@ -1109,7 +1097,7 @@
 | 
 | 
 | {{Relation|76815|tools=short}}
-| 2.4
+| 2.40
 | 1
 | no
 | yes
@@ -1157,7 +1145,7 @@
 | 
 | Tanvald-Rozmezí
 | {{Relation|81975|tools=short}}
-| 12.04
+| 12.05
 | 1
 | no
 | yes
@@ -1181,7 +1169,7 @@
 | 
 | Josefův důl-Jiřetín pod Bukovou
 | {{Relation|81977|tools=short}}
-| 3.57
+| 3.58
 | 1
 | no
 | yes
@@ -1205,8 +1193,8 @@
 | 
 | Franciska - Kladská brána - Paprsek - Ramzová - Šerák - Trojmezí - Červenohorské sedlo - Švýcarna - Pod Pradědem - Ovčárna - Nad Malým kotlem - Jelení studánka
 | {{Relation|83678|tools=short}}
-| 32
-| 2
+| 49.36
+| 1
 | no
 | yes
 
@@ -1241,8 +1229,8 @@
 | 
 | 
 | {{Relation|83684|tools=short}}
-| 1.78
-| 1
+| 10.49
+| 2
 | no
 | yes
 
@@ -1253,7 +1241,7 @@
 | 
 | 
 | {{Relation|83685|tools=short}}
-| 0.72
+| 8.90
 | 1
 | no
 | yes
@@ -1265,7 +1253,7 @@
 | 
 | 
 | {{Relation|83686|tools=short}}
-| 1.02
+| 3.03
 | 1
 | no
 | yes
@@ -1275,9 +1263,9 @@
 | kct_yellow
 | major
 | 
-| 
+| Mračná-Jeseník (žst)
 | {{Relation|83687|tools=short}}
-| 0.37
+| 0.79
 | 1
 | no
 | yes
@@ -1289,7 +1277,7 @@
 | 
 | 
 | {{Relation|83688|tools=short}}
-| 8.88
+| 8.89
 | 1
 | no
 | yes
@@ -1301,7 +1289,7 @@
 | 
 | 
 | {{Relation|86238|tools=short}}
-| 25.01
+| 25.00
 | 2
 | no
 | yes
@@ -1325,7 +1313,7 @@
 | 
 | 
 | {{Relation|86434|tools=short}}
-| 11.32
+| 11.34
 | 1
 | no
 | yes
@@ -1337,8 +1325,8 @@
 | 
 | Plzeň - Třemošná - Chotíkov - Vejprnice - Radyně - Starý Plzenec
 | {{Relation|87590|tools=short}}
-| 48.99
-| 5
+| 48.95
+| 1
 | no
 | yes
 
@@ -1349,7 +1337,7 @@
 | Okružní NS Starý Plzenec
 | Starý Plzenec - Hůrka - Sedlec - Radyně - Starý Plzenec
 | {{Relation|87591|tools=short}}
-| 9.33
+| 9.34
 | 1
 | no
 | yes
@@ -1361,7 +1349,7 @@
 | 
 | 
 | {{Relation|87892|tools=short}}
-| 13.59
+| 15.37
 | 2
 | no
 | yes
@@ -1397,7 +1385,7 @@
 | 
 | Bílovice n. Svitavou - Blansko
 | {{Relation|88389|tools=short}}
-| 24.08
+| 24.57
 | 1
 | no
 | yes
@@ -1445,7 +1433,7 @@
 | NS Nelesní krajina
 | 
 | {{Relation|90041|tools=short}}
-| 5.8
+| 5.80
 | 1
 | no
 | yes
@@ -1457,8 +1445,8 @@
 | 
 | 
 | {{Relation|90042|tools=short}}
-| 6.09
-| 1
+| 7.36
+| 3
 | no
 | yes
 
@@ -1469,8 +1457,8 @@
 | 
 | 
 | {{Relation|90043|tools=short}}
-| 10.92
-| 1
+| 11.13
+| 2
 | no
 | yes
 
@@ -1505,7 +1493,7 @@
 | 
 | 
 | {{Relation|103553|tools=short}}
-| 3.16
+| 3.17
 | 1
 | yes
 | yes
@@ -1539,11 +1527,11 @@
 | kct_yellow
 | major
 | 
-| 
+| Český Krumlov (bus) - Černice
 | {{Relation|109100|tools=short}}
-| 8.67
+| 9.05
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -1565,7 +1553,7 @@
 | 
 | Zlatá Koruna-Bohuskovická myslivna
 | {{Relation|109103|tools=short}}
-| 18.15
+| 18.16
 | 2
 | no
 | yes
@@ -1577,7 +1565,7 @@
 | 
 | 
 | {{Relation|109232|tools=short}}
-| 7.78
+| 7.79
 | 1
 | yes
 | yes
@@ -1596,12 +1584,36 @@
 
 |-
 |  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|110102|tools=short}}
+| 1.15
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| 
+| Kutná Hora
+| {{Relation|110103|tools=short}}
+| 0.91
+| 1
+| no
+| yes
+
+|-
+|  
 | kct_blue
 | major
 | 
 | Rožmberk nad Vltavou-Český krumlov
 | {{Relation|111106|tools=short}}
-| 18.58
+| 18.59
 | 3
 | no
 | yes
@@ -1611,9 +1623,9 @@
 | kct_red
 | major
 | 
-| Český Krumlov-Svatý Tomáš
+| Český Krumlov (zámek) - Svatý Tomáš
 | {{Relation|111107|tools=short}}
-| 27.82
+| 30.43
 | 2
 | no
 | yes
@@ -1637,7 +1649,7 @@
 | 
 | Křižánky - Na Brušovci - Herálec - Žákova hora - Fryšava
 | {{Relation|113213|tools=short}}
-| 9.76
+| 13.97
 | 3
 | no
 | yes
@@ -1649,8 +1661,8 @@
 | 
 | Čachnov - Karlštejn - Zkamnělý zámek - Křižánky - Devět skal - Herálec - Hlinsko
 | {{Relation|113279|tools=short}}
-| 18.91
-| 1
+| 27.75
+| 2
 | no
 | yes
 
@@ -1661,7 +1673,7 @@
 | 
 | Kadov - Medlov - Fryšava - Devět skal - Svratka - Svratouch - Čachnov
 | {{Relation|113536|tools=short}}
-| 19.06
+| 22.40
 | 2
 | no
 | yes
@@ -1671,10 +1683,10 @@
 | kct_red
 | major
 | 
-| Vír -Jimramov - Daňkovice - Malinská - Žákova Hora
+| Nedvědice - Vír - Karasín - Jimramov - Malinská - Žákova Hora - Žďár - Přibyslav
 | {{Relation|114334|tools=short}}
-| 36.31
-| 5
+| 77.86
+| 8
 | no
 | yes
 
@@ -1686,7 +1698,7 @@
 | 
 | {{Relation|114507|tools=short}}
 | 2.93
-| 2
+| 1
 | no
 | yes
 
@@ -1703,25 +1715,13 @@
 | yes
 
 |-
-|  
-| kct_yellow
-| major
-| 
-| 
-| {{Relation|116268|tools=short}}
-| 4.5
-| 1
-| no
-| yes
-
-|-
 |  1231
 | kct_blue
 | major
 | 
-| Černá v pošumaví-Rožumberk nad Vltavou
+| Nová Pec (žst) - Český Krumlov (zámek)
 | {{Relation|116295|tools=short}}
-| 25.36
+| 35.68
 | 1
 | no
 | yes
@@ -1745,7 +1745,7 @@
 | 
 | Kralupy-Okoř
 | {{Relation|116516|tools=short}}
-| 24.84
+| 24.83
 | 1
 | yes
 | yes
@@ -1757,7 +1757,7 @@
 | 
 | 
 | {{Relation|117543|tools=short}}
-| 6
+| 6.00
 | 2
 | no
 | yes
@@ -1769,7 +1769,7 @@
 | 
 | 
 | {{Relation|117544|tools=short}}
-| 1.9
+| 1.90
 | 1
 | no
 | yes
@@ -1787,13 +1787,13 @@
 | yes
 
 |-
-|  
+|  0135
 | kct_red
 | major
 | 
-| Kleť - Chvalšiny
+| Zlatá Koruna - Chvalšiny
 | {{Relation|120762|tools=short}}
-| 6.71
+| 13.98
 | 1
 | no
 | yes
@@ -1805,7 +1805,7 @@
 | 
 | Český Krumlov (zám.) - Ktiš
 | {{Relation|120763|tools=short}}
-| 16.86
+| 17.18
 | 3
 | no
 | yes
@@ -1829,7 +1829,7 @@
 | 
 | České Budějovice - jižní zastávka - Kaplice (bus)
 | {{Relation|125613|tools=short}}
-| 26.66
+| 26.67
 | 1
 | no
 | yes
@@ -1841,7 +1841,7 @@
 | 
 | 
 | {{Relation|130988|tools=short}}
-| 3.96
+| 3.94
 | 1
 | yes
 | yes
@@ -1865,8 +1865,8 @@
 | 
 | Kralupy-Troja
 | {{Relation|130999|tools=short}}
-| 23.73
-| 1
+| 23.58
+| 2
 | yes
 | yes
 
@@ -1877,7 +1877,7 @@
 | 
 | 
 | {{Relation|131022|tools=short}}
-| 13.09
+| 13.10
 | 1
 | yes
 | yes
@@ -1913,7 +1913,7 @@
 | 
 | 
 | {{Relation|131996|tools=short}}
-| 2.76
+| 2.77
 | 1
 | yes
 | yes
@@ -1949,7 +1949,7 @@
 | 
 | Kralupy-Nelahozeves
 | {{Relation|132144|tools=short}}
-| 8.3
+| 8.30
 | 1
 | no
 | yes
@@ -1997,7 +1997,7 @@
 | 
 | Plzeň-Úterý-Toužim
 | {{Relation|132429|tools=short}}
-| 53.28
+| 53.33
 | 3
 | no
 | yes
@@ -2010,7 +2010,7 @@
 | Konstantinovy Lázně-Kozolupy
 | {{Relation|132443|tools=short}}
 | 26.88
-| 4
+| 3
 | no
 | yes
 
@@ -2057,7 +2057,7 @@
 | 
 | Roztoky-Klecánky-Přemyšlení-Dáblice-Kobylisy
 | {{Relation|133775|tools=short}}
-| 10.84
+| 10.86
 | 1
 | yes
 | yes
@@ -2069,7 +2069,7 @@
 | 
 | Svoboda nad Úpou-Chalupa Na Rozcestí
 | {{Relation|133843|tools=short}}
-| 15.52
+| 13.07
 | 1
 | no
 | yes
@@ -2117,7 +2117,7 @@
 | Cesta bratří Čapků
 | 
 | {{Relation|133851|tools=short}}
-| 17.26
+| 19.59
 | 3
 | no
 | yes
@@ -2151,22 +2151,22 @@
 | kct_green
 | major
 | 
-| Český Krumlov (zám.) - sedlo Kluku
+| Český Krumlov (zámek) - České Budějovice
 | {{Relation|142113|tools=short}}
-| 7.62
-| 1
+| 13.39
+| 2
 | no
 | yes
 
 |-
-|  
+|  1227
 | kct_blue
 | major
 | 
 | Kleť - Frantoly
 | {{Relation|142114|tools=short}}
-| 30.37
-| 2
+| 30.32
+| 1
 | no
 | yes
 
@@ -2187,10 +2187,10 @@
 | kct_blue
 | major
 | 
-| 
+| Volary - Libín - ?
 | {{Relation|142116|tools=short}}
-| 6.62
-| 2
+| 16.40
+| 3
 | no
 | yes
 
@@ -2201,7 +2201,7 @@
 | 
 | Těškov - Osek - Chrást - Plzeň Košutka
 | {{Relation|142181|tools=short}}
-| 33.31
+| 33.32
 | 1
 | no
 | yes
@@ -2225,7 +2225,7 @@
 | Žlutý místní okruh : Plzeň
 | Plzeň - Třemošná - Plzeň
 | {{Relation|143167|tools=short}}
-| 8.92
+| 10.65
 | 1
 | no
 | yes
@@ -2249,7 +2249,7 @@
 | 
 | 
 | {{Relation|158616|tools=short}}
-| 6.2
+| 6.20
 | 1
 | yes
 | yes
@@ -2273,7 +2273,7 @@
 | 
 | 
 | {{Relation|158620|tools=short}}
-| 6.56
+| 6.62
 | 1
 | yes
 | yes
@@ -2285,7 +2285,7 @@
 | 
 | Běchovice-Úvaly
 | {{Relation|158837|tools=short}}
-| 8.36
+| 8.33
 | 1
 | yes
 | yes
@@ -2297,7 +2297,7 @@
 | 
 | 
 | {{Relation|158852|tools=short}}
-| 3.2
+| 3.20
 | 1
 | no
 | yes
@@ -2309,7 +2309,7 @@
 | 
 | Vyžlovka-Zahrady
 | {{Relation|158854|tools=short}}
-| 19.76
+| 19.91
 | 1
 | no
 | yes
@@ -2333,7 +2333,7 @@
 | 
 | 
 | {{Relation|161821|tools=short}}
-| 11.81
+| 11.82
 | 3
 | no
 | yes
@@ -2357,9 +2357,9 @@
 | 
 | Loděnice-Černošice
 | {{Relation|162046|tools=short}}
-| 6.04
+| 17.32
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -2417,7 +2417,7 @@
 | 
 | Jílové-Průhonice-Psáry
 | {{Relation|162186|tools=short}}
-| 30.85
+| 30.88
 | 1
 | no
 | yes
@@ -2441,7 +2441,7 @@
 | 
 | 
 | {{Relation|163184|tools=short}}
-| 24.07
+| 24.13
 | 1
 | no
 | yes
@@ -2450,11 +2450,11 @@
 |  
 | kct_red
 | major
-| červená Třebíč - Radostice
+| (červená Třebíč - Radostice)
 | Radostice;Ivančice;Hrubšice;Pod Templštejnem;Mohelský mlýn;Rabštejn;Dalešická přehrada (hráz);Popůvky;Hartvíkovice;Bařina;Holoubek;Jirkasův mlýn;Číměř;Vladislav;Třebíč
 | {{Relation|163185|tools=short}}
-| 28.29
-| 4
+| 31.96
+| 5
 | no
 | yes
 
@@ -2489,7 +2489,7 @@
 | 
 | Plzeň-Kaznějov
 | {{Relation|165884|tools=short}}
-| 32.9
+| 32.90
 | 1
 | yes
 | yes
@@ -2525,21 +2525,21 @@
 | Klabava – Starý Plzenec
 | 
 | {{Relation|167347|tools=short}}
-| 12.6
+| 12.60
 | 1
 | yes
 | yes
 
 |-
-|  
+|  6365
 | kct_yellow
 | major
 | 
-| Plešovice - Křemže
+| Plešovice - Kleť
 | {{Relation|167441|tools=short}}
-| 12.05
+| 6.24
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -2547,11 +2547,11 @@
 | kct_yellow
 | major
 | 
-| 
+| Holubov (železniční stanice) - Dívčí Kámen
 | {{Relation|167443|tools=short}}
-| 2.67
+| 2.66
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -2559,11 +2559,11 @@
 | kct_red
 | major
 | 
-| Kleť-Zlatá Koruna-Boršov nad Vltavou
+| Zlatá Koruna - Boršov nad Vltavou (železniční stanice)
 | {{Relation|167444|tools=short}}
-| 23.21
-| 2
-| no
+| 16.50
+| 1
+| yes
 | yes
 
 |-
@@ -2585,7 +2585,7 @@
 | 
 | Nepomuk - Blovice - Vlčtejn - Nebílovský Borek
 | {{Relation|167790|tools=short}}
-| 12.94
+| 28.22
 | 1
 | no
 | yes
@@ -2640,14 +2640,14 @@
 
 |-
 |  
-| kct_red
-| major
+| kct_yellow
+| interesting_object
 | 
 | 
 | {{Relation|168618|tools=short}}
-| 1.87
+| 1.73
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -2717,7 +2717,7 @@
 | 
 | 
 | {{Relation|173398|tools=short}}
-| 46
+| 46.00
 | 3
 | no
 | yes
@@ -2789,7 +2789,7 @@
 | 
 | 
 | {{Relation|173456|tools=short}}
-| 0.1
+| 0.10
 | 1
 | no
 | yes
@@ -2825,8 +2825,8 @@
 | 
 | Kosova hora-Ounuz
 | {{Relation|176431|tools=short}}
-| 10.1
-| 2
+| 12.14
+| 4
 | no
 | yes
 
@@ -2849,7 +2849,7 @@
 | 
 | 
 | {{Relation|176439|tools=short}}
-| 1.67
+| 1.68
 | 1
 | no
 | yes
@@ -2885,7 +2885,7 @@
 | 
 | České Vrbné-Týn nad Vltavou
 | {{Relation|176609|tools=short}}
-| 32.24
+| 32.23
 | 4
 | no
 | yes
@@ -3005,7 +3005,7 @@
 | 
 | Strašice-Kozel (kemp)-Šťáhlavy
 | {{Relation|185518|tools=short}}
-| 21.81
+| 21.82
 | 3
 | no
 | yes
@@ -3053,7 +3053,7 @@
 | 
 | 
 | {{Relation|188893|tools=short}}
-| 11.33
+| 11.34
 | 3
 | no
 | yes
@@ -3065,8 +3065,8 @@
 | 
 | 
 | {{Relation|188894|tools=short}}
-| 37.25
-| 6
+| 38.04
+| 1
 | no
 | yes
 
@@ -3077,7 +3077,7 @@
 | 
 | 
 | {{Relation|189461|tools=short}}
-| 21.73
+| 21.72
 | 2
 | no
 | yes
@@ -3101,7 +3101,7 @@
 | 
 | Konstantinovy Lázně - Lestkov - Planá u Mariánských Lázní - Tachov
 | {{Relation|189594|tools=short}}
-| 26.9
+| 26.90
 | 1
 | no
 | yes
@@ -3114,7 +3114,7 @@
 | 
 | {{Relation|189613|tools=short}}
 | 10.15
-| 2
+| 1
 | no
 | yes
 
@@ -3137,7 +3137,7 @@
 | 
 | 
 | {{Relation|189807|tools=short}}
-| 6.83
+| 6.84
 | 1
 | yes
 | yes
@@ -3161,7 +3161,7 @@
 | 
 | 
 | {{Relation|191836|tools=short}}
-| 6.24
+| 10.99
 | 1
 | no
 | yes
@@ -3173,21 +3173,21 @@
 | 
 | Souš-Kořenov
 | {{Relation|192521|tools=short}}
-| 4.71
+| 4.70
 | 1
 | yes
 | yes
 
 |-
-|  
+|  1253
 | kct_blue
 | major
 | 
-| Nový dvůr - rozc. Tunel?
+| Nový dvůr - rozcestí U Tunelu
 | {{Relation|193071|tools=short}}
-| 4.33
+| 5.25
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -3221,8 +3221,8 @@
 | 
 | Sojovice-Nymburk
 | {{Relation|195447|tools=short}}
-| 28.5
-| 3
+| 31.34
+| 2
 | no
 | yes
 
@@ -3233,7 +3233,7 @@
 | 
 | 
 | {{Relation|195449|tools=short}}
-| 2
+| 2.00
 | 2
 | no
 | yes
@@ -3243,9 +3243,9 @@
 | kct_yellow
 | major
 | 
-| Český Krumlov-Zátoň
+| Český Krumlov (zámek) - Zátoň
 | {{Relation|198110|tools=short}}
-| 4.08
+| 10.54
 | 2
 | no
 | yes
@@ -3303,9 +3303,9 @@
 | kct_blue
 | major
 | 
-| Davle-Senohraby
+| Libřice, Davle - Chlum (rozc.)
 | {{Relation|223176|tools=short}}
-| 39.16
+| 44.98
 | 1
 | no
 | yes
@@ -3377,8 +3377,8 @@
 | 
 | 
 | {{Relation|223318|tools=short}}
-| 13.19
-| 2
+| 14.33
+| 3
 | no
 | yes
 
@@ -3386,11 +3386,11 @@
 |  
 | kct_red
 | major
-| 
-| 
+| (červená Velká Bíteš - Náměšť nad Oslavou - Levnov - Pravková)
+| Velká Bíteš (bus);Náměšť nad Oslavou (žst);Lamberk (zříc. odb.);Senoradský mlýn;Vysoké Popovice (žst);Zastávka u Brna (žst);Javůrek;Pravková
 | {{Relation|223319|tools=short}}
-| 20.86
-| 5
+| 28.11
+| 8
 | no
 | yes
 
@@ -3449,7 +3449,7 @@
 | 
 | 
 | {{Relation|223327|tools=short}}
-| 5.8
+| 5.80
 | 2
 | no
 | yes
@@ -3473,7 +3473,7 @@
 | 
 | 
 | {{Relation|223329|tools=short}}
-| 9.6
+| 9.60
 | 1
 | no
 | yes
@@ -3495,7 +3495,7 @@
 | kct_yellow
 | major
 | 
-| 
+| Chocerady - Vojkov, háj.
 | {{Relation|223334|tools=short}}
 | 22.79
 | 1
@@ -3509,8 +3509,8 @@
 | 
 | Chocerady-Zvánovický potok
 | {{Relation|223335|tools=short}}
-| 9.32
-| 3
+| 10.57
+| 2
 | no
 | yes
 
@@ -3521,7 +3521,7 @@
 | 
 | Votice-Vlašim
 | {{Relation|223336|tools=short}}
-| 24
+| 24.01
 | 3
 | no
 | yes
@@ -3545,7 +3545,7 @@
 | 
 | 
 | {{Relation|223492|tools=short}}
-| 2.87
+| 2.77
 | 2
 | no
 | yes
@@ -3605,8 +3605,8 @@
 | 
 | 
 | {{Relation|223574|tools=short}}
-| 10.46
-| 7
+| 20.28
+| 5
 | no
 | yes
 
@@ -3641,7 +3641,7 @@
 | 
 | 
 | {{Relation|223637|tools=short}}
-| 6.95
+| 6.96
 | 1
 | no
 | yes
@@ -3653,9 +3653,9 @@
 | 
 | Žloukovice - Nový Jáchymov
 | {{Relation|224159|tools=short}}
-| 3.93
+| 5.12
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -3677,7 +3677,7 @@
 | 
 | Filipova Huť - Na ztraceném
 | {{Relation|227647|tools=short}}
-| 6.79
+| 6.80
 | 1
 | yes
 | yes
@@ -3785,7 +3785,7 @@
 | 
 | 
 | {{Relation|229809|tools=short}}
-| 1.2
+| 1.20
 | 1
 | no
 | yes
@@ -3821,7 +3821,7 @@
 | 
 | Vrchlabí-Petrova bouda
 | {{Relation|237045|tools=short}}
-| 10.78
+| 10.85
 | 2
 | no
 | yes
@@ -3845,7 +3845,7 @@
 | 
 | Nad Růžohorským sedlem-Jelenka
 | {{Relation|237047|tools=short}}
-| 3.6
+| 3.60
 | 1
 | yes
 | yes
@@ -3857,7 +3857,7 @@
 | 
 | Jelenka-Horní malá Úpa
 | {{Relation|237048|tools=short}}
-| 2.79
+| 2.80
 | 1
 | no
 | yes
@@ -3977,7 +3977,7 @@
 | 
 | Svoboda nad Úpou-Javoří důl
 | {{Relation|237059|tools=short}}
-| 0.66
+| 4.55
 | 1
 | no
 | yes
@@ -3989,8 +3989,8 @@
 | 
 | 
 | {{Relation|237060|tools=short}}
-| 0.94
-| 2
+| 5.11
+| 1
 | no
 | yes
 
@@ -4001,7 +4001,7 @@
 | 
 | Špindlerův Mlýn-Nad boudou Mír
 | {{Relation|237097|tools=short}}
-| 2.7
+| 2.70
 | 1
 | no
 | yes
@@ -4023,11 +4023,11 @@
 | kct_blue
 | major
 | 
-| Hraniční potok-Pod Martinkovským vrchem
+| Hraniční potok - Pod Martinkovským vrchem
 | {{Relation|237753|tools=short}}
-| 4.73
+| 4.72
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -4037,8 +4037,8 @@
 | 
 | Studánky-Frymburk
 | {{Relation|237754|tools=short}}
-| 4.37
-| 1
+| 5.01
+| 2
 | no
 | yes
 
@@ -4097,7 +4097,7 @@
 | 
 | Rožmberk nad Vltavou-Pohorská ves
 | {{Relation|237809|tools=short}}
-| 23.5
+| 23.50
 | 2
 | no
 | yes
@@ -4121,8 +4121,8 @@
 | 
 | Hluboká nad Vltavou-Čtyři dvory
 | {{Relation|238094|tools=short}}
-| 6.78
-| 1
+| 9.70
+| 2
 | no
 | yes
 
@@ -4205,9 +4205,9 @@
 | 
 | Nasavrky-Lapáčkův mlýn
 | {{Relation|238125|tools=short}}
-| 0.83
-| 2
-| no
+| 3.58
+| 1
+| yes
 | yes
 
 |-
@@ -4217,8 +4217,8 @@
 | 
 | 
 | {{Relation|238298|tools=short}}
-| 6.25
-| 1
+| 10.31
+| 2
 | no
 | yes
 
@@ -4229,7 +4229,7 @@
 | 
 | Sedlec-Střezimíř
 | {{Relation|238299|tools=short}}
-| 11.26
+| 11.29
 | 1
 | no
 | yes
@@ -4241,7 +4241,7 @@
 | 
 | Starý zámek-Jistebnice
 | {{Relation|238300|tools=short}}
-| 10.39
+| 10.45
 | 1
 | no
 | yes
@@ -4253,8 +4253,8 @@
 | 
 | Sedlec-Heřmaničky
 | {{Relation|238307|tools=short}}
-| 5.54
-| 1
+| 6.72
+| 2
 | no
 | yes
 
@@ -4337,8 +4337,8 @@
 | 
 | 
 | {{Relation|238400|tools=short}}
-| 11.88
-| 3
+| 12.61
+| 2
 | no
 | yes
 
@@ -4361,7 +4361,7 @@
 | 
 | Kostelec nad Černými Lesy-Doubravčice
 | {{Relation|238739|tools=short}}
-| 12.69
+| 12.70
 | 1
 | yes
 | yes
@@ -4385,7 +4385,7 @@
 | 
 | Špičák-Špičák
 | {{Relation|238753|tools=short}}
-| 2
+| 2.00
 | 1
 | no
 | yes
@@ -4421,7 +4421,7 @@
 | 
 | 
 | {{Relation|252544|tools=short}}
-| 27.67
+| 27.91
 | 5
 | no
 | yes
@@ -4445,7 +4445,7 @@
 | 
 | 
 | {{Relation|252546|tools=short}}
-| 3.8
+| 3.80
 | 1
 | no
 | yes
@@ -4493,8 +4493,8 @@
 | 
 | 
 | {{Relation|253083|tools=short}}
-| 15.01
-| 3
+| 15.21
+| 2
 | no
 | yes
 
@@ -4529,7 +4529,7 @@
 | 
 | 
 | {{Relation|253086|tools=short}}
-| 17.33
+| 17.44
 | 1
 | no
 | yes
@@ -4541,7 +4541,7 @@
 | 
 | Děčín - Hřensko - Jetřichovice - Jedlová
 | {{Relation|253090|tools=short}}
-| 50.29
+| 51.09
 | 2
 | no
 | yes
@@ -4553,7 +4553,7 @@
 | 
 | 
 | {{Relation|253091|tools=short}}
-| 90.42
+| 90.49
 | 1
 | no
 | yes
@@ -4589,7 +4589,7 @@
 | 
 | 
 | {{Relation|253095|tools=short}}
-| 6.1
+| 6.10
 | 1
 | no
 | yes
@@ -4601,7 +4601,7 @@
 | 
 | 
 | {{Relation|253096|tools=short}}
-| 6.9
+| 6.90
 | 1
 | no
 | yes
@@ -4613,7 +4613,7 @@
 | 
 | 
 | {{Relation|253097|tools=short}}
-| 14.99
+| 14.98
 | 2
 | no
 | yes
@@ -4625,7 +4625,7 @@
 | 
 | 
 | {{Relation|253108|tools=short}}
-| 5.3
+| 5.29
 | 1
 | no
 | yes
@@ -4649,7 +4649,7 @@
 | Modrá
 | 
 | {{Relation|253131|tools=short}}
-| 19.47
+| 19.59
 | 2
 | no
 | yes
@@ -4661,7 +4661,7 @@
 | 
 | 
 | {{Relation|253132|tools=short}}
-| 7.44
+| 7.43
 | 2
 | no
 | yes
@@ -4695,10 +4695,10 @@
 | kct_blue
 | major
 | 
-| Velká Bíteš - Veverská Bitýška - Tišnov - Lomnice
+| Třebíč - Budišov - Tasov - Ořechov - Osová Bitýška - Velká Bíteš - Veverská Bitýška - Tišnov - Lomnice
 | {{Relation|253166|tools=short}}
-| 38.22
-| 2
+| 73.44
+| 6
 | no
 | yes
 
@@ -4769,7 +4769,7 @@
 | 
 | 
 | {{Relation|253211|tools=short}}
-| 1.1
+| 1.10
 | 1
 | no
 | yes
@@ -4781,7 +4781,7 @@
 | 
 | 
 | {{Relation|253212|tools=short}}
-| 0.12
+| 0.10
 | 1
 | no
 | yes
@@ -4793,7 +4793,7 @@
 | 
 | Javůrek - Žebětín - Kývalka - Tetčice - Omice
 | {{Relation|253277|tools=short}}
-| 28.41
+| 28.61
 | 1
 | no
 | yes
@@ -4829,7 +4829,7 @@
 | 
 | 
 | {{Relation|253456|tools=short}}
-| 15.8
+| 15.80
 | 1
 | no
 | yes
@@ -4841,7 +4841,7 @@
 | 
 | 
 | {{Relation|253457|tools=short}}
-| 5.9
+| 5.89
 | 2
 | no
 | yes
@@ -4865,8 +4865,8 @@
 | 
 | 
 | {{Relation|253476|tools=short}}
-| 9.61
-| 2
+| 10.56
+| 1
 | no
 | yes
 
@@ -4877,7 +4877,7 @@
 | 
 | 
 | {{Relation|253477|tools=short}}
-| 2.35
+| 2.34
 | 1
 | no
 | yes
@@ -4901,7 +4901,7 @@
 | 
 | Komořany-Modřany
 | {{Relation|253494|tools=short}}
-| 3.33
+| 3.32
 | 1
 | no
 | yes
@@ -4925,7 +4925,7 @@
 | 
 | Točná-Jarov
 | {{Relation|253496|tools=short}}
-| 7.66
+| 7.68
 | 1
 | yes
 | yes
@@ -4937,7 +4937,7 @@
 | 
 | 
 | {{Relation|253500|tools=short}}
-| 4.2
+| 4.20
 | 1
 | yes
 | yes
@@ -4949,8 +4949,8 @@
 | 
 | 
 | {{Relation|253506|tools=short}}
-| 20.92
-| 3
+| 20.64
+| 2
 | no
 | yes
 
@@ -4961,7 +4961,7 @@
 | 
 | Na dolech-Psáry
 | {{Relation|253508|tools=short}}
-| 10.19
+| 10.56
 | 1
 | no
 | yes
@@ -4985,7 +4985,7 @@
 | 
 | 
 | {{Relation|253521|tools=short}}
-| 4.55
+| 4.54
 | 1
 | no
 | yes
@@ -4997,7 +4997,7 @@
 | 
 | Roztyly-Kunratice
 | {{Relation|253522|tools=short}}
-| 5.74
+| 5.75
 | 1
 | no
 | yes
@@ -5009,8 +5009,8 @@
 | 
 | Mělník-Dubá-Liběchov-Rozprechtice
 | {{Relation|253527|tools=short}}
-| 22.83
-| 3
+| 25.53
+| 2
 | no
 | yes
 
@@ -5021,8 +5021,8 @@
 | 
 | Liběchov-Liběchov
 | {{Relation|253528|tools=short}}
-| 1.81
-| 2
+| 10.81
+| 1
 | no
 | yes
 
@@ -5033,7 +5033,7 @@
 | 
 | Želízy-Štětí
 | {{Relation|253529|tools=short}}
-| 1.32
+| 5.44
 | 1
 | no
 | yes
@@ -5081,8 +5081,8 @@
 | 
 | 
 | {{Relation|253542|tools=short}}
-| 14.07
-| 4
+| 17.21
+| 3
 | no
 | yes
 
@@ -5093,7 +5093,7 @@
 | 
 | 
 | {{Relation|253543|tools=short}}
-| 2.5
+| 2.50
 | 1
 | no
 | yes
@@ -5103,9 +5103,9 @@
 | kct_red
 | major
 | 
-| Náchod - Pod Pasekou
+| Náchod -Hronov-Police-Hvězda-Broumov-Teplice-Adršpach- Pod Pasekou
 | {{Relation|253544|tools=short}}
-| 24.72
+| 28.56
 | 6
 | no
 | yes
@@ -5129,8 +5129,8 @@
 | 
 | 
 | {{Relation|253561|tools=short}}
-| 11.07
-| 1
+| 16.37
+| 3
 | no
 | yes
 
@@ -5153,7 +5153,7 @@
 | 
 | Hronov - Odolov
 | {{Relation|253569|tools=short}}
-| 11.26
+| 11.27
 | 1
 | yes
 | yes
@@ -5225,7 +5225,7 @@
 | 
 | 
 | {{Relation|253594|tools=short}}
-| 24.7
+| 24.70
 | 1
 | no
 | yes
@@ -5249,7 +5249,7 @@
 | 
 | Plzeň-Buben
 | {{Relation|254279|tools=short}}
-| 14.68
+| 14.75
 | 1
 | no
 | yes
@@ -5369,7 +5369,7 @@
 | 
 | Malá Chuchle-Velká Chuchle
 | {{Relation|254365|tools=short}}
-| 3.25
+| 3.26
 | 1
 | yes
 | yes
@@ -5394,7 +5394,7 @@
 | Lochovice-Kařízek
 | {{Relation|254378|tools=short}}
 | 2.33
-| 2
+| 1
 | no
 | yes
 
@@ -5453,7 +5453,7 @@
 | 
 | Krkavec - Plasy - Mariánský Týnec - Machův Mlýn
 | {{Relation|254419|tools=short}}
-| 23.4
+| 23.40
 | 1
 | no
 | yes
@@ -5477,8 +5477,8 @@
 | 
 | Plzeň-Černice - Čižice - Přeštice - Klatovy
 | {{Relation|254493|tools=short}}
-| 18.51
-| 1
+| 40.86
+| 2
 | no
 | yes
 
@@ -5501,7 +5501,7 @@
 | 
 | 
 | {{Relation|254499|tools=short}}
-| 19.91
+| 19.92
 | 1
 | yes
 | yes
@@ -5525,8 +5525,8 @@
 | 
 | 
 | {{Relation|254506|tools=short}}
-| 12.18
-| 1
+| 11.48
+| 2
 | no
 | yes
 
@@ -5537,7 +5537,7 @@
 | 
 | Český Krumlov-Vyšný
 | {{Relation|254558|tools=short}}
-| 0.08
+| 0.07
 | 1
 | no
 | yes
@@ -5549,7 +5549,7 @@
 | 
 | Liberec-Dolní paseky
 | {{Relation|254610|tools=short}}
-| 3.67
+| 4.59
 | 1
 | no
 | yes
@@ -5561,7 +5561,7 @@
 | Liberec-Křižanské sedlo
 | Liberec-Křižanské sedlo
 | {{Relation|254611|tools=short}}
-| 9.57
+| 9.56
 | 1
 | no
 | yes
@@ -5609,7 +5609,7 @@
 | 
 | Labská bouda-Sněžné Jámy
 | {{Relation|254702|tools=short}}
-| 1.8
+| 1.80
 | 1
 | no
 | yes
@@ -5621,7 +5621,7 @@
 | 
 | Špindlerův Mlýn-Špindlerova bouda
 | {{Relation|254703|tools=short}}
-| 0.66
+| 0.74
 | 2
 | no
 | yes
@@ -5643,11 +5643,11 @@
 | kct_red
 | peak
 | 
-| 
+| Kraví hora (rozcestí) - Kraví hora - vrchol
 | {{Relation|269288|tools=short}}
 | 0.46
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -5693,7 +5693,7 @@
 | 
 | 
 | {{Relation|271656|tools=short}}
-| 4.49
+| 4.50
 | 1
 | yes
 | yes
@@ -5717,8 +5717,8 @@
 | 
 | 
 | {{Relation|275650|tools=short}}
-| 12.1
-| 2
+| 14.44
+| 1
 | no
 | yes
 
@@ -5777,7 +5777,7 @@
 | 
 | Jabkenice-Prachovské skály
 | {{Relation|280671|tools=short}}
-| 4.7
+| 4.75
 | 5
 | no
 | yes
@@ -5801,7 +5801,7 @@
 | 
 | Libáň-Sobotka
 | {{Relation|280674|tools=short}}
-| 0.1
+| 0.10
 | 1
 | no
 | yes
@@ -5825,8 +5825,8 @@
 | Naučná stezka Zábělá
 | 
 | {{Relation|285685|tools=short}}
-| 4.22
-| 4
+| 4.29
+| 1
 | no
 | -
 
@@ -5838,7 +5838,7 @@
 | Plzeň-Doubravka - Horní Bříza
 | {{Relation|285686|tools=short}}
 | 21.52
-| 2
+| 1
 | no
 | yes
 
@@ -5861,8 +5861,8 @@
 | 
 | 
 | {{Relation|295213|tools=short}}
-| 11.51
-| 2
+| 18.77
+| 3
 | no
 | yes
 
@@ -5873,7 +5873,7 @@
 | 
 | 
 | {{Relation|295216|tools=short}}
-| 22.46
+| 22.45
 | 1
 | no
 | yes
@@ -5921,7 +5921,7 @@
 | 
 | Tábor(žst,bus) - Větrovy-Hýlačka
 | {{Relation|295228|tools=short}}
-| 5.29
+| 5.28
 | 1
 | yes
 | yes
@@ -5946,7 +5946,7 @@
 | 
 | {{Relation|299545|tools=short}}
 | 12.43
-| 2
+| 1
 | no
 | yes
 
@@ -5957,7 +5957,7 @@
 | 
 | 
 | {{Relation|302225|tools=short}}
-| 3.95
+| 3.96
 | 1
 | yes
 | yes
@@ -5981,8 +5981,8 @@
 | 
 | Dubá-Zakšín
 | {{Relation|302323|tools=short}}
-| 17.39
-| 3
+| 21.56
+| 2
 | no
 | yes
 
@@ -6017,7 +6017,7 @@
 | 
 | Houska-Dubá
 | {{Relation|302349|tools=short}}
-| 1.4
+| 1.40
 | 1
 | no
 | yes
@@ -6029,7 +6029,7 @@
 | 
 | Dubá-Zahrádky
 | {{Relation|302350|tools=short}}
-| 18.21
+| 18.24
 | 4
 | no
 | yes
@@ -6089,7 +6089,7 @@
 | 
 | 
 | {{Relation|308257|tools=short}}
-| 7.28
+| 7.29
 | 1
 | no
 | yes
@@ -6101,7 +6101,7 @@
 | 
 | 
 | {{Relation|308258|tools=short}}
-| 2.4
+| 2.39
 | 1
 | no
 | yes
@@ -6221,7 +6221,7 @@
 | 
 | Kuřim - Macocha
 | {{Relation|315486|tools=short}}
-| 23.3
+| 23.30
 | 2
 | yes
 | yes
@@ -6233,7 +6233,7 @@
 | 
 | Babí lom - Svinošice
 | {{Relation|315487|tools=short}}
-| 4.3
+| 4.30
 | 1
 | yes
 | yes
@@ -6281,9 +6281,9 @@
 | 
 | 
 | {{Relation|326534|tools=short}}
-| 8.88
-| 3
-| no
+| 9.65
+| 1
+| yes
 | yes
 
 |-
@@ -6294,7 +6294,7 @@
 | 
 | {{Relation|326535|tools=short}}
 | 3.38
-| 3
+| 2
 | no
 | yes
 
@@ -6365,7 +6365,7 @@
 | 
 | 
 | {{Relation|326602|tools=short}}
-| 4.34
+| 5.19
 | 1
 | no
 | yes
@@ -6377,7 +6377,7 @@
 | 
 | 
 | {{Relation|326604|tools=short}}
-| 1.5
+| 1.50
 | 1
 | no
 | yes
@@ -6401,7 +6401,7 @@
 | 
 | Mšeno-Střezivojice
 | {{Relation|326608|tools=short}}
-| 9.29
+| 9.30
 | 2
 | no
 | yes
@@ -6413,7 +6413,7 @@
 | 
 | 
 | {{Relation|326610|tools=short}}
-| 24.14
+| 24.09
 | 1
 | probably yes
 | yes
@@ -6425,7 +6425,7 @@
 | 
 | Holany-Tuhaň
 | {{Relation|326611|tools=short}}
-| 4.41
+| 7.42
 | 3
 | no
 | yes
@@ -6459,9 +6459,9 @@
 | kct_yellow
 | major
 | 
-| 
+| Chřibská-Police
 | {{Relation|326626|tools=short}}
-| 1
+| 1.40
 | 1
 | no
 | yes
@@ -6473,7 +6473,7 @@
 | 
 | 
 | {{Relation|326627|tools=short}}
-| 24.07
+| 24.05
 | 2
 | no
 | yes
@@ -6497,7 +6497,7 @@
 | 
 | Harrachov (kemp)-Pod Jakšínem
 | {{Relation|326662|tools=short}}
-| 4.33
+| 4.34
 | 1
 | yes
 | yes
@@ -6521,7 +6521,7 @@
 | 
 | U Hanč-Vrbatovy mohyly-Bývalé Jestřabý boudy
 | {{Relation|331129|tools=short}}
-| 0.25
+| 0.26
 | 1
 | yes
 | yes
@@ -6557,7 +6557,7 @@
 | 
 | Doksy-Loděnice-Nové strašecí
 | {{Relation|331787|tools=short}}
-| 11.01
+| 11.02
 | 3
 | no
 | yes
@@ -6617,8 +6617,8 @@
 | Tanvaldský vyhlídkový okruh
 | Tanvald-Desná-Tanvald
 | {{Relation|331809|tools=short}}
-| 3.97
-| 3
+| 6.20
+| 2
 | no
 | yes
 
@@ -6629,7 +6629,7 @@
 | 
 | Landštejn-Dačice
 | {{Relation|331819|tools=short}}
-| 13.4
+| 13.40
 | 2
 | no
 | yes
@@ -6653,7 +6653,7 @@
 | 
 | Tanvald-Orle
 | {{Relation|331836|tools=short}}
-| 10.63
+| 10.65
 | 1
 | no
 | yes
@@ -6725,7 +6725,7 @@
 | 
 | Zbraslav-Jince
 | {{Relation|333265|tools=short}}
-| 43.59
+| 43.62
 | 1
 | no
 | yes
@@ -6821,7 +6821,7 @@
 | 
 | Příchovice-Dolní smržovka
 | {{Relation|334064|tools=short}}
-| 0.61
+| 0.62
 | 1
 | no
 | yes
@@ -6869,7 +6869,7 @@
 | 
 | Putim-Žižkův pomník u Sudoměře
 | {{Relation|334102|tools=short}}
-| 1.13
+| 1.12
 | 1
 | no
 | yes
@@ -6893,7 +6893,7 @@
 | 
 | Zvíkovský otavský most-? nad Vltavou
 | {{Relation|334119|tools=short}}
-| 0.3
+| 0.30
 | 1
 | no
 | yes
@@ -6941,7 +6941,7 @@
 | žlutá Zábělá
 | 
 | {{Relation|336441|tools=short}}
-| 1.43
+| 1.50
 | 1
 | yes
 | yes
@@ -6965,7 +6965,7 @@
 | 
 | Dolní Kořenov-Vysoké nad Jizerou
 | {{Relation|338457|tools=short}}
-| 10
+| 10.00
 | 1
 | no
 | yes
@@ -6989,8 +6989,8 @@
 | 
 | 
 | {{Relation|339310|tools=short}}
-| 1.15
-| 1
+| 5.93
+| 2
 | no
 | yes
 
@@ -7001,7 +7001,7 @@
 | 
 | Pod dívčí strání-Hořejší Vrchlabí
 | {{Relation|341003|tools=short}}
-| 1.89
+| 1.88
 | 1
 | no
 | yes
@@ -7037,7 +7037,7 @@
 | Cesta T. G. Masaryka
 | 
 | {{Relation|356446|tools=short}}
-| 1.96
+| 1.98
 | 2
 | no
 | yes
@@ -7157,7 +7157,7 @@
 | Okolo Rokytnice
 | 
 | {{Relation|367794|tools=short}}
-| 6
+| 6.00
 | 3
 | no
 | yes
@@ -7229,7 +7229,7 @@
 | 
 | 
 | {{Relation|369025|tools=short}}
-| 3.4
+| 3.40
 | 1
 | no
 | yes
@@ -7247,19 +7247,19 @@
 | yes
 
 |-
-|  
+|  1026
 | kct_blue
 | major
 | 
 | Stodůlky-Kulivá hora
 | {{Relation|369075|tools=short}}
-| 5.81
-| 2
+| 10.58
+| 1
 | no
 | yes
 
 |-
-|  
+|  3063
 | kct_green
 | major
 | 
@@ -7289,7 +7289,7 @@
 | 
 | Klánovice-Jirny
 | {{Relation|369090|tools=short}}
-| 2.5
+| 2.50
 | 1
 | no
 | yes
@@ -7325,7 +7325,7 @@
 | 
 | 
 | {{Relation|369225|tools=short}}
-| 2.72
+| 5.67
 | 1
 | no
 | yes
@@ -7349,8 +7349,8 @@
 | 
 | 
 | {{Relation|369232|tools=short}}
-| 7.44
-| 3
+| 8.51
+| 1
 | no
 | yes
 
@@ -7361,8 +7361,8 @@
 | Zlatá stezka Českého Ráje
 | Mladá Boleslav - Mnichovo Hradiště - Turnov - Jičín
 | {{Relation|369233|tools=short}}
-| 110.24
-| 3
+| 112.31
+| 4
 | no
 | yes
 
@@ -7409,7 +7409,7 @@
 | 
 | Žebrák-Žebrák
 | {{Relation|370084|tools=short}}
-| 10.23
+| 7.11
 | 1
 | no
 | yes
@@ -7443,9 +7443,9 @@
 | kct_yellow
 | major
 | 
-| 
+| Dobrá (lávka) - Nové údolí (CZ/D)
 | {{Relation|370093|tools=short}}
-| 9.14
+| 11.12
 | 1
 | no
 | yes
@@ -7469,7 +7469,7 @@
 | 
 | 
 | {{Relation|370225|tools=short}}
-| 28.8
+| 28.73
 | 2
 | no
 | yes
@@ -7481,7 +7481,7 @@
 | 
 | 
 | {{Relation|370226|tools=short}}
-| 9.9
+| 9.79
 | 1
 | no
 | yes
@@ -7517,7 +7517,7 @@
 | 
 | 
 | {{Relation|370476|tools=short}}
-| 3.04
+| 3.20
 | 1
 | no
 | yes
@@ -7553,7 +7553,7 @@
 | 
 | 
 | {{Relation|370486|tools=short}}
-| 5.37
+| 5.38
 | 1
 | no
 | yes
@@ -7650,7 +7650,7 @@
 | Beroun - Tetín - Liteň - Svinaře - Řevnice
 | {{Relation|371101|tools=short}}
 | 12.83
-| 4
+| 3
 | no
 | yes
 
@@ -7661,7 +7661,7 @@
 | 
 | 
 | {{Relation|371140|tools=short}}
-| 0.32
+| 0.33
 | 1
 | yes
 | yes
@@ -7697,7 +7697,7 @@
 | Husitská cesta
 | 
 | {{Relation|372818|tools=short}}
-| 11.4
+| 11.39
 | 1
 | yes
 | yes
@@ -7733,7 +7733,7 @@
 | 
 | 
 | {{Relation|373031|tools=short}}
-| 0.43
+| 0.42
 | 1
 | yes
 | yes
@@ -7757,7 +7757,7 @@
 | 
 | 
 | {{Relation|373033|tools=short}}
-| 11.9
+| 13.60
 | 1
 | no
 | yes
@@ -7781,7 +7781,7 @@
 | 
 | Hronov - Litoboř
 | {{Relation|373035|tools=short}}
-| 17.91
+| 17.90
 | 1
 | yes
 | yes
@@ -7814,10 +7814,10 @@
 |  
 | kct_red
 | major
-| 
+| Šluknov - Horní Světlá
 | 
 | {{Relation|374001|tools=short}}
-| 38.33
+| 44.20
 | 2
 | no
 | yes
@@ -7829,7 +7829,7 @@
 | 
 | Štěchovice-Čím
 | {{Relation|374919|tools=short}}
-| 5.53
+| 7.64
 | 1
 | no
 | yes
@@ -7841,8 +7841,8 @@
 | 
 | Štěchovice-Živohošť
 | {{Relation|374920|tools=short}}
-| 6.57
-| 4
+| 10.73
+| 3
 | no
 | yes
 
@@ -7889,8 +7889,8 @@
 | 
 | 
 | {{Relation|374955|tools=short}}
-| 20.84
-| 1
+| 19.00
+| 3
 | no
 | yes
 
@@ -7925,7 +7925,7 @@
 | 
 | 
 | {{Relation|374979|tools=short}}
-| 7.69
+| 7.77
 | 1
 | no
 | yes
@@ -7937,7 +7937,7 @@
 | 
 | Úvaly-Senohraby
 | {{Relation|375004|tools=short}}
-| 30.69
+| 30.70
 | 1
 | no
 | yes
@@ -7973,7 +7973,7 @@
 | 
 | 
 | {{Relation|375021|tools=short}}
-| 5.71
+| 5.70
 | 1
 | no
 | yes
@@ -8045,7 +8045,7 @@
 | 
 | 
 | {{Relation|375098|tools=short}}
-| 5.99
+| 8.64
 | 1
 | no
 | yes
@@ -8081,7 +8081,7 @@
 | 
 | 
 | {{Relation|375103|tools=short}}
-| 7.4
+| 7.40
 | 1
 | no
 | yes
@@ -8093,7 +8093,7 @@
 | 
 | 
 | {{Relation|375104|tools=short}}
-| 2.8
+| 2.80
 | 1
 | yes
 | yes
@@ -8105,7 +8105,7 @@
 | 
 | 
 | {{Relation|375356|tools=short}}
-| 11.48
+| 16.54
 | 3
 | no
 | yes
@@ -8129,8 +8129,8 @@
 | 
 | 
 | {{Relation|375364|tools=short}}
-| 2.81
-| 1
+| 9.01
+| 3
 | no
 | yes
 
@@ -8141,7 +8141,7 @@
 | 
 | 
 | {{Relation|375384|tools=short}}
-| 2.75
+| 9.36
 | 1
 | no
 | yes
@@ -8150,10 +8150,10 @@
 |  
 | kct_red
 | major
-| 
-| 
+| (červená Jihlava - Třebíč)
+| Jihlava - Přibyslavice - Třebíč
 | {{Relation|375466|tools=short}}
-| 19.39
+| 25.67
 | 3
 | no
 | yes
@@ -8165,8 +8165,8 @@
 | 
 | 
 | {{Relation|375468|tools=short}}
-| 5.55
-| 4
+| 12.98
+| 3
 | no
 | yes
 
@@ -8177,8 +8177,8 @@
 | 
 | 
 | {{Relation|375530|tools=short}}
-| 8.61
-| 2
+| 15.89
+| 3
 | no
 | yes
 
@@ -8189,8 +8189,8 @@
 | 
 | 
 | {{Relation|375531|tools=short}}
-| 20.9
-| 2
+| 20.90
+| 1
 | no
 | yes
 
@@ -8213,7 +8213,7 @@
 | 
 | 
 | {{Relation|375533|tools=short}}
-| 2.68
+| 2.69
 | 1
 | no
 | yes
@@ -8225,7 +8225,7 @@
 | 
 | 
 | {{Relation|375561|tools=short}}
-| 1.52
+| 1.68
 | 1
 | no
 | yes
@@ -8237,7 +8237,7 @@
 | 
 | 
 | {{Relation|375566|tools=short}}
-| 6.57
+| 7.43
 | 1
 | no
 | yes
@@ -8279,13 +8279,13 @@
 | yes
 
 |-
-|  ???
+|  6306
 | kct_yellow
 | major
 | 
 | 
 | {{Relation|376274|tools=short}}
-| 0.87
+| 1.30
 | 1
 | no
 | yes
@@ -8294,7 +8294,7 @@
 |  
 | kct_yellow
 | major
-| 
+| Jiřetín pod Jedlovou - Dolní Podluží - Herrenwalde - Großschönau (Trixi-Park)
 | Jiřetín pod Jedlovou - Dolní Podluží - Herrenwalde - Großschönau (Trixi-Park)
 | {{Relation|377103|tools=short}}
 | 9.39
@@ -8333,7 +8333,7 @@
 | 
 | 
 | {{Relation|377872|tools=short}}
-| 7.77
+| 8.09
 | 3
 | no
 | yes
@@ -8345,8 +8345,8 @@
 | 
 | 
 | {{Relation|377921|tools=short}}
-| 13.56
-| 3
+| 20.11
+| 4
 | no
 | yes
 
@@ -8357,7 +8357,7 @@
 | 
 | 
 | {{Relation|377922|tools=short}}
-| 0.4
+| 3.16
 | 1
 | no
 | yes
@@ -8393,7 +8393,7 @@
 | 
 | Vlčák - Střílky - Cimburk - Koryčany
 | {{Relation|378229|tools=short}}
-| 11.48
+| 11.47
 | 1
 | no
 | yes
@@ -8417,7 +8417,7 @@
 | 
 | 
 | {{Relation|378231|tools=short}}
-| 12.6
+| 12.60
 | 1
 | no
 | yes
@@ -8429,7 +8429,7 @@
 | 
 | 
 | {{Relation|378232|tools=short}}
-| 5.99
+| 6.11
 | 1
 | no
 | yes
@@ -8453,8 +8453,8 @@
 | 
 | 
 | {{Relation|378234|tools=short}}
-| 24.4
-| 1
+| 30.45
+| 6
 | no
 | yes
 
@@ -8465,7 +8465,7 @@
 | 
 | 
 | {{Relation|378240|tools=short}}
-| 4.06
+| 4.07
 | 2
 | no
 | yes
@@ -8489,7 +8489,7 @@
 | 
 | 
 | {{Relation|378243|tools=short}}
-| 17.53
+| 17.51
 | 2
 | no
 | yes
@@ -8501,7 +8501,7 @@
 | 
 | 
 | {{Relation|378244|tools=short}}
-| 9.1
+| 9.10
 | 1
 | no
 | yes
@@ -8537,7 +8537,7 @@
 | Novoměstský okruh
 | Nové Město pod Smrkem - Nové Město pod Smrkem
 | {{Relation|380253|tools=short}}
-| 11.1
+| 11.11
 | 1
 | yes
 | yes
@@ -8593,7 +8593,7 @@
 |-
 |  
 | kct_yellow
-| foot
+| major
 | 
 | U Spálené hospody - Raspenava, žst.
 | {{Relation|384858|tools=short}}
@@ -8642,7 +8642,7 @@
 |  
 | kct_blue
 | major
-| 
+| Polesi-Petrovice
 | 
 | {{Relation|385871|tools=short}}
 | 5.76
@@ -8693,7 +8693,7 @@
 | 
 | Paličník
 | {{Relation|387341|tools=short}}
-| 0.06
+| 0.07
 | 1
 | yes
 | yes
@@ -8705,7 +8705,7 @@
 | 
 | Bělá - Točník - Vřesová studánka - Petrovka - Pod Pradědem - Ovčárna - Karlova Studánka
 | {{Relation|387407|tools=short}}
-| 7.68
+| 16.28
 | 1
 | no
 | yes
@@ -8717,7 +8717,7 @@
 | 
 | Ovčárna - Karlova Studánka
 | {{Relation|387408|tools=short}}
-| 1.29
+| 12.78
 | 1
 | no
 | yes
@@ -8729,7 +8729,7 @@
 | 
 | Malá Morávka - Karlova Studánka
 | {{Relation|387409|tools=short}}
-| 2.72
+| 13.79
 | 1
 | no
 | yes
@@ -8798,7 +8798,7 @@
 |  
 | kct_green
 | major
-| 
+| Krkávčí Skály
 | 
 | {{Relation|389100|tools=short}}
 | 1.95
@@ -8885,7 +8885,7 @@
 | 
 | 
 | {{Relation|392771|tools=short}}
-| 11.1
+| 14.89
 | 1
 | no
 | yes
@@ -8921,7 +8921,7 @@
 | 
 | Stožec - Knížecí Studánky - Voznice - Malá Hraštice
 | {{Relation|401010|tools=short}}
-| 11.37
+| 11.34
 | 1
 | yes
 | yes
@@ -8933,7 +8933,7 @@
 | 
 | 
 | {{Relation|404018|tools=short}}
-| 12.57
+| 12.70
 | 2
 | no
 | yes
@@ -8945,8 +8945,8 @@
 | 
 | Dolní Loučky - Níhov - Podmitrov - Borovník - Habří - Věžná
 | {{Relation|404019|tools=short}}
-| 5.29
-| 2
+| 6.69
+| 3
 | no
 | yes
 
@@ -8970,7 +8970,7 @@
 | 
 | {{Relation|415455|tools=short}}
 | 12.97
-| 4
+| 1
 | no
 | yes
 
@@ -9017,7 +9017,7 @@
 | Tři Iseriny
 | 
 | {{Relation|420639|tools=short}}
-| 1.04
+| 3.29
 | 1
 | no
 | yes
@@ -9029,7 +9029,7 @@
 | 
 | Tanvald-Jiředín pod Bukovou
 | {{Relation|443751|tools=short}}
-| 2.28
+| 5.18
 | 2
 | no
 | yes
@@ -9089,31 +9089,7 @@
 | 
 | 
 | {{Relation|530813|tools=short}}
-| 12.44
-| 1
-| no
-| yes
-
-|-
-|  
-| kct_green
-| major
-| 
-| 
-| {{Relation|532307|tools=short}}
-| 7.26
-| 4
-| no
-| yes
-
-|-
-|  
-| kct_red
-| major
-| 
-| Veverská Bitýška - Domašov - Zastávka - Vysoké Popovice
-| {{Relation|536637|tools=short}}
-| 3.95
+| 12.77
 | 1
 | no
 | yes
@@ -9161,7 +9137,7 @@
 | 
 | 
 | {{Relation|537111|tools=short}}
-| 0.25
+| 0.26
 | 1
 | yes
 | yes
@@ -9222,7 +9198,7 @@
 | Kaznějov - Kralovice - Mariánský Týnec
 | {{Relation|539850|tools=short}}
 | 8.24
-| 2
+| 1
 | no
 | yes
 
@@ -9233,7 +9209,7 @@
 | 
 | 
 | {{Relation|542174|tools=short}}
-| 15.79
+| 23.86
 | 4
 | no
 | yes
@@ -9257,7 +9233,7 @@
 | 
 | 
 | {{Relation|542221|tools=short}}
-| 8.5
+| 8.50
 | 2
 | no
 | yes
@@ -9269,7 +9245,7 @@
 | 
 | 
 | {{Relation|542256|tools=short}}
-| 4.8
+| 4.80
 | 1
 | no
 | yes
@@ -9282,7 +9258,7 @@
 | Mšeno;Vrátenská hora;Houska;Velký Beškov;Dubá
 | {{Relation|542352|tools=short}}
 | 4.15
-| 2
+| 1
 | no
 | yes
 
@@ -9293,7 +9269,7 @@
 | 
 | Houska - Kokořín
 | {{Relation|542468|tools=short}}
-| 0.87
+| 0.51
 | 1
 | no
 | yes
@@ -9305,7 +9281,7 @@
 | 
 | Lovosice-Ostrý
 | {{Relation|543056|tools=short}}
-| 10.25
+| 10.31
 | 1
 | yes
 | yes
@@ -9365,7 +9341,7 @@
 | 
 | KCT red - Ostravice-Lysá Hora
 | {{Relation|543617|tools=short}}
-| 7.2
+| 7.21
 | 1
 | no
 | yes
@@ -9414,7 +9390,7 @@
 | KCT green - Příbor-Kubalanky
 | {{Relation|543628|tools=short}}
 | 5.58
-| 2
+| 1
 | no
 | yes
 
@@ -9422,10 +9398,10 @@
 |  
 | kct_green
 | major
-| 
-| KCT green - Ostravsko
+| KCT:green:Chotěbuz;Petřvald;Jakubčovice
+| Chotěbuz;Petřvald;Jakubčovice
 | {{Relation|543675|tools=short}}
-| 31.71
+| 68.67
 | 3
 | no
 | yes
@@ -9521,7 +9497,7 @@
 | NS Úhošť
 | 
 | {{Relation|545153|tools=short}}
-| 6.19
+| 6.42
 | 1
 | no
 | yes
@@ -9545,7 +9521,7 @@
 | 
 | Blansko-Adamov-Ochoz
 | {{Relation|545911|tools=short}}
-| 26.48
+| 26.47
 | 2
 | no
 | yes
@@ -9593,7 +9569,7 @@
 | 
 | Bílý most-Pod Rýzmburkem
 | {{Relation|549764|tools=short}}
-| 1
+| 0.99
 | 1
 | yes
 | yes
@@ -9605,7 +9581,7 @@
 | 
 | Hronov - Kohoutov
 | {{Relation|549809|tools=short}}
-| 50.67
+| 60.12
 | 3
 | no
 | yes
@@ -9641,7 +9617,7 @@
 | 
 | Čelákovice - Stará Boleslav
 | {{Relation|550753|tools=short}}
-| 5.45
+| 6.33
 | 3
 | no
 | yes
@@ -9785,7 +9761,7 @@
 | 
 | Troják-Lázy
 | {{Relation|562564|tools=short}}
-| 0.43
+| 8.33
 | 1
 | no
 | yes
@@ -9797,7 +9773,7 @@
 | 
 | Bystřice pod Hostýnem-Císařská cesta
 | {{Relation|562680|tools=short}}
-| 4.3
+| 4.52
 | 3
 | no
 | yes
@@ -9821,8 +9797,8 @@
 | 
 | Zlín-Bystřička(přehrada)
 | {{Relation|562748|tools=short}}
-| 12.8
-| 2
+| 17.03
+| 4
 | no
 | yes
 
@@ -9875,13 +9851,13 @@
 | yes
 
 |-
-|  
+|  3995
 | kct_green
 | major
 | 
 | 
 | {{Relation|563024|tools=short}}
-| 6.2
+| 6.54
 | 1
 | no
 | yes
@@ -9893,7 +9869,7 @@
 | 
 | 
 | {{Relation|563421|tools=short}}
-| 11.92
+| 14.04
 | 2
 | no
 | yes
@@ -9917,8 +9893,8 @@
 | 
 | 
 | {{Relation|564359|tools=short}}
-| 1.6
-| 2
+| 2.73
+| 1
 | no
 | yes
 
@@ -10001,7 +9977,7 @@
 | 
 | 
 | {{Relation|571796|tools=short}}
-| 1.5
+| 8.32
 | 1
 | no
 | yes
@@ -10013,9 +9989,9 @@
 | 
 | Balkova Lhota-Střezimíř
 | {{Relation|571813|tools=short}}
-| 7.27
+| 13.35
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -10035,9 +10011,9 @@
 | kct_green
 | major
 | 
-| Větrník -Česká Čermná
+| Větrník - Česká Čermná
 | {{Relation|572253|tools=short}}
-| 20.5
+| 20.50
 | 1
 | no
 | yes
@@ -10049,7 +10025,7 @@
 | Kopanina - Šance
 | 
 | {{Relation|581904|tools=short}}
-| 1
+| 1.00
 | 1
 | yes
 | yes
@@ -10061,7 +10037,7 @@
 | 
 | 
 | {{Relation|582235|tools=short}}
-| 6.9
+| 6.90
 | 1
 | no
 | yes
@@ -10097,7 +10073,7 @@
 | 
 | 
 | {{Relation|593647|tools=short}}
-| 27.73
+| 27.72
 | 1
 | no
 | yes
@@ -10109,7 +10085,7 @@
 | 
 | Černá hora - Čertův odpočinek
 | {{Relation|812652|tools=short}}
-| 0.2
+| 0.20
 | 1
 | yes
 | yes
@@ -10139,13 +10115,13 @@
 | yes
 
 |-
-|  
+|  6120
 | kct_yellow
 | major
 | 
 | 
 | {{Relation|898081|tools=short}}
-| 2.42
+| 3.20
 | 1
 | no
 | yes
@@ -10157,7 +10133,7 @@
 | 
 | 
 | {{Relation|898082|tools=short}}
-| 1.24
+| 2.02
 | 1
 | no
 | yes
@@ -10170,19 +10146,19 @@
 | 
 | {{Relation|898658|tools=short}}
 | 6.18
-| 6
+| 4
 | no
 | yes
 
 |-
 |  
 | kct_blue
-| yes
+| major
 | 
-| 
+| Řimice - Nové Zámky - Mladeč - Měník
 | {{Relation|898713|tools=short}}
-| 11.28
-| 3
+| 12.44
+| 1
 | no
 | yes
 
@@ -10241,7 +10217,7 @@
 | 
 | U Jezdce-Jezdec
 | {{Relation|906262|tools=short}}
-| 0.06
+| 0.05
 | 1
 | yes
 | yes
@@ -10253,7 +10229,7 @@
 | 
 | Andělka-Liberec
 | {{Relation|906263|tools=short}}
-| 41.02
+| 44.38
 | 2
 | no
 | yes
@@ -10265,7 +10241,7 @@
 | Naučná stezka Barrandovské skály - Chuchelský háj
 | 
 | {{Relation|906485|tools=short}}
-| 4.81
+| 4.82
 | 2
 | no
 | yes
@@ -10283,7 +10259,7 @@
 | yes
 
 |-
-|  
+|  0016
 | kct_red
 | major
 | 
@@ -10310,8 +10286,8 @@
 |  
 | kct_red
 | major
-| 
-| 
+| červená Jindřichův Hradec - Slavonice
+| Jindřichův Hradec - Masarykovo náměstí;Jindřiš;Ratmírovský rybník;Kunžak;Kaproun;Landštejn;Slavonice (nám.)
 | {{Relation|918079|tools=short}}
 | 24.85
 | 2
@@ -10349,8 +10325,8 @@
 | 
 | 
 | {{Relation|918175|tools=short}}
-| 9.3
-| 4
+| 9.30
+| 3
 | no
 | yes
 
@@ -10370,10 +10346,10 @@
 |  1242
 | kct_blue
 | major
-| 
-| 
+| modrá Nová Bystřice - Struha u Kunžaku
+| Nová Bystřice (nám.);Albeř (žst);LandštejnPunčoška (ryb.);Rožnov;Struha u Kunžaku
 | {{Relation|918203|tools=short}}
-| 8.35
+| 10.84
 | 1
 | no
 | yes
@@ -10385,7 +10361,7 @@
 | 
 | 
 | {{Relation|933907|tools=short}}
-| 5.85
+| 5.89
 | 2
 | no
 | yes
@@ -10433,7 +10409,7 @@
 | 
 | Libilín - Libštejn - Radnice - Zbiroh
 | {{Relation|934370|tools=short}}
-| 7.7
+| 7.70
 | 1
 | no
 | yes
@@ -10445,7 +10421,7 @@
 | 
 | Rokycany - Březina - Radnice - U Rakolusk - Kalinova Ves
 | {{Relation|934386|tools=short}}
-| 31.76
+| 31.77
 | 3
 | no
 | yes
@@ -10469,7 +10445,7 @@
 | 
 | Folmava - Česká Kubice - Babylon
 | {{Relation|934859|tools=short}}
-| 7.4
+| 7.40
 | 3
 | no
 | yes
@@ -10481,7 +10457,7 @@
 | Baarova stezka
 | Klenčí pod Čerchovem - Výhledy - Babylon - Havlovice
 | {{Relation|934860|tools=short}}
-| 6.63
+| 7.06
 | 3
 | no
 | yes
@@ -10553,8 +10529,8 @@
 | 
 | Klenčí pod Čerchovem - Chodov - Pec pod Čerchovem - Česká Kubice
 | {{Relation|934866|tools=short}}
-| 5.33
-| 3
+| 10.93
+| 1
 | no
 | yes
 
@@ -10611,10 +10587,10 @@
 | kct_green
 | major
 | 
-| 
+| Domažlice (nám.) - Spálenec
 | {{Relation|935887|tools=short}}
-| 6.36
-| 1
+| 8.64
+| 2
 | no
 | yes
 
@@ -10733,19 +10709,19 @@
 | 
 | 
 | {{Relation|935943|tools=short}}
-| 4.1
+| 4.10
 | 1
 | no
 | yes
 
 |-
-|  1827
-| kct_blue
+|  7284
+| kct_yellow
 | major
 | 
 | 
 | {{Relation|941048|tools=short}}
-| 0.62
+| 3.23
 | 1
 | no
 | yes
@@ -10755,9 +10731,9 @@
 | kct_red
 | major
 | 
-| Jaroměř - Dvůr Králové
+| Jaroměř (ŽST) - Dvůr Králové (nám.)
 | {{Relation|942839|tools=short}}
-| 4.99
+| 9.78
 | 1
 | no
 | yes
@@ -10817,7 +10793,7 @@
 | 
 | Jíloviště-Všenory
 | {{Relation|946130|tools=short}}
-| 2.2
+| 2.20
 | 2
 | no
 | yes
@@ -10838,7 +10814,7 @@
 |  
 | kct_red
 | major
-| 
+| KCT:red:Antošovice-Jistebník
 | 
 | {{Relation|946891|tools=short}}
 | 22.11
@@ -10853,7 +10829,7 @@
 | 
 | 
 | {{Relation|948170|tools=short}}
-| 12.6
+| 12.60
 | 1
 | no
 | yes
@@ -10922,7 +10898,7 @@
 |  
 | kct_green
 | major
-| 
+| KCT:green:Poruba, Slovan-Horní Bludovice
 | 
 | {{Relation|951765|tools=short}}
 | 32.72
@@ -10997,8 +10973,8 @@
 | 
 | 
 | {{Relation|955108|tools=short}}
-| 7.52
-| 2
+| 7.51
+| 1
 | no
 | yes
 
@@ -11045,7 +11021,7 @@
 | 
 | 
 | {{Relation|960799|tools=short}}
-| 0.3
+| 0.30
 | 1
 | yes
 | yes
@@ -11067,11 +11043,11 @@
 | kct_green
 | major
 | 
-| Pod bukovou horou-
+| Pod bukovou horou - Horní Radechová
 | {{Relation|961000|tools=short}}
-| 0.76
-| 2
-| no
+| 4.17
+| 1
+| yes
 | yes
 
 |-
@@ -11093,7 +11069,7 @@
 | Okruh památníku lesníků
 | 
 | {{Relation|961462|tools=short}}
-| 1.42
+| 3.44
 | 1
 | no
 | yes
@@ -11189,7 +11165,7 @@
 | 
 | Chléviště
 | {{Relation|967124|tools=short}}
-| 1.6
+| 2.18
 | 1
 | no
 | yes
@@ -11201,7 +11177,7 @@
 | 
 | 
 | {{Relation|967430|tools=short}}
-| 3.57
+| 3.58
 | 1
 | no
 | yes
@@ -11358,7 +11334,7 @@
 | 
 | {{Relation|969399|tools=short}}
 | 2.31
-| 2
+| 1
 | no
 | yes
 
@@ -11381,8 +11357,8 @@
 | 
 | Kladno-Dolní Bezděkov
 | {{Relation|969456|tools=short}}
-| 6.4
-| 3
+| 6.39
+| 1
 | no
 | yes
 
@@ -11417,7 +11393,7 @@
 | 
 | Smečno-Slaný
 | {{Relation|969562|tools=short}}
-| 0.3
+| 0.30
 | 1
 | no
 | yes
@@ -11429,7 +11405,7 @@
 | 
 | 
 | {{Relation|971364|tools=short}}
-| 13.9
+| 13.90
 | 1
 | no
 | yes
@@ -11453,8 +11429,8 @@
 | 
 | 
 | {{Relation|977575|tools=short}}
-| 7.91
-| 3
+| 7.88
+| 1
 | no
 | yes
 
@@ -11486,10 +11462,10 @@
 |  1656
 | kct_blue
 | major
-| 
+| Nový Bor - Dolní Podluží
 | 
 | {{Relation|1013830|tools=short}}
-| 13.07
+| 16.99
 | 1
 | no
 | yes
@@ -11513,7 +11489,7 @@
 | 
 | 
 | {{Relation|1014075|tools=short}}
-| 4.02
+| 4.01
 | 1
 | no
 | yes
@@ -11657,7 +11633,7 @@
 | 
 | Kamýk nad Vltavou-Krásná hora
 | {{Relation|1015569|tools=short}}
-| 0.3
+| 0.30
 | 1
 | no
 | yes
@@ -11783,14 +11759,14 @@
 | yes
 
 |-
-|  
+|  3032
 | kct_green
 | major
 | 
-| 
+| Velké Popovice - Mnichovice, žst
 | {{Relation|1016913|tools=short}}
-| 7.29
-| 2
+| 8.47
+| 1
 | no
 | yes
 
@@ -11801,7 +11777,7 @@
 | 
 | Rožmberk nad Vltavou-Lipno
 | {{Relation|1017240|tools=short}}
-| 16.79
+| 16.77
 | 3
 | no
 | yes
@@ -11858,11 +11834,11 @@
 |  
 | kct_green
 | major
-| zielony szlak
+| pieszy zielony szlak
 | 
 | {{Relation|1017407|tools=short}}
-| 4.16
-| 1
+| 10.87
+| 2
 | no
 | yes
 
@@ -11873,8 +11849,8 @@
 | 
 | Hvězdonice;Dubsko;Čerčany;Mezihoří
 | {{Relation|1020027|tools=short}}
-| 11.1
-| 2
+| 11.10
+| 1
 | no
 | yes
 
@@ -11910,7 +11886,7 @@
 | 
 | {{Relation|1024524|tools=short}}
 | 14.22
-| 5
+| 3
 | no
 | yes
 
@@ -11921,8 +11897,8 @@
 | Felicitin okruh
 | 
 | {{Relation|1025498|tools=short}}
-| 2.9
-| 2
+| 2.90
+| 1
 | no
 | yes
 
@@ -11933,7 +11909,7 @@
 | 
 | 
 | {{Relation|1025499|tools=short}}
-| 5.23
+| 5.24
 | 1
 | yes
 | yes
@@ -11945,7 +11921,7 @@
 | 
 | Vranov nad Dyjí (nám.) - Felling (A)
 | {{Relation|1025500|tools=short}}
-| 1.89
+| 1.90
 | 2
 | no
 | yes
@@ -11957,7 +11933,7 @@
 | 
 | Zadní Hamry - Olbramkostel
 | {{Relation|1025502|tools=short}}
-| 1
+| 1.01
 | 1
 | no
 | yes
@@ -11981,7 +11957,7 @@
 | 
 | Vranov nad Dyjí (nám.) - Lukov (bus)
 | {{Relation|1025504|tools=short}}
-| 13.71
+| 13.84
 | 1
 | no
 | yes
@@ -11993,7 +11969,7 @@
 | 
 | 
 | {{Relation|1026510|tools=short}}
-| 13.74
+| 13.73
 | 1
 | yes
 | yes
@@ -12048,8 +12024,8 @@
 
 |-
 |  
-| 
-| 
+| kct_white
+| ski
 | 
 | Teplá Vltava (u mostu) - Holubí skála - Pod Holubí skálou
 | {{Relation|1027437|tools=short}}
@@ -12065,7 +12041,7 @@
 | 
 | Plánice - Nalžovské Hory - Rabí - Žichovice
 | {{Relation|1031155|tools=short}}
-| 7.03
+| 10.69
 | 3
 | no
 | yes
@@ -12077,7 +12053,7 @@
 | 
 | 
 | {{Relation|1046988|tools=short}}
-| 13.09
+| 13.08
 | 1
 | no
 | yes
@@ -12125,9 +12101,9 @@
 | 
 | 
 | {{Relation|1047006|tools=short}}
-| 6.85
-| 2
-| no
+| 10.27
+| 1
+| yes
 | yes
 
 |-
@@ -12138,7 +12114,7 @@
 | 
 | {{Relation|1050429|tools=short}}
 | 12.77
-| 2
+| 1
 | no
 | yes
 
@@ -12146,11 +12122,11 @@
 |  
 | kct_blue
 | major
-| 
+| Kohouti vrch
 | 
 | {{Relation|1055017|tools=short}}
-| 13.88
-| 2
+| 13.83
+| 1
 | no
 | yes
 
@@ -12198,7 +12174,7 @@
 | Boskovice - Skalice n. Svitavou
 | {{Relation|1060720|tools=short}}
 | 1.77
-| 3
+| 2
 | no
 | yes
 
@@ -12257,19 +12233,7 @@
 | Křimov-Tretí mlyn
 | 
 | {{Relation|1061711|tools=short}}
-| 2.22
-| 1
-| no
-| yes
-
-|-
-|  
-| kct_red
-| major
-| 
-| 
-| {{Relation|1066158|tools=short}}
-| 4.86
+| 2.23
 | 1
 | no
 | yes
@@ -12281,7 +12245,7 @@
 | 
 | 
 | {{Relation|1067078|tools=short}}
-| 12.88
+| 12.86
 | 2
 | no
 | yes
@@ -12305,8 +12269,8 @@
 | 
 | Mor. Krumlov - Tavíkovsky most - Vilímův mýn - Biskupice - Příštpo - Jaroměřice n. Rok. (nám)
 | {{Relation|1069839|tools=short}}
-| 7.88
-| 5
+| 8.92
+| 4
 | no
 | yes
 
@@ -12317,7 +12281,7 @@
 | 
 | Teplice;Třebívlice
 | {{Relation|1070713|tools=short}}
-| 24.16
+| 24.34
 | 2
 | no
 | yes
@@ -12339,9 +12303,9 @@
 | kct_yellow
 | major
 | 
-| Palivova louka-Frýdlantské cimbuří
+| Pavlina louka;Frýdlantské cimbuří
 | {{Relation|1075424|tools=short}}
-| 3.49
+| 3.51
 | 1
 | no
 | yes
@@ -12353,7 +12317,7 @@
 | 
 | 
 | {{Relation|1076183|tools=short}}
-| 4.73
+| 4.74
 | 1
 | yes
 | yes
@@ -12371,14 +12335,14 @@
 | yes
 
 |-
-|  
+|  0506
 | kct_red
 | major
 | 
-| Velké Meziříčí - Bojanov - Skryje
+| Žďár nad Sázavou - Velké Meziříčí - Bojanov - Skryje - Předklášteří
 | {{Relation|1076410|tools=short}}
-| 0.74
-| 1
+| 36.48
+| 7
 | no
 | yes
 
@@ -12389,7 +12353,7 @@
 | 
 | 
 | {{Relation|1076411|tools=short}}
-| 6.11
+| 6.12
 | 3
 | no
 | yes
@@ -12402,7 +12366,7 @@
 | 
 | {{Relation|1076413|tools=short}}
 | 5.92
-| 3
+| 1
 | no
 | yes
 
@@ -12413,19 +12377,7 @@
 | 
 | Lovoš - Milešovka - Lukov
 | {{Relation|1076441|tools=short}}
-| 20.03
-| 1
-| no
-| yes
-
-|-
-|  
-| kct_red
-| major
-| 
-| Velká Bíteš - Náměšť nad Oslavou
-| {{Relation|1076597|tools=short}}
-| 2.67
+| 20.05
 | 1
 | no
 | yes
@@ -12437,7 +12389,7 @@
 | 
 | 
 | {{Relation|1082281|tools=short}}
-| 7.85
+| 9.36
 | 2
 | no
 | yes
@@ -12497,7 +12449,7 @@
 | 
 | 
 | {{Relation|1083751|tools=short}}
-| 2.03
+| 2.04
 | 1
 | no
 | yes
@@ -12521,7 +12473,7 @@
 | 
 | Josefův Důl-Rychnov u Jablonce n. N.
 | {{Relation|1084379|tools=short}}
-| 13.88
+| 14.75
 | 1
 | no
 | yes
@@ -12545,7 +12497,7 @@
 | 
 | Liberec-Bedřichov
 | {{Relation|1084730|tools=short}}
-| 4.8
+| 5.24
 | 1
 | no
 | yes
@@ -12557,7 +12509,7 @@
 | 
 | Dolní Bradlo;Chrudim
 | {{Relation|1084857|tools=short}}
-| 8.74
+| 8.81
 | 2
 | no
 | yes
@@ -12599,13 +12551,13 @@
 | yes
 
 |-
-|  
+|  1428
 | kct_blue
 | major
-| 
+| Klostermannova cesta
 | 
 | {{Relation|1086411|tools=short}}
-| 20.99
+| 28.99
 | 2
 | no
 | yes
@@ -12613,11 +12565,11 @@
 |-
 |  
 | kct_yellow
-| yes
+| major
 | 
-| 
+| Mladeč - Řimice - Bílá Lhota
 | {{Relation|1086591|tools=short}}
-| 3.71
+| 5.27
 | 1
 | no
 | yes
@@ -12629,7 +12581,7 @@
 | 
 | Smědava-Bílý Potok
 | {{Relation|1099776|tools=short}}
-| 6.91
+| 6.88
 | 1
 | no
 | yes
@@ -12642,7 +12594,7 @@
 | Pouzdřanská step - Pasohlávky (přehr., bus)
 | {{Relation|1100088|tools=short}}
 | 7.71
-| 2
+| 1
 | no
 | yes
 
@@ -12665,7 +12617,7 @@
 | 
 | Borovany - Hvízdalka
 | {{Relation|1100764|tools=short}}
-| 8.2
+| 8.20
 | 1
 | no
 | yes
@@ -12686,7 +12638,7 @@
 |  
 | kct_blue
 | local
-| 
+| KCT:blue:Poruba, Slovan-Poruba (smyčka, MHD)
 | 
 | {{Relation|1101416|tools=short}}
 | 4.43
@@ -12698,12 +12650,12 @@
 |  
 | kct_blue
 | major
-| 
+| KCT:blue:Poruba, Slovan-Sudice (CZ/PL)
 | 
 | {{Relation|1102044|tools=short}}
-| 7
+| 39.64
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -12714,7 +12666,7 @@
 | Frýdlant
 | {{Relation|1102443|tools=short}}
 | 7.47
-| 2
+| 1
 | yes
 | yes
 
@@ -12737,7 +12689,7 @@
 | 
 | Houska
 | {{Relation|1103036|tools=short}}
-| 11.93
+| 11.98
 | 2
 | no
 | yes
@@ -12786,7 +12738,7 @@
 | 
 | {{Relation|1103718|tools=short}}
 | 2.47
-| 2
+| 1
 | no
 | yes
 
@@ -12845,7 +12797,7 @@
 | 
 | Hubertka - Kočičí kameny (vrchol)
 | {{Relation|1108147|tools=short}}
-| 0.16
+| 0.18
 | 1
 | yes
 | yes
@@ -12869,7 +12821,7 @@
 | 
 | Žloukovice - Žloukovická hájovna
 | {{Relation|1109678|tools=short}}
-| 1.42
+| 1.50
 | 1
 | yes
 | yes
@@ -12881,7 +12833,7 @@
 | 
 | 
 | {{Relation|1109700|tools=short}}
-| 7.1
+| 7.10
 | 1
 | yes
 | yes
@@ -12989,8 +12941,8 @@
 | 
 | Stohánek-Červená ruka
 | {{Relation|1109884|tools=short}}
-| 24.92
-| 3
+| 24.91
+| 1
 | no
 | yes
 
@@ -13001,7 +12953,7 @@
 | 
 | Hejnice-Hřebencový buk
 | {{Relation|1109885|tools=short}}
-| 11
+| 11.01
 | 1
 | yes
 | yes
@@ -13013,7 +12965,7 @@
 | 
 | Bílá Kuchyně-Chotyně
 | {{Relation|1109886|tools=short}}
-| 17.61
+| 17.63
 | 2
 | no
 | yes
@@ -13049,20 +13001,8 @@
 | 
 | Česká Lípa - Koňský rybník
 | {{Relation|1110144|tools=short}}
-| 0.9
+| 0.90
 | 2
-| no
-| yes
-
-|-
-|  
-| kct_blue
-| major
-| 
-| Kokořín - Zimořský důl
-| {{Relation|1110149|tools=short}}
-| 0.43
-| 1
 | no
 | yes
 
@@ -13133,7 +13073,7 @@
 | 
 | 
 | {{Relation|1111604|tools=short}}
-| 2.2
+| 2.20
 | 1
 | no
 | yes
@@ -13145,7 +13085,7 @@
 | 
 | Teplice;Kladruby;Ohníč;Kostomlaty;Štěpánov
 | {{Relation|1111932|tools=short}}
-| 1.18
+| 1.19
 | 1
 | no
 | yes
@@ -13193,7 +13133,7 @@
 | 
 | 
 | {{Relation|1115049|tools=short}}
-| 24.2
+| 24.20
 | 1
 | no
 | yes
@@ -13206,7 +13146,7 @@
 | 
 | {{Relation|1115137|tools=short}}
 | 2.11
-| 5
+| 1
 | yes
 | yes
 
@@ -13229,7 +13169,7 @@
 | 
 | 
 | {{Relation|1121041|tools=short}}
-| 1.85
+| 1.84
 | 1
 | no
 | yes
@@ -13337,8 +13277,8 @@
 | 
 | 
 | {{Relation|1126004|tools=short}}
-| 13.43
-| 2
+| 13.55
+| 1
 | no
 | yes
 
@@ -13374,7 +13314,7 @@
 | 
 | {{Relation|1135924|tools=short}}
 | 1.13
-| 2
+| 1
 | no
 | yes
 
@@ -13397,7 +13337,7 @@
 | 
 | 
 | {{Relation|1137801|tools=short}}
-| 0.3
+| 0.29
 | 1
 | no
 | yes
@@ -13433,7 +13373,7 @@
 | 
 | Čížkovy Kameny - Větrník
 | {{Relation|1137804|tools=short}}
-| 13.18
+| 13.27
 | 3
 | no
 | yes
@@ -13469,7 +13409,7 @@
 | 
 | Pod Liškou - Údolí Klučanky
 | {{Relation|1137808|tools=short}}
-| 1.25
+| 3.09
 | 1
 | no
 | yes
@@ -13493,7 +13433,7 @@
 | 
 | Mlýny - Nový Bor
 | {{Relation|1137811|tools=short}}
-| 9.77
+| 9.83
 | 1
 | no
 | yes
@@ -13517,7 +13457,7 @@
 | 
 | 
 | {{Relation|1141550|tools=short}}
-| 0.46
+| 0.83
 | 2
 | no
 | yes
@@ -13577,8 +13517,8 @@
 | 
 | Větruše - Dolní Zálezly - Stadice
 | {{Relation|1145696|tools=short}}
-| 1.87
-| 2
+| 3.00
+| 3
 | no
 | yes
 
@@ -13613,7 +13553,7 @@
 | 
 | 
 | {{Relation|1148262|tools=short}}
-| 4.18
+| 4.17
 | 1
 | no
 | yes
@@ -13697,7 +13637,7 @@
 | 
 | 
 | {{Relation|1152199|tools=short}}
-| 3.6
+| 3.60
 | 1
 | no
 | yes
@@ -13781,7 +13721,7 @@
 | 
 | 
 | {{Relation|1153703|tools=short}}
-| 0.83
+| 0.82
 | 1
 | no
 | yes
@@ -13793,7 +13733,7 @@
 | 
 | 
 | {{Relation|1154513|tools=short}}
-| 2.2
+| 2.20
 | 1
 | no
 | yes
@@ -13889,7 +13829,7 @@
 | 
 | Pačejov - Žinkovy - Hora Bzí
 | {{Relation|1155246|tools=short}}
-| 5.73
+| 12.57
 | 2
 | no
 | yes
@@ -13901,8 +13841,8 @@
 | Chýnovská naučná stezka
 | 
 | {{Relation|1155274|tools=short}}
-| 2.03
-| 3
+| 3.44
+| 2
 | no
 | yes
 
@@ -13925,8 +13865,8 @@
 | 
 | Ústí nad Orlicí - Kostelec nad Orlicí
 | {{Relation|1155443|tools=short}}
-| 10.18
-| 2
+| 21.68
+| 3
 | no
 | yes
 
@@ -13937,8 +13877,8 @@
 | 
 | Žamberk-Klášterec nad Orlicí
 | {{Relation|1155998|tools=short}}
-| 9.5
-| 2
+| 9.50
+| 1
 | yes
 | yes
 
@@ -13949,7 +13889,7 @@
 | 
 | Granice - Znojmo (hrad)
 | {{Relation|1156337|tools=short}}
-| 4.28
+| 4.29
 | 3
 | no
 | yes
@@ -13985,7 +13925,7 @@
 | 
 | 
 | {{Relation|1156340|tools=short}}
-| 0.4
+| 0.40
 | 1
 | no
 | yes
@@ -14054,7 +13994,7 @@
 |  
 | kct_yellow
 | major
-| 
+| KCT:yellow:Pustkovec-Dobroslavice
 | 
 | {{Relation|1157546|tools=short}}
 | 2.88
@@ -14069,8 +14009,8 @@
 | 
 | 
 | {{Relation|1158720|tools=short}}
-| 65.37
-| 6
+| 65.66
+| 3
 | no
 | yes
 
@@ -14081,7 +14021,7 @@
 | 
 | Pleš - Bělá nad Radbuzou - Hostouň - Chlum
 | {{Relation|1159156|tools=short}}
-| 9.5
+| 9.50
 | 1
 | no
 | yes
@@ -14129,7 +14069,7 @@
 | 
 | 
 | {{Relation|1161941|tools=short}}
-| 4.2
+| 4.20
 | 1
 | no
 | yes
@@ -14151,10 +14091,10 @@
 | kct_yellow
 | major
 | 
-| Jirkov-Novy dum
+| Jirkov-Nový dům
 | {{Relation|1163263|tools=short}}
-| 9.74
-| 2
+| 10.44
+| 3
 | no
 | yes
 
@@ -14177,7 +14117,7 @@
 | 
 | Uhříněves-Běchovice
 | {{Relation|1163546|tools=short}}
-| 12.01
+| 11.88
 | 2
 | no
 | yes
@@ -14225,7 +14165,7 @@
 | 
 | 
 | {{Relation|1164174|tools=short}}
-| 0.1
+| 0.10
 | 1
 | yes
 | yes
@@ -14273,7 +14213,7 @@
 | 
 | Běstvina;Seč;Pod Ohebem
 | {{Relation|1165410|tools=short}}
-| 2.6
+| 2.60
 | 1
 | no
 | yes
@@ -14333,10 +14273,10 @@
 | Okružní NS Plasy
 | 
 | {{Relation|1165537|tools=short}}
-| 2.33
+| 4.34
 | 1
 | no
-| yes
+| no
 
 |-
 |  1015
@@ -14369,7 +14309,7 @@
 | 
 | Bojanovice-Slapy
 | {{Relation|1165790|tools=short}}
-| 4.7
+| 4.70
 | 1
 | no
 | yes
@@ -14381,7 +14321,7 @@
 | 
 | 
 | {{Relation|1165791|tools=short}}
-| 0.07
+| 5.77
 | 1
 | no
 | yes
@@ -14490,7 +14430,7 @@
 | 
 | {{Relation|1168493|tools=short}}
 | 1.78
-| 2
+| 1
 | no
 | yes
 
@@ -14501,7 +14441,7 @@
 | 
 | 
 | {{Relation|1168553|tools=short}}
-| 13.93
+| 14.95
 | 1
 | no
 | yes
@@ -14525,7 +14465,7 @@
 | 
 | 
 | {{Relation|1169568|tools=short}}
-| 6.88
+| 7.47
 | 1
 | no
 | yes
@@ -14549,7 +14489,7 @@
 | 
 | Nebílovy - Letiny - Nepomuk
 | {{Relation|1171987|tools=short}}
-| 1.01
+| 1.00
 | 1
 | no
 | yes
@@ -14559,10 +14499,10 @@
 | kct_blue
 | major
 | 
-| Tři Studně - Žákova Hora
+| Vojnův Městec - Tři Studně - Žďár n.S. - Polná - Jihlava
 | {{Relation|1172226|tools=short}}
-| 40.57
-| 6
+| 62.17
+| 2
 | no
 | yes
 
@@ -14573,7 +14513,7 @@
 | 
 | 
 | {{Relation|1172847|tools=short}}
-| 6.7
+| 6.70
 | 1
 | no
 | yes
@@ -14603,13 +14543,13 @@
 | yes
 
 |-
-|  
+|  1843
 | kct_blue
 | major
 | 
 | 
 | {{Relation|1172854|tools=short}}
-| 10.42
+| 1.41
 | 1
 | no
 | yes
@@ -14621,7 +14561,7 @@
 | 
 | 
 | {{Relation|1173501|tools=short}}
-| 6.6
+| 6.59
 | 1
 | no
 | yes
@@ -14633,7 +14573,7 @@
 | 
 | Děkovka;Třebívlice
 | {{Relation|1173516|tools=short}}
-| 5.6
+| 5.60
 | 1
 | yes
 | yes
@@ -14645,7 +14585,7 @@
 | 
 | Cvikov - Jablonné v Podještědí
 | {{Relation|1174597|tools=short}}
-| 12.4
+| 19.71
 | 1
 | no
 | yes
@@ -14657,8 +14597,8 @@
 | 
 | 
 | {{Relation|1174598|tools=short}}
-| 9.8
-| 2
+| 9.80
+| 1
 | yes
 | yes
 
@@ -14729,8 +14669,8 @@
 | 
 | 
 | {{Relation|1175021|tools=short}}
-| 11.8
-| 2
+| 11.80
+| 1
 | no
 | yes
 
@@ -14753,7 +14693,7 @@
 | 
 | 
 | {{Relation|1175027|tools=short}}
-| 0
+| 0.00
 | 1
 | no
 | yes
@@ -14801,7 +14741,7 @@
 | 
 | 
 | {{Relation|1175976|tools=short}}
-| 4.5
+| 4.50
 | 1
 | no
 | yes
@@ -14837,7 +14777,7 @@
 | 
 | Dlouhá loučka-Šternberk
 | {{Relation|1179396|tools=short}}
-| 0.7
+| 0.70
 | 1
 | no
 | yes
@@ -14849,7 +14789,7 @@
 | 
 | Dlouhá loučka-Domašov N.B.
 | {{Relation|1179397|tools=short}}
-| 2.8
+| 2.80
 | 1
 | no
 | yes
@@ -14861,7 +14801,7 @@
 | 
 | 
 | {{Relation|1179467|tools=short}}
-| 0.2
+| 0.20
 | 1
 | yes
 | yes
@@ -14885,8 +14825,8 @@
 | 
 | Popovice-Beroun
 | {{Relation|1179824|tools=short}}
-| 7
-| 1
+| 16.54
+| 2
 | no
 | yes
 
@@ -14927,25 +14867,13 @@
 | yes
 
 |-
-|  
-| kct_yellow
-| major
-| 
-| 
-| {{Relation|1180862|tools=short}}
-| 8.6
-| 1
-| no
-| yes
-
-|-
 |  6093
 | kct_yellow
 | local
 | Cinibulkova stezka
 | 
 | {{Relation|1181121|tools=short}}
-| 8.2
+| 8.20
 | 1
 | yes
 | yes
@@ -14969,7 +14897,7 @@
 | 
 | U rybníka Němeček - Pod Přivýšinou
 | {{Relation|1183096|tools=short}}
-| 1.1
+| 1.10
 | 1
 | yes
 | yes
@@ -15017,7 +14945,7 @@
 | 
 | Prachov (okraj, rozc.) - Pod Přivýšinou
 | {{Relation|1183100|tools=short}}
-| 1.03
+| 1.02
 | 1
 | yes
 | yes
@@ -15029,7 +14957,7 @@
 | Naučná stezka Lovoš
 | 
 | {{Relation|1183504|tools=short}}
-| 2.2
+| 2.20
 | 1
 | no
 | yes
@@ -15101,8 +15029,8 @@
 | 
 | 
 | {{Relation|1184209|tools=short}}
-| 13.09
-| 1
+| 14.49
+| 2
 | no
 | yes
 
@@ -15113,7 +15041,7 @@
 | 
 | 
 | {{Relation|1187373|tools=short}}
-| 0.44
+| 0.43
 | 1
 | no
 | yes
@@ -15122,10 +15050,10 @@
 |  
 | kct_yellow
 | major
-| 
+| Jindřiš - Hospříz - Kunejov - Landštejn
 | 
 | {{Relation|1189159|tools=short}}
-| 0.71
+| 2.41
 | 1
 | no
 | yes
@@ -15137,7 +15065,7 @@
 | 
 | Malá svatá hora-Karlštejn(hrad)
 | {{Relation|1190823|tools=short}}
-| 1
+| 2.97
 | 1
 | no
 | yes
@@ -15149,7 +15077,7 @@
 | 
 | Zadní Třebáň-Tetín
 | {{Relation|1190824|tools=short}}
-| 0.9
+| 0.90
 | 2
 | no
 | yes
@@ -15197,7 +15125,7 @@
 | 
 | 
 | {{Relation|1191247|tools=short}}
-| 7.2
+| 7.20
 | 2
 | no
 | yes
@@ -15209,7 +15137,7 @@
 | 
 | 
 | {{Relation|1192715|tools=short}}
-| 2.24
+| 2.25
 | 1
 | no
 | yes
@@ -15234,7 +15162,7 @@
 | 
 | {{Relation|1193019|tools=short}}
 | 10.04
-| 2
+| 1
 | no
 | yes
 
@@ -15366,7 +15294,7 @@
 | Škvorec-Limuzy
 | {{Relation|1202649|tools=short}}
 | 14.07
-| 5
+| 1
 | no
 | yes
 
@@ -15377,8 +15305,8 @@
 | 
 | Ráječko - Lysice
 | {{Relation|1204763|tools=short}}
-| 3.9
-| 1
+| 12.72
+| 6
 | no
 | yes
 
@@ -15413,8 +15341,8 @@
 | 
 | Obůrka - Macocha
 | {{Relation|1204795|tools=short}}
-| 9.24
-| 4
+| 10.15
+| 1
 | no
 | yes
 
@@ -15425,7 +15353,7 @@
 | 
 | Blansko - Jaroměřice
 | {{Relation|1204796|tools=short}}
-| 54.27
+| 54.28
 | 5
 | no
 | yes
@@ -15447,7 +15375,7 @@
 | kct_green
 | major
 | 
-| 
+| Uhersko - Kostelec n. O.
 | {{Relation|1205812|tools=short}}
 | 16.23
 | 2
@@ -15527,13 +15455,13 @@
 | yes
 
 |-
-|  
+|  0455
 | kct_red
 | major
 | 
-| 
+| Týniště n. O. - Brandýs n. O.
 | {{Relation|1207843|tools=short}}
-| 8.4
+| 8.40
 | 1
 | no
 | yes
@@ -15569,7 +15497,7 @@
 | 
 | 
 | {{Relation|1215331|tools=short}}
-| 10.76
+| 17.13
 | 1
 | no
 | yes
@@ -15605,7 +15533,7 @@
 | 
 | Husa
 | {{Relation|1216293|tools=short}}
-| 0.18
+| 0.17
 | 1
 | yes
 | yes
@@ -15677,7 +15605,7 @@
 | Údolím Metuje
 | Náchod (ŽST, BUS) - Nové Město nad Metují
 | {{Relation|1216569|tools=short}}
-| 13.07
+| 13.08
 | 1
 | yes
 | yes
@@ -15689,8 +15617,8 @@
 | 
 | Koruna - Kameničky - Chlumětín - Svratka - Karlštejn - Lucký vrch - Polička
 | {{Relation|1217288|tools=short}}
-| 23.9
-| 5
+| 29.06
+| 4
 | no
 | yes
 
@@ -15723,10 +15651,10 @@
 | kct_green
 | major
 | 
-| Vír - Zuberský rybník - Milovy - Čtyči palice - Pustá Rybná - Borová u Poličky
+| Vír - Karasín - Písečné - Zuberský rybník - Milovy - Čtyči palice - Pustá Rybná - Borová u Poličky
 | {{Relation|1221223|tools=short}}
-| 26.44
-| 8
+| 33.53
+| 10
 | no
 | yes
 
@@ -15797,7 +15725,7 @@
 | 
 | Žihle - U Nového Dvora
 | {{Relation|1223524|tools=short}}
-| 1.58
+| 2.02
 | 1
 | no
 | yes
@@ -15846,7 +15774,7 @@
 | 
 | {{Relation|1226155|tools=short}}
 | 9.03
-| 2
+| 1
 | yes
 | yes
 
@@ -15905,7 +15833,7 @@
 | 
 | Chtěboř (náměstí) - Bílek - Pobočenský rybník
 | {{Relation|1230187|tools=short}}
-| 4.6
+| 12.76
 | 1
 | no
 | yes
@@ -15917,7 +15845,7 @@
 | 
 | Pod čertovým stolkem
 | {{Relation|1230188|tools=short}}
-| 0.15
+| 0.14
 | 1
 | no
 | yes
@@ -15929,7 +15857,7 @@
 | 
 | Bílek - Libice nad Doubravou
 | {{Relation|1230189|tools=short}}
-| 1.87
+| 1.92
 | 4
 | no
 | yes
@@ -15942,7 +15870,7 @@
 | 
 | {{Relation|1231613|tools=short}}
 | 3.41
-| 2
+| 1
 | no
 | yes
 
@@ -15975,7 +15903,7 @@
 | kct_yellow
 | major
 | 
-| 
+| Sloup - Macocha - Skalní mlýn
 | {{Relation|1241440|tools=short}}
 | 6.51
 | 2
@@ -16013,7 +15941,7 @@
 | 
 | 
 | {{Relation|1243333|tools=short}}
-| 1.17
+| 1.18
 | 1
 | no
 | yes
@@ -16037,7 +15965,7 @@
 | 
 | 
 | {{Relation|1243668|tools=short}}
-| 2.4
+| 2.40
 | 1
 | no
 | yes
@@ -16145,8 +16073,8 @@
 | Jiráskova cesta
 | 
 | {{Relation|1247654|tools=short}}
-| 4.59
-| 3
+| 7.40
+| 2
 | no
 | yes
 
@@ -16157,8 +16085,8 @@
 | 
 | Litomyšl - Česká Třebová
 | {{Relation|1247661|tools=short}}
-| 2.22
-| 2
+| 5.09
+| 4
 | no
 | yes
 
@@ -16169,7 +16097,7 @@
 | 
 | Písky;Zbečno
 | {{Relation|1249812|tools=short}}
-| 3.1
+| 3.10
 | 1
 | no
 | yes
@@ -16253,7 +16181,7 @@
 | 
 | 
 | {{Relation|1251588|tools=short}}
-| 1.2
+| 1.20
 | 1
 | yes
 | yes
@@ -16299,9 +16227,9 @@
 | kct_red
 | major
 | 
-| 
+| Česká Kubice - Orlovice
 | {{Relation|1251662|tools=short}}
-| 4.63
+| 23.80
 | 1
 | no
 | yes
@@ -16361,7 +16289,7 @@
 | Naučná stezka Sedmihoří
 | 
 | {{Relation|1263618|tools=short}}
-| 8.4
+| 8.40
 | 1
 | no
 | no
@@ -16430,11 +16358,11 @@
 |  
 | kct_green
 | major
-| 
-| 
+| zelená Moravské Budějovice - Studenec
+| Moravské Budějovice (žst, bus); Holý kopec; Kojetice; Třebíč (bus); Dubiny; Pod Jelení hlavou; Kuchyňka; Nárameč; Studenec (žst)
 | {{Relation|1273074|tools=short}}
-| 7.85
-| 2
+| 20.16
+| 3
 | no
 | yes
 
@@ -16445,7 +16373,7 @@
 | 
 | 
 | {{Relation|1273075|tools=short}}
-| 0.12
+| 0.11
 | 1
 | no
 | yes
@@ -16455,11 +16383,11 @@
 | kct_yellow
 | major
 | 
-| 
+| Pod Jelení hlavou - Čechtín - Zátiší - Chlumek - Měřín - Dědkovská hora
 | {{Relation|1273076|tools=short}}
-| 0.66
+| 25.57
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -16469,9 +16397,9 @@
 | Třebíčský okruh
 | Vladislav (bus,žst);Hostákov;Ptáčov;Pocoucov;Dubiny (rozc.);Račerovice;Pod besídkou (rozc.);Padrtův mlýn;Krahulov;Krahulov (žst);Čechočovice (rozc.);Horní hora;Sádek (zám.);Kojetice;Mikulovice;Pod Hošťankou;Klučovská hora;Kožichovice (bus);_destinations2_
 | {{Relation|1273319|tools=short}}
-| 7.52
-| 2
-| no
+| 52.64
+| 1
+| yes
 | yes
 
 |-
@@ -16491,11 +16419,11 @@
 | kct_green
 | major
 | 
-| Náchod-
+| Náchod - Dobrošov - Běloves
 | {{Relation|1281516|tools=short}}
-| 2.84
-| 2
-| no
+| 7.23
+| 1
+| yes
 | yes
 
 |-
@@ -16517,7 +16445,7 @@
 | 
 | Náchod - Dlouhé
 | {{Relation|1281676|tools=short}}
-| 10.39
+| 11.35
 | 2
 | no
 | yes
@@ -16541,7 +16469,7 @@
 | Železnorudský okruh
 | 
 | {{Relation|1289461|tools=short}}
-| 0.8
+| 0.80
 | 1
 | no
 | yes
@@ -16553,8 +16481,8 @@
 | 
 | 
 | {{Relation|1291873|tools=short}}
-| 3.59
-| 5
+| 3.60
+| 4
 | no
 | yes
 
@@ -16577,7 +16505,7 @@
 | 
 | Nová Pec - Plešné jezero
 | {{Relation|1291875|tools=short}}
-| 9.36
+| 12.80
 | 1
 | no
 | yes
@@ -16587,10 +16515,10 @@
 | kct_green
 | major
 | 
-| 
+| Prachatice (malé náměstí) - Strážný (bus)
 | {{Relation|1291876|tools=short}}
-| 11.09
-| 1
+| 16.75
+| 2
 | no
 | yes
 
@@ -16625,7 +16553,7 @@
 | 
 | 
 | {{Relation|1291903|tools=short}}
-| 8.5
+| 8.50
 | 3
 | no
 | yes
@@ -16647,7 +16575,7 @@
 | kct_blue
 | major
 | 
-| Štítina (ŽST) - Bohučovice (BUS)
+| Štítina (ŽST);Údolí Raduňky;Raduňka;Vršovice (háj.);Kopanina;Bohučovice-Vršák;Bohučovice (BUS)
 | {{Relation|1295445|tools=short}}
 | 13.47
 | 1
@@ -16658,10 +16586,10 @@
 |  
 | kct_yellow
 | major
-| Opava (ŽST východ) - Žimrovice (pošta, BUS)
 | 
+| Opava (ŽST východ);Údolí Raduňky;Raduňka;Mostky;Jakubčovice;Žimrovice (pošta, BUS)
 | {{Relation|1295466|tools=short}}
-| 18.25
+| 24.98
 | 1
 | no
 | yes
@@ -16673,7 +16601,7 @@
 | 
 | 
 | {{Relation|1295879|tools=short}}
-| 11.51
+| 11.52
 | 3
 | no
 | yes
@@ -16697,7 +16625,7 @@
 | 
 | 
 | {{Relation|1297936|tools=short}}
-| 10.09
+| 9.82
 | 1
 | no
 | yes
@@ -16721,7 +16649,7 @@
 | 
 | 
 | {{Relation|1297938|tools=short}}
-| 21.47
+| 21.48
 | 1
 | no
 | yes
@@ -16731,10 +16659,10 @@
 | kct_green
 | major
 | 
-| 
+| Netín - Kyjov - Stáj - Řehořov - Přímělkov - Na Kříži - Kobylí hlava - Krahulov
 | {{Relation|1316251|tools=short}}
-| 3.03
-| 1
+| 8.16
+| 2
 | no
 | yes
 
@@ -16746,7 +16674,7 @@
 | Hláska
 | {{Relation|1318170|tools=short}}
 | 0.35
-| 2
+| 1
 | yes
 | yes
 
@@ -16781,7 +16709,7 @@
 | 
 | 
 | {{Relation|1329835|tools=short}}
-| 1.19
+| 1.20
 | 1
 | no
 | yes
@@ -16817,8 +16745,8 @@
 | 
 | 
 | {{Relation|1343313|tools=short}}
-| 12.93
-| 5
+| 12.96
+| 2
 | no
 | yes
 
@@ -16853,7 +16781,7 @@
 | 
 | Levý hradec
 | {{Relation|1365282|tools=short}}
-| 0.3
+| 0.30
 | 1
 | yes
 | yes
@@ -16865,7 +16793,7 @@
 | Táborského cesta
 | Bystřice pod Hostýnem;Rusava - Kino
 | {{Relation|1369198|tools=short}}
-| 3.4
+| 3.40
 | 2
 | no
 | yes
@@ -16901,7 +16829,7 @@
 | 
 | 
 | {{Relation|1378340|tools=short}}
-| 8.38
+| 8.39
 | 1
 | no
 | yes
@@ -16925,7 +16853,7 @@
 | 
 | 
 | {{Relation|1378342|tools=short}}
-| 2.1
+| 2.10
 | 1
 | yes
 | -
@@ -16937,9 +16865,9 @@
 | 
 | 
 | {{Relation|1378343|tools=short}}
-| 1.23
+| 2.51
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -16961,20 +16889,8 @@
 | 
 | 
 | {{Relation|1378582|tools=short}}
-| 11.44
-| 3
-| no
-| -
-
-|-
-|  
-| kct_red
-| major
-| 
-| 
-| {{Relation|1381827|tools=short}}
-| 23.19
-| 3
+| 28.76
+| 4
 | no
 | yes
 
@@ -17123,15 +17039,15 @@
 | yes
 
 |-
-|  
+|  2010
 | kct_blue
 | major
 | 
-| 
+| Tálský mlýn - Vápenice
 | {{Relation|1424533|tools=short}}
-| 5.64
+| 7.03
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -17141,8 +17057,8 @@
 | 
 | - Žďár n. S. - Medlov - Nové Město n. M.
 | {{Relation|1424534|tools=short}}
-| 19.12
-| 4
+| 24.91
+| 3
 | no
 | yes
 
@@ -17213,8 +17129,8 @@
 | 
 | 
 | {{Relation|1439829|tools=short}}
-| 14.71
-| 1
+| 20.15
+| 2
 | no
 | yes
 
@@ -17259,10 +17175,10 @@
 | kct_green
 | learning
 | Památce amerických letců
-| 
+| Vršovice;U američana;Nad příletem;
 | {{Relation|1442773|tools=short}}
-| 8.96
-| 3
+| 8.95
+| 1
 | no
 | yes
 
@@ -17281,33 +17197,33 @@
 |-
 |  
 | kct_yellow
-| major
+| interesting_object
 | 
 | 
 | {{Relation|1449872|tools=short}}
-| 1.11
+| 1.12
 | 1
 | yes
 | yes
 
 |-
-|  
+|  7503
 | kct_yellow
 | major
 | 
-| 
+| Nížkov - Velká Losenice - Račín - Velké Dářko
 | {{Relation|1450004|tools=short}}
-| 1.4
+| 15.08
 | 1
 | no
 | yes
 
 |-
-|  
+|  9554
 | kct_green
 | learning
-| 
-| 
+| Naučná Stezka Velké Dářko
+| Velké Dářko
 | {{Relation|1450005|tools=short}}
 | 4.84
 | 1
@@ -17322,7 +17238,7 @@
 | 
 | {{Relation|1451622|tools=short}}
 | 7.25
-| 3
+| 2
 | no
 | yes
 
@@ -17357,20 +17273,8 @@
 | 
 | 
 | {{Relation|1457358|tools=short}}
-| 0.53
-| 1
-| no
-| yes
-
-|-
-|  
-| kct_red
-| major
-| 
-| 
-| {{Relation|1460134|tools=short}}
-| 9.74
-| 3
+| 8.98
+| 2
 | no
 | yes
 
@@ -17415,11 +17319,11 @@
 | kct_yellow
 | major
 | 
-| 
+| Bořetice - Kraví hora - Brumovice
 | {{Relation|1472271|tools=short}}
-| 6.97
-| 2
-| no
+| 8.34
+| 1
+| yes
 | yes
 
 |-
@@ -17525,8 +17429,8 @@
 | 
 | Ústí nad Orlicí - Kozlovský kopec
 | {{Relation|1493110|tools=short}}
-| 2.77
-| 1
+| 13.96
+| 5
 | no
 | yes
 
@@ -17573,8 +17477,8 @@
 | 
 | Ústí nad Orlicí - Česká Třebová
 | {{Relation|1503163|tools=short}}
-| 0.19
-| 1
+| 2.42
+| 2
 | no
 | yes
 
@@ -17597,7 +17501,7 @@
 | 
 | Kostelní sedlo;Varhošť;Čeřeniště;Tašov;Proboštov
 | {{Relation|1517752|tools=short}}
-| 5.4
+| 5.40
 | 1
 | no
 | yes
@@ -17609,7 +17513,7 @@
 | 
 | Plešives;Hlinná;Staňkovice;Třebušín
 | {{Relation|1517754|tools=short}}
-| 3.2
+| 3.20
 | 1
 | no
 | yes
@@ -17621,7 +17525,7 @@
 | 
 | Litoměřice;Hlinná;Sebuzín
 | {{Relation|1517787|tools=short}}
-| 3.4
+| 3.40
 | 1
 | no
 | yes
@@ -17717,7 +17621,7 @@
 | 
 | 
 | {{Relation|1534970|tools=short}}
-| 3.94
+| 4.30
 | 2
 | no
 | yes
@@ -17741,7 +17645,7 @@
 | 
 | 
 | {{Relation|1535366|tools=short}}
-| 0.5
+| 0.50
 | 1
 | no
 | -
@@ -17753,7 +17657,7 @@
 | 
 | 
 | {{Relation|1535367|tools=short}}
-| 0.4
+| 0.40
 | 1
 | no
 | yes
@@ -17813,7 +17717,7 @@
 | 
 | 
 | {{Relation|1537882|tools=short}}
-| 3.2
+| 3.20
 | 1
 | no
 | yes
@@ -17871,10 +17775,10 @@
 | kct_green
 | major
 | 
-| 
+| Kobylí - Karví hora - Němčičky - Velké Pavlovice - Bořetice -  Vrbice
 | {{Relation|1543892|tools=short}}
-| 12.11
-| 2
+| 15.23
+| 3
 | no
 | yes
 
@@ -17883,11 +17787,11 @@
 | kct_blue
 | major
 | 
-| Křepice - Hor. Bojanovice - Kobylí
+| Křepice - Hor. Bojanovice - Kobylí - Čejkovice
 | {{Relation|1543953|tools=short}}
-| 13.64
+| 24.57
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -18065,8 +17969,8 @@
 | 
 | Beroun - Litohlavy - Koněpruské  jeskyně
 | {{Relation|1556259|tools=short}}
-| 0.46
-| 1
+| 5.75
+| 2
 | no
 | yes
 
@@ -18077,7 +17981,7 @@
 | Naučná stezka Žákova hora
 | 
 | {{Relation|1557461|tools=short}}
-| 2.56
+| 2.57
 | 1
 | yes
 | yes
@@ -18113,7 +18017,7 @@
 | Sušice -Svatobor - červená
 | 
 | {{Relation|1558509|tools=short}}
-| 3.16
+| 3.17
 | 1
 | no
 | yes
@@ -18125,7 +18029,7 @@
 | 
 | 
 | {{Relation|1558558|tools=short}}
-| 0.11
+| 0.12
 | 1
 | no
 | yes
@@ -18149,8 +18053,8 @@
 | 
 | 
 | {{Relation|1559113|tools=short}}
-| 7.56
-| 2
+| 7.55
+| 1
 | no
 | yes
 
@@ -18162,18 +18066,18 @@
 | 
 | {{Relation|1559333|tools=short}}
 | 1.03
-| 2
+| 1
 | no
 | yes
 
 |-
-|  
+|  33
 | kct_red
 | major
 | 
 | 
 | {{Relation|1559725|tools=short}}
-| 2.93
+| 5.18
 | 1
 | no
 | yes
@@ -18209,8 +18113,8 @@
 | 
 | Kostomlaty pod Milešovkou;Černčice;Kletečná;Radejčín
 | {{Relation|1559872|tools=short}}
-| 6.14
-| 1
+| 13.58
+| 2
 | no
 | yes
 
@@ -18231,7 +18135,7 @@
 | kct_yellow
 | major
 | 
-| KCT yelow - Hradec nad Moravicí
+| Pilarka;Pod doubravou;Doubrava (mysl.);Nad Kajlovcem;Nad Záviliším;Záviliší(rozcestí);Bohučovice-Vršák;Pod Hanuší;
 | {{Relation|1564514|tools=short}}
 | 16.89
 | 1
@@ -18257,8 +18161,8 @@
 | 
 | Odranec - Jimramov - Sedliště - Polička
 | {{Relation|1565620|tools=short}}
-| 18.98
-| 7
+| 24.55
+| 6
 | no
 | yes
 
@@ -18281,7 +18185,7 @@
 | 
 | 
 | {{Relation|1566447|tools=short}}
-| 4.19
+| 4.18
 | 1
 | yes
 | yes
@@ -18305,8 +18209,8 @@
 | 
 | 
 | {{Relation|1567672|tools=short}}
-| 1.74
-| 1
+| 3.68
+| 2
 | no
 | yes
 
@@ -18329,7 +18233,7 @@
 | 
 | 
 | {{Relation|1567674|tools=short}}
-| 4.43
+| 5.70
 | 1
 | no
 | yes
@@ -18365,7 +18269,7 @@
 | 
 | 
 | {{Relation|1569059|tools=short}}
-| 9.5
+| 9.50
 | 1
 | yes
 | yes
@@ -18435,7 +18339,7 @@
 | kct_yellow
 | local
 | 
-| KCT yelow - Jakubčovice
+| Jakubčovice-okraj;Nad Kajlovcem;Záviliší(rozcestí)
 | {{Relation|1577781|tools=short}}
 | 6.79
 | 1
@@ -18447,7 +18351,7 @@
 | kct_red
 | ski
 | 
-| 
+| Mostky(háj.,bus);Nad Zaviliším;Nad Kajlovcem
 | {{Relation|1577782|tools=short}}
 | 3.43
 | 1
@@ -18455,14 +18359,14 @@
 | yes
 
 |-
-|  
+|  7547
 | kct_yellow
 | major
 | 
 | 
 | {{Relation|1577946|tools=short}}
-| 4.39
-| 2
+| 11.69
+| 1
 | no
 | yes
 
@@ -18473,9 +18377,9 @@
 | 
 | Mníšek pod Brdy (žst) - Bratřínov
 | {{Relation|1578054|tools=short}}
-| 4.4
-| 1
-| yes
+| 5.90
+| 2
+| no
 | yes
 
 |-
@@ -18485,7 +18389,7 @@
 | 
 | 
 | {{Relation|1579179|tools=short}}
-| 8.22
+| 8.21
 | 1
 | no
 | yes
@@ -18543,9 +18447,9 @@
 | kct_blue
 | major
 | 
-| 
+| Kokořín - Zimořský důl
 | {{Relation|1579682|tools=short}}
-| 0.29
+| 5.91
 | 1
 | no
 | yes
@@ -18557,7 +18461,7 @@
 | 
 | 
 | {{Relation|1579683|tools=short}}
-| 6.39
+| 11.99
 | 2
 | no
 | yes
@@ -18570,7 +18474,7 @@
 | Pod Valečovem - Chrby
 | {{Relation|1579986|tools=short}}
 | 7.54
-| 2
+| 1
 | yes
 | yes
 
@@ -18593,7 +18497,7 @@
 | 
 | 
 | {{Relation|1580345|tools=short}}
-| 0.1
+| 0.10
 | 1
 | no
 | yes
@@ -18605,8 +18509,8 @@
 | 
 | 
 | {{Relation|1580346|tools=short}}
-| 0.98
-| 1
+| 1.14
+| 2
 | no
 | yes
 
@@ -18629,7 +18533,7 @@
 | 
 | Jimramov - Trhonice - Jimramov
 | {{Relation|1581909|tools=short}}
-| 0.55
+| 0.75
 | 1
 | no
 | yes
@@ -18689,7 +18593,7 @@
 | 
 | Pohorská ves - Benešov nad Černou
 | {{Relation|1587630|tools=short}}
-| 4.28
+| 4.27
 | 1
 | no
 | yes
@@ -18713,7 +18617,7 @@
 | 
 | Sedlo Kohouta - Nové Hrady
 | {{Relation|1587822|tools=short}}
-| 2.6
+| 2.60
 | 4
 | no
 | yes
@@ -18905,7 +18809,7 @@
 | Říčanský okruh
 | 
 | {{Relation|1588615|tools=short}}
-| 1.7
+| 1.70
 | 1
 | no
 | no
@@ -18929,7 +18833,7 @@
 | Pod Vysokou
 | 
 | {{Relation|1588641|tools=short}}
-| 1.94
+| 1.93
 | 1
 | no
 | no
@@ -18941,7 +18845,7 @@
 | 
 | Sobotka-Libošovice
 | {{Relation|1591491|tools=short}}
-| 7.7
+| 7.70
 | 1
 | no
 | yes
@@ -18974,7 +18878,7 @@
 |  
 | kct_yellow
 | major
-| LG-yellow_bar
+| Dolní Sedlo-Polesi
 | 
 | {{Relation|1596289|tools=short}}
 | 1.92
@@ -19037,7 +18941,7 @@
 | 
 | 
 | {{Relation|1597486|tools=short}}
-| 0.7
+| 0.70
 | 1
 | no
 | yes
@@ -19085,8 +18989,8 @@
 | 
 | Roupov - Lužany - Měčín
 | {{Relation|1599937|tools=short}}
-| 0.89
-| 1
+| 4.25
+| 2
 | no
 | yes
 
@@ -19121,7 +19025,7 @@
 | 
 | 
 | {{Relation|1600433|tools=short}}
-| 1.68
+| 1.69
 | 1
 | no
 | yes
@@ -19133,8 +19037,8 @@
 | 
 | 
 | {{Relation|1600434|tools=short}}
-| 11.23
-| 1
+| 11.20
+| 2
 | no
 | yes
 
@@ -19169,7 +19073,7 @@
 | 
 | 
 | {{Relation|1600456|tools=short}}
-| 4.26
+| 4.15
 | 2
 | yes
 | yes
@@ -19181,8 +19085,8 @@
 | 
 | 
 | {{Relation|1600457|tools=short}}
-| 3.48
-| 1
+| 3.40
+| 2
 | yes
 | yes
 
@@ -19205,7 +19109,7 @@
 | 
 | 
 | {{Relation|1604516|tools=short}}
-| 5.78
+| 5.79
 | 1
 | no
 | yes
@@ -19253,8 +19157,8 @@
 | 
 | Odranec
 | {{Relation|1604888|tools=short}}
-| 9.55
-| 2
+| 12.58
+| 4
 | no
 | yes
 
@@ -19304,7 +19208,7 @@
 | 0.68
 | 2
 | no
-| no
+| yes
 
 |-
 |  3945o
@@ -19325,7 +19229,7 @@
 | 
 | 
 | {{Relation|1606456|tools=short}}
-| 0.14
+| 0.20
 | 1
 | no
 | yes
@@ -19337,7 +19241,7 @@
 | 
 | 
 | {{Relation|1606542|tools=short}}
-| 13.35
+| 57.75
 | 2
 | no
 | yes
@@ -19349,7 +19253,7 @@
 | 
 | 
 | {{Relation|1606543|tools=short}}
-| 9.18
+| 9.19
 | 1
 | no
 | yes
@@ -19361,20 +19265,20 @@
 | 
 | 
 | {{Relation|1606544|tools=short}}
-| 13.73
-| 2
+| 12.39
+| 1
 | no
 | yes
 
 |-
-|  
+|  0243
 | kct_red
 | major
 | 
 | 
 | {{Relation|1606545|tools=short}}
-| 3.42
-| 1
+| 6.94
+| 2
 | no
 | yes
 
@@ -19433,9 +19337,9 @@
 | 
 | Hubačov;Lensedly
 | {{Relation|1612128|tools=short}}
-| 2.21
+| 3.69
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -19467,9 +19371,9 @@
 | kct_yellow
 | major
 | 
-| Korouhev - Lačnov - Spělkov - Březiny
+| Korouhev - Lačnov - Spělkov - Krásné - Březiny
 | {{Relation|1613057|tools=short}}
-| 3.3
+| 10.75
 | 3
 | no
 | yes
@@ -19553,8 +19457,8 @@
 | cesta T. G. Masaryka
 | 
 | {{Relation|1622038|tools=short}}
-| 2.52
-| 1
+| 6.72
+| 3
 | no
 | no
 
@@ -19566,7 +19470,7 @@
 | 
 | {{Relation|1623472|tools=short}}
 | 4.02
-| 2
+| 1
 | no
 | yes
 
@@ -19578,7 +19482,7 @@
 | 
 | {{Relation|1623473|tools=short}}
 | 3.31
-| 2
+| 1
 | no
 | yes
 
@@ -19586,8 +19490,8 @@
 |  0129
 | kct_red
 | major
-| 
-| 
+| červená Pod Vysokým kamenem - Jemnice
+| Pod Vysokým kamenem (rozc.);Zvůle (ryb.);Terezín;Český Rudolec;Dačice (u Dyje);U Smrčku (háj.);Jemnice (žst)
 | {{Relation|1623479|tools=short}}
 | 15.56
 | 1
@@ -19625,9 +19529,9 @@
 | NS Medvědí stezka
 | Černý kříž - Medvědí kámen - Jelení vrchy - Ovesná
 | {{Relation|1631097|tools=short}}
-| 1.86
-| 2
-| no
+| 13.84
+| 1
+| yes
 | no
 
 |-
@@ -19635,9 +19539,9 @@
 | kct_blue
 | major
 | Schwarzenberský kanál
-| 
+| Rosenauerova nádrž - Dolní Marktschlag (CZ/A)
 | {{Relation|1631098|tools=short}}
-| 18.07
+| 44.46
 | 1
 | no
 | yes
@@ -19671,10 +19575,10 @@
 | kct_yellow
 | major
 | Stezka Terezy Novákové
-| Lucký Vrch
+| Borová, Dědek, Lucký Vrch, Telecí
 | {{Relation|1636179|tools=short}}
-| 0.09
-| 1
+| 1.66
+| 3
 | no
 | yes
 
@@ -19685,9 +19589,9 @@
 | 
 | Oldříš - Lucký Vrch
 | {{Relation|1636181|tools=short}}
-| 0.09
+| 3.49
 | 1
-| no
+| yes
 | yes
 
 |-
@@ -19716,25 +19620,13 @@
 
 |-
 |  
-| kct_green
-| learning
-| Borovská poznávací stezka
-| Borová u Poličky
-| {{Relation|1641218|tools=short}}
-| 7.72
-| 2
-| no
-| yes
-
-|-
-|  
 | kct_yellow
 | major
 | 
 | 
 | {{Relation|1642284|tools=short}}
-| 7.91
-| 2
+| 7.92
+| 1
 | no
 | yes
 
@@ -19889,7 +19781,7 @@
 | 
 | 
 | {{Relation|1652276|tools=short}}
-| 2.7
+| 2.70
 | 1
 | no
 | no
@@ -19913,8 +19805,8 @@
 | 
 | 
 | {{Relation|1655868|tools=short}}
-| 9.06
-| 2
+| 36.04
+| 6
 | no
 | yes
 
@@ -19931,11 +19823,11 @@
 | yes
 
 |-
-|  
+|  7604
 | kct_yellow
 | major
 | 
-| 
+| Pivonice - Vír
 | {{Relation|1655955|tools=short}}
 | 3.65
 | 1
@@ -19943,14 +19835,14 @@
 | yes
 
 |-
-|  
+|  2006
 | kct_blue
 | major
 | 
-| 
+| Pivonice - Nedvědice
 | {{Relation|1656005|tools=short}}
-| 2.26
-| 2
+| 9.71
+| 3
 | no
 | yes
 
@@ -19961,8 +19853,8 @@
 | 
 | 
 | {{Relation|1656173|tools=short}}
-| 4.04
-| 1
+| 5.18
+| 2
 | no
 | yes
 
@@ -19985,7 +19877,7 @@
 | 
 | 
 | {{Relation|1656212|tools=short}}
-| 3.78
+| 3.79
 | 1
 | no
 | yes
@@ -19997,7 +19889,7 @@
 | 
 | 
 | {{Relation|1656276|tools=short}}
-| 0.63
+| 0.62
 | 1
 | yes
 | yes
@@ -20009,8 +19901,8 @@
 | 
 | Nové Město - Maršovice
 | {{Relation|1656290|tools=short}}
-| 2.57
-| 1
+| 6.84
+| 2
 | no
 | yes
 
@@ -20021,7 +19913,7 @@
 | 
 | 
 | {{Relation|1656392|tools=short}}
-| 1.43
+| 1.44
 | 2
 | no
 | yes
@@ -20033,8 +19925,8 @@
 | 
 | 
 | {{Relation|1656690|tools=short}}
-| 4.2
-| 7
+| 4.20
+| 6
 | no
 | yes
 
@@ -20057,7 +19949,7 @@
 | 
 | Jizera - značka na vrchol
 | {{Relation|1657284|tools=short}}
-| 0.06
+| 0.05
 | 1
 | yes
 | yes
@@ -20081,8 +19973,8 @@
 | 
 | 
 | {{Relation|1657366|tools=short}}
-| 12.04
-| 3
+| 12.96
+| 4
 | no
 | yes
 
@@ -20093,7 +19985,7 @@
 | 
 | 
 | {{Relation|1657767|tools=short}}
-| 3.79
+| 3.80
 | 1
 | no
 | yes
@@ -20105,7 +19997,7 @@
 | 
 | Maršovice
 | {{Relation|1657813|tools=short}}
-| 0.84
+| 2.04
 | 1
 | no
 | yes
@@ -20138,23 +20030,23 @@
 |  
 | kct_red
 | major
-| 
+| Jindřichův Hradec - Landštejn
 | 
 | {{Relation|1658654|tools=short}}
-| 5.78
+| 13.79
 | 1
 | no
 | yes
 
 |-
-|  
+|  2002
 | kct_blue
 | major
 | 
-| 
+| Nyklovice - Chlum - Vír
 | {{Relation|1659756|tools=short}}
-| 5.38
-| 1
+| 5.52
+| 2
 | no
 | yes
 
@@ -20165,7 +20057,7 @@
 | 
 | 
 | {{Relation|1659757|tools=short}}
-| 3.2
+| 3.20
 | 1
 | no
 | yes
@@ -20213,7 +20105,7 @@
 | 
 | 
 | {{Relation|1660120|tools=short}}
-| 1.6
+| 1.60
 | 1
 | no
 | yes
@@ -20235,10 +20127,10 @@
 | kct_blue
 | major
 | 
-| 
+| Zlatá studna - Bohumilice
 | {{Relation|1660309|tools=short}}
-| 4.44
-| 1
+| 5.64
+| 3
 | no
 | yes
 
@@ -20285,7 +20177,7 @@
 | 
 | 
 | {{Relation|1660313|tools=short}}
-| 2.8
+| 2.80
 | 1
 | no
 | yes
@@ -20334,7 +20226,7 @@
 | 
 | {{Relation|1661143|tools=short}}
 | 5.98
-| 3
+| 1
 | yes
 | -
 
@@ -20369,7 +20261,7 @@
 | Palackého stezka
 | Tanvald - Železný brod
 | {{Relation|1662041|tools=short}}
-| 19.92
+| 19.93
 | 1
 | no
 | yes
@@ -20381,7 +20273,7 @@
 | 
 | 
 | {{Relation|1662083|tools=short}}
-| 9.15
+| 9.14
 | 1
 | no
 | yes
@@ -20441,7 +20333,7 @@
 | 
 | 
 | {{Relation|1662948|tools=short}}
-| 10.6
+| 10.60
 | 2
 | no
 | yes
@@ -20484,12 +20376,24 @@
 
 |-
 |  
+| kct_blue
+| major
+| Jested - Světlá pod Ještědem
+| 
+| {{Relation|1665332|tools=short}}
+| 7.86
+| 1
+| no
+| yes
+
+|-
+|  
 | kct_green
 | yes
 | 
 | 
 | {{Relation|1666344|tools=short}}
-| 4.05
+| 4.04
 | 2
 | no
 | yes
@@ -20537,7 +20441,7 @@
 | 
 | 
 | {{Relation|1669000|tools=short}}
-| 0.3
+| 0.30
 | 1
 | no
 | yes
@@ -20561,8 +20465,8 @@
 | 
 | Velešín (náměstí)
 | {{Relation|1670201|tools=short}}
-| 0.75
-| 1
+| 3.85
+| 2
 | no
 | yes
 
@@ -20609,7 +20513,7 @@
 | 
 | cesta na Štěpánku
 | {{Relation|1684465|tools=short}}
-| 0.35
+| 0.34
 | 1
 | no
 | yes
@@ -20619,7 +20523,7 @@
 | kct_red
 | major
 | 
-| 
+| Bystřice n.P - Bobrová - Sklené n. O. - Ostrov n. O. -  Řečice - Nové Město n. Mor.
 | {{Relation|1684588|tools=short}}
 | 6.19
 | 2
@@ -20720,5 +20624,2453 @@
 | 0.02
 | 1
 | yes
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1686824|tools=short}}
+| 5.79
+| 2
+| yes
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1686951|tools=short}}
+| 3.03
+| 1
+| no
+| yes
+
+|-
+|  3666
+| kct_green
+| major
+| 
+| 
+| {{Relation|1687709|tools=short}}
+| 2.87
+| 1
+| no
+| yes
+
+|-
+|  1452
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1687710|tools=short}}
+| 4.49
+| 1
+| no
+| yes
+
+|-
+|  6672
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1687711|tools=short}}
+| 2.40
+| 2
+| no
+| yes
+
+|-
+|  3665
+| kct_green
+| major
+| 
+| 
+| {{Relation|1687712|tools=short}}
+| 3.01
+| 1
+| no
+| yes
+
+|-
+|  1454
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1687713|tools=short}}
+| 11.46
+| 1
+| no
+| yes
+
+|-
+|  3667
+| kct_green
+| major
+| 
+| 
+| {{Relation|1687714|tools=short}}
+| 0.81
+| 1
+| no
+| yes
+
+|-
+|  0242
+| kct_red
+| major
+| 
+| 
+| {{Relation|1687715|tools=short}}
+| 0.69
+| 2
+| no
+| yes
+
+|-
+|  3688
+| kct_green
+| major
+| 
+| 
+| {{Relation|1687716|tools=short}}
+| 1.31
+| 1
+| no
+| yes
+
+|-
+|  0211 (odb.Komošín zřícenina)
+| kct_red
+| ruin
+| 
+| Komošín zřícenina
+| {{Relation|1687993|tools=short}}
+| 0.34
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1688016|tools=short}}
+| 3.39
+| 2
+| no
+| yes
+
+|-
+|  0211 (odb.Kokšín zřícenina)
+| kct_red
+| ruin
+| 
+| Kokšín zřícenina
+| {{Relation|1688066|tools=short}}
+| 0.08
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1689111|tools=short}}
+| 0.14
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1689112|tools=short}}
+| 0.87
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1689113|tools=short}}
+| 5.69
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1689114|tools=short}}
+| 3.16
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1689218|tools=short}}
+| 22.23
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1689219|tools=short}}
+| 9.46
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1689220|tools=short}}
+| 9.28
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1689221|tools=short}}
+| 11.85
+| 1
+| no
+| yes
+
+|-
+|  0211 (odb. k PP Loupensko)
+| kct_red
+| peak
+| 
+| Loupensko
+| {{Relation|1689435|tools=short}}
+| 0.14
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1689789|tools=short}}
+| 3.00
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1689790|tools=short}}
+| 7.57
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1689791|tools=short}}
+| 8.03
+| 2
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1690697|tools=short}}
+| 0.46
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1690698|tools=short}}
+| 4.49
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| local
+| 
+| 
+| {{Relation|1691001|tools=short}}
+| 3.98
+| 1
+| no
+| yes
+
+|-
+|  6622 (odb. ke zříc. Věžka)
+| kct_yellow
+| ruin
+| 
+| Věžka
+| {{Relation|1691203|tools=short}}
+| 0.32
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1693784|tools=short}}
+| 7.33
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1693785|tools=short}}
+| 8.24
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1693786|tools=short}}
+| 1.01
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1693787|tools=short}}
+| 1.06
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1693788|tools=short}}
+| 5.32
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1693850|tools=short}}
+| 1.57
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1693851|tools=short}}
+| 0.34
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1693900|tools=short}}
+| 4.13
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1693901|tools=short}}
+| 0.73
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| Naučná stezka lesnická
+| 
+| {{Relation|1696117|tools=short}}
+| 3.80
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| yes
+| 
+| 
+| {{Relation|1696118|tools=short}}
+| 4.37
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| yes
+| 
+| 
+| {{Relation|1696119|tools=short}}
+| 3.38
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| yes
+| 
+| Police nad Metují - Pustiny
+| {{Relation|1696140|tools=short}}
+| 2.04
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| U Vysokého kamene - U Jírovy hory
+| {{Relation|1697012|tools=short}}
+| 1.39
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1702303|tools=short}}
+| 1.33
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1702304|tools=short}}
+| 2.07
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1702592|tools=short}}
+| 8.18
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| major
+| 
+| 
+| {{Relation|1702644|tools=short}}
+| 6.14
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1702835|tools=short}}
+| 6.83
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1702836|tools=short}}
+| 2.60
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1703463|tools=short}}
+| 10.81
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Hubertka;Bílý Potok;Hejnice
+| {{Relation|1704978|tools=short}}
+| 1.41
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Praskolesy-Točník
+| {{Relation|1706828|tools=short}}
+| 2.44
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Velíz-Král
+| {{Relation|1706829|tools=short}}
+| 4.32
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| major
+| 
+| Zbiroh-Roztoky
+| {{Relation|1706830|tools=short}}
+| 0.85
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| Točník-Skryje
+| {{Relation|1706831|tools=short}}
+| 3.92
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| 
+| 
+| {{Relation|1706938|tools=short}}
+| 3.19
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1706940|tools=short}}
+| 0.40
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| 
+| 
+| {{Relation|1707485|tools=short}}
+| 1.64
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1707486|tools=short}}
+| 4.81
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1708191|tools=short}}
+| 3.35
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| major
+| 
+| 
+| {{Relation|1708540|tools=short}}
+| 8.30
+| 3
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| interesting_object
+| 
+| 
+| {{Relation|1708881|tools=short}}
+| 0.53
+| 1
+| yes
+| no
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Doubrava (mysl.); Bezručova vyhlídka
+| {{Relation|1708882|tools=short}}
+| 1.92
+| 1
+| no
+| no
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1709427|tools=short}}
+| 1.81
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1709431|tools=short}}
+| 2.13
+| 1
+| no
+| no
+
+|-
+|  
+| kct_yellow
+| peak
+| 
+| Polední kameny
+| {{Relation|1709506|tools=short}}
+| 0.05
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| peak
+| 
+| Polední kameny
+| {{Relation|1709514|tools=short}}
+| 0.16
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| ?
+| {{Relation|1711660|tools=short}}
+| 1.99
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Muckov - Hořice na Šumavě (železniční stanice)
+| {{Relation|1711661|tools=short}}
+| 4.84
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1712171|tools=short}}
+| 52.93
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| peak
+| 
+| 
+| {{Relation|1712172|tools=short}}
+| 1.30
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1713928|tools=short}}
+| 0.89
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| peak
+| 
+| 
+| {{Relation|1715880|tools=short}}
+| 0.59
+| 1
+| yes
+| yes
+
+|-
+|  1413 (odb.Kámen)
+| kct_blue
+| peak
+| 
+| 
+| {{Relation|1721145|tools=short}}
+| 0.40
+| 1
+| yes
+| yes
+
+|-
+|  3618
+| kct_green
+| major
+| 
+| Nepomuk - Kotouň - Vrčeň - Nepomuk
+| {{Relation|1721217|tools=short}}
+| 2.17
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1721368|tools=short}}
+| 7.34
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| Uhlířský vrch
+| 
+| {{Relation|1721593|tools=short}}
+| 1.20
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_blue
+| local
+| Okolo Lískového vrchu
+| Volary (žst) - Volary (žst)
+| {{Relation|1722297|tools=short}}
+| 2.73
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| Stifterův rodný dům - Stifterův rodný dům
+| {{Relation|1722298|tools=short}}
+| 5.42
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1722593|tools=short}}
+| 1.20
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1722611|tools=short}}
+| 3.93
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1722621|tools=short}}
+| 6.59
+| 1
+| no
+| yes
+
+|-
+|  226
+| kct_red
+| major
+| 
+| 
+| {{Relation|1725248|tools=short}}
+| 13.14
+| 3
+| no
+| no
+
+|-
+|  6016
+| kct_yellow
+| major
+| 
+| Drahelčice-Malé Přílepy
+| {{Relation|1726908|tools=short}}
+| 4.85
+| 1
+| no
+| yes
+
+|-
+|  0148
+| kct_red
+| major
+| 
+| 
+| {{Relation|1726992|tools=short}}
+| 11.51
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Vlašim - Hrádek - Český Šterberk
+| {{Relation|1727173|tools=short}}
+| 4.77
+| 1
+| 
+| yes
+
+|-
+|  1025
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1727722|tools=short}}
+| 8.55
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1728092|tools=short}}
+| 5.23
+| 3
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1728146|tools=short}}
+| 3.42
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1728230|tools=short}}
+| 9.44
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1728235|tools=short}}
+| 6.76
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_red
+| major
+| Březinova cesta
+| 
+| {{Relation|1729505|tools=short}}
+| 5.88
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1729507|tools=short}}
+| 11.46
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| local
+| 
+| 
+| {{Relation|1729508|tools=short}}
+| 1.76
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| 
+| Kutná Hora
+| {{Relation|1730478|tools=short}}
+| 1.37
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Kutná Hora
+| {{Relation|1730479|tools=short}}
+| 1.22
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Filipov-Dědová-Hlinsko
+| {{Relation|1730899|tools=short}}
+| 2.12
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Kameničky - Vojtěchův kopec
+| {{Relation|1730900|tools=short}}
+| 1.30
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1731524|tools=short}}
+| 13.70
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1731525|tools=short}}
+| 3.58
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_yellow
+| yes
+| 
+| 
+| {{Relation|1731546|tools=short}}
+| 0.70
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| NS Ceskomoravské pomezí - Svitavsko
+| 
+| {{Relation|1732086|tools=short}}
+| 11.90
+| 1
+| 
+| no
+
+|-
+|  
+| kct_green
+| learning
+| NS Prameny Svitavy
+| 
+| {{Relation|1732087|tools=short}}
+| 3.33
+| 1
+| 
+| no
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1732088|tools=short}}
+| 13.25
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Frýdava - Pasečná?
+| {{Relation|1738259|tools=short}}
+| 4.71
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| major
+| 
+| Svatý Tomáš - Zadní Zvonková (u celnice)
+| {{Relation|1738260|tools=short}}
+| 7.53
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_red
+| ruin
+| 
+| Svatý Tomáš - Vítkův Kámen (zřícenina)
+| {{Relation|1738261|tools=short}}
+| 0.55
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Růžová cesta - U Korandy
+| {{Relation|1738262|tools=short}}
+| 1.33
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| peak
+| 
+| 
+| {{Relation|1738993|tools=short}}
+| 0.29
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| peak
+| 
+| 
+| {{Relation|1738994|tools=short}}
+| 0.47
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_red
+| local
+| 
+| Český Krumlov (železniční stanice) - Český Krumlov (železniční stanice)
+| {{Relation|1738995|tools=short}}
+| 7.19
+| 3
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| Kraslice-Nejdek
+| 
+| {{Relation|1738996|tools=short}}
+| 10.27
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1739061|tools=short}}
+| 2.73
+| 1
+| no
+| yes
+
+|-
+|  6131
+| kct_yellow
+| major
+| 
+| Zvánovický potok - Habr, Struhařov (bus)
+| {{Relation|1741176|tools=short}}
+| 1.86
+| 1
+| yes
+| yes
+
+|-
+|  0135
+| kct_red
+| major
+| 
+| Kleť - Zlatá Koruna
+| {{Relation|1744195|tools=short}}
+| 7.27
+| 1
+| yes
+| yes
+
+|-
+|  6343
+| kct_yellow
+| major
+| 
+| Kleť - Křemže
+| {{Relation|1744196|tools=short}}
+| 7.80
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| Naučná stezka Granátník
+| ? - ?
+| {{Relation|1744197|tools=short}}
+| 2.57
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| ski
+| 
+| U Sloupu - Modrý obrázek?
+| {{Relation|1744198|tools=short}}
+| 4.36
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| horse
+| 
+| 
+| {{Relation|1744199|tools=short}}
+| 0.91
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_red
+| horse
+| 
+| Na Cestě - Ha Hospůdce (bus)
+| {{Relation|1744200|tools=short}}
+| 4.89
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| ski
+| 
+| 
+| {{Relation|1744201|tools=short}}
+| 3.71
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| ski
+| 
+| 
+| {{Relation|1744202|tools=short}}
+| 2.31
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| ski
+| 
+| 
+| {{Relation|1744203|tools=short}}
+| 5.84
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| horse
+| 
+| Na Cestě - Zlatá Koruna (železniční stanice)?
+| {{Relation|1744389|tools=short}}
+| 0.30
+| 1
+| no
+| yes
+
+|-
+|  0241
+| kct_red
+| major
+| 
+| Mariánské lázně -Teplá(Klášter)
+| {{Relation|1745013|tools=short}}
+| 1.27
+| 1
+| no
+| yes
+
+|-
+|  0091
+| kct_red
+| learning
+| 
+| Klemperka - Jestřebice
+| {{Relation|1748917|tools=short}}
+| 6.00
+| 1
+| yes
+| no
+
+|-
+|  6085
+| kct_yellow
+| major
+| 
+| Truskavenský důl - Jestřebice
+| {{Relation|1748918|tools=short}}
+| 4.87
+| 1
+| yes
+| yes
+
+|-
+|  4505
+| kct_green
+| major
+| 
+| Dalečín - Sulkovec -
+| {{Relation|1749782|tools=short}}
+| 8.46
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| ski
+| Krušnohorská magistrála
+| Zadní Telnice-Nové Město-Klínovec
+| {{Relation|1750325|tools=short}}
+| 6.32
+| 1
+| no
+| yes
+
+|-
+|  7505
+| kct_yellow
+| major
+| 
+| Dalečín -
+| {{Relation|1750750|tools=short}}
+| 0.18
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| Svratecká vodohospodářská naučná stezka
+| Dalečín - Vír - Švařec
+| {{Relation|1750751|tools=short}}
+| 7.78
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Přibyslavice - Okříšky
+| {{Relation|1751574|tools=short}}
+| 1.94
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| learning
+| NS Hvozdnice
+| 
+| {{Relation|1753840|tools=short}}
+| 7.55
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| peak
+| 
+| Brožova skalka
+| {{Relation|1754578|tools=short}}
+| 0.10
+| 1
+| yes
+| yes
+
+|-
+|  0437
+| kct_red
+| major
+| 
+| Turnov - Kozákov
+| {{Relation|1755462|tools=short}}
+| 8.95
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_red
+| peak
+| 
+| Zdenčina skála
+| {{Relation|1755463|tools=short}}
+| 0.43
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Rotštejn - Fialník
+| {{Relation|1755464|tools=short}}
+| 1.03
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| peak
+| 
+| 
+| {{Relation|1755475|tools=short}}
+| 0.11
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1755476|tools=short}}
+| 0.67
+| 1
+| no
+| yes
+
+|-
+|  0452
+| kct_red
+| major
+| Cesta Karla Havlíčka Borovského
+| ??
+| {{Relation|1756531|tools=short}}
+| 9.95
+| 3
+| no
+| yes
+
+|-
+|  4302
+| kct_green
+| major
+| 
+| Hlinsko - Zalíbené - Vojnův Městec
+| {{Relation|1756532|tools=short}}
+| 7.29
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1759266|tools=short}}
+| 14.72
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_green
+| interesting_object
+| 
+| 
+| {{Relation|1765229|tools=short}}
+| 0.71
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| major
+| Jindřichův Hradec - Stráž nad Nežárkou (Nežárka)
+| 
+| {{Relation|1766450|tools=short}}
+| 9.27
+| 1
+| no
+| no
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1768496|tools=short}}
+| 3.73
+| 1
+| no
+| no
+
+|-
+|  
+| kct_red
+| major
+| Jindřichův Hradec - Deštná - Mlýny
+| 
+| {{Relation|1768937|tools=short}}
+| 2.49
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| major
+| Jindřichův Hradec - Děbolín - Holná - Stráž nad Nežárkou
+| 
+| {{Relation|1768938|tools=short}}
+| 1.90
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| local
+| Naučná stezka Okolo Hrozenka
+| 
+| {{Relation|1770539|tools=short}}
+| 5.95
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1770540|tools=short}}
+| 3.04
+| 1
+| no
+| yes
+
+|-
+|  3045
+| kct_green
+| major
+| 
+| Štěchovice - Nový Knín
+| {{Relation|1773073|tools=short}}
+| 2.66
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| ruin
+| 
+| Na Rovínku - kaple a výhled na přechradní jezero
+| {{Relation|1773074|tools=short}}
+| 0.21
+| 1
+| no
+| no
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1777794|tools=short}}
+| 10.21
+| 2
+| no
+| yes
+
+|-
+|  6049
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1782627|tools=short}}
+| 5.98
+| 1
+| yes
+| -
+
+|-
+|  1079
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1783154|tools=short}}
+| 3.54
+| 1
+| no
+| -
+
+|-
+|  3053
+| kct_green
+| major
+| 
+| 
+| {{Relation|1784186|tools=short}}
+| 5.04
+| 1
+| yes
+| -
+
+|-
+|  1418
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1794830|tools=short}}
+| 5.67
+| 1
+| no
+| yes
+
+|-
+|  6690
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1794831|tools=short}}
+| 1.36
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Stachy - Popelná - (Kašperské hory)
+| {{Relation|1794832|tools=short}}
+| 7.32
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Bělohradský les - Brůdek, kostel
+| {{Relation|1794833|tools=short}}
+| 1.21
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Velké Meziřící - Číchov
+| {{Relation|1804969|tools=short}}
+| 8.86
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1806219|tools=short}}
+| 5.40
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| major
+| 
+| 
+| {{Relation|1806220|tools=short}}
+| 1.15
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| zelená Krahulov - Netín
+| Krahulov (žst);Hvězdoňovice;Kobylí hlava;Chaloupky;Rokštejn;Přímělkov (žst);Řehořov;Stáj;Dědkovská hora;Netín
+| {{Relation|1806363|tools=short}}
+| 0.30
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| modrá Čechočovice - Želetava
+| Krahulov (žst);Čechočovice;Rokytnice nad Rokytnou;Březová;Dašov;Nová Louka;Bítovánky;Želetava
+| {{Relation|1806364|tools=short}}
+| 3.08
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1814879|tools=short}}
+| 2.62
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Javoříčko - Kladky
+| {{Relation|1815037|tools=short}}
+| 3.25
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| Boouzov - Javoříčko - Cholina
+| {{Relation|1815038|tools=short}}
+| 9.59
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Olomouc -
+| {{Relation|1820669|tools=short}}
+| 2.27
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1821818|tools=short}}
+| 2.12
+| 1
+| 
+| yes
+
+|-
+|  TA059c
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1826526|tools=short}}
+| 4.31
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| horse
+| 
+| Bílek
+| {{Relation|1826707|tools=short}}
+| 0.94
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1826938|tools=short}}
+| 2.87
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1826939|tools=short}}
+| 5.11
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_red
+| horse
+| 
+| 
+| {{Relation|1827000|tools=short}}
+| 1.12
+| 1
+| no
+| yes
+
+|-
+|  TA059a
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1829579|tools=short}}
+| 2.92
+| 2
+| no
+| yes
+
+|-
+|  6344
+| kct_yellow
+| major
+| žlutá Kunžak Lomy - Pod Vysokým kamenem
+| Kunžak (žst Lomy);Kunžacký les;Vysoký kámen;Pod Vysokým kamenem (rozc.)
+| {{Relation|1829858|tools=short}}
+| 3.91
+| 1
+| yes
+| yes
+
+|-
+|  1601
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1832138|tools=short}}
+| 1.20
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1832139|tools=short}}
+| 1.76
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Paška Pole - Nad Velemínem
+| {{Relation|1832140|tools=short}}
+| 2.32
+| 1
+| yes
+| yes
+
+|-
+|  0034
+| kct_red
+| major
+| 
+| 
+| {{Relation|1833125|tools=short}}
+| 2.53
+| 1
+| no
+| yes
+
+|-
+|  3099
+| kct_green
+| major
+| 
+| 
+| {{Relation|1833126|tools=short}}
+| 1.26
+| 1
+| no
+| no
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1833127|tools=short}}
+| 0.31
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| (žlutá Třebíč žst - bus)
+| Třebíč (žst);Třebíč (bus)
+| {{Relation|1835115|tools=short}}
+| 0.83
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1837745|tools=short}}
+| 1.79
+| 2
+| 
+| yes
+
+|-
+|  1925
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1837966|tools=short}}
+| 1.43
+| 1
+| no
+| yes
+
+|-
+|  7348
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1837967|tools=short}}
+| 0.02
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1839776|tools=short}}
+| 0.81
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| Pod Kopaninami - Trnava
+| {{Relation|1841583|tools=short}}
+| 7.47
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| peak
+| 
+| Hajní Kostel
+| {{Relation|1843596|tools=short}}
+| 0.17
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_yellow
+| peak
+| 
+| Jelínkův most
+| {{Relation|1851638|tools=short}}
+| 0.14
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1851803|tools=short}}
+| 1.40
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_red
+| major
+| 
+| 
+| {{Relation|1853745|tools=short}}
+| 2.12
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1853746|tools=short}}
+| 2.12
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| modra
+| 
+| {{Relation|1856448|tools=short}}
+| 9.06
+| 1
+| no
+| -
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1858371|tools=short}}
+| 7.15
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1862390|tools=short}}
+| 9.84
+| 2
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| zelena žermanice-paskov
+| 
+| {{Relation|1863515|tools=short}}
+| 5.22
+| 1
+| no
+| -
+
+|-
+|  
+| kct_red
+| major
+| červerna žermanice-buldovce
+| 
+| {{Relation|1863516|tools=short}}
+| 4.02
+| 1
+| no
+| -
+
+|-
+|  1206
+| kct_blue
+| major
+| 
+| Řetězový most - Třebelice
+| {{Relation|1866691|tools=short}}
+| 9.88
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_red
+| interesting_object
+| 
+| 
+| {{Relation|1867639|tools=short}}
+| 0.02
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1869805|tools=short}}
+| 3.81
+| 1
+| 
+| yes
+
+|-
+|  
+| kct_blue
+| major
+| 
+| 
+| {{Relation|1874835|tools=short}}
+| 5.36
+| 3
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| (Dobnavka - Dobrá voda)
+| Dobnavka (rozc.);Dobrá voda
+| {{Relation|1889601|tools=short}}
+| 0.52
+| 1
+| no
+| yes
+
+|-
+|  
+| kct_green
+| major
+| 
+| 
+| {{Relation|1903595|tools=short}}
+| 13.53
+| 2
+| 
 | yes
 
