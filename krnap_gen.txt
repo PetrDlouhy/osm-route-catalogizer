@@ -6,15 +6,17 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>1A
 | Krkonošská diagonála (Harrachov-Žacléř)
 | {{Relation|64350|tools=short}}
-| 70.63
+| 70.23
 | 1
 | lcn
 | yes
+| 
 
 |-
 |  <span style="display:none">1</span>4
@@ -24,6 +26,7 @@
 | 1
 | lcn
 | yes
+| 
 
 |-
 |  <span style="display:none">1</span>7
@@ -33,6 +36,7 @@
 | 1
 | lcn
 | yes
+| 
 
 |-
 |  <span style="display:none">1</span>6
@@ -42,6 +46,7 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>2B
@@ -51,23 +56,26 @@
 | 1
 | lcn
 | yes
+| 
 
 |-
 |  <span style="display:none">1</span>2
 | Terex - Janouškova cesta (Harrachov-Krakonošova snídaně-Harrachov)
 | {{Relation|64387|tools=short}}
-| 22.9
+| 22.93
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>1B
 | 
 | {{Relation|206491|tools=short}}
-| 16.96
+| 19.48
 | 1
 | lcn
+| 
 | 
 
 |-
@@ -78,15 +86,17 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">2</span>15
 | 
 | {{Relation|254686|tools=short}}
-| 1.86
+| 12.03
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">2</span>14
@@ -96,42 +106,47 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">2</span>16
 | 
 | {{Relation|254986|tools=short}}
-| 0.48
+| 8.40
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>4A
 | Harrachov-Janova cesta
 | {{Relation|331106|tools=short}}
-| 0.6
+| 0.60
 | 2
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>1F
 | Růžová hora-Janovy boudy
 | {{Relation|332165|tools=short}}
-| 4.63
+| 4.62
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>3
 | Paseky nad Jizerou-Kořenov
 | {{Relation|339204|tools=short}}
-| 14.95
+| 15.12
 | 1
 | lcn
 | yes
+| 
 
 |-
 |  <span style="display:none">1</span>7A
@@ -141,15 +156,17 @@
 | 1
 | lcn
 | yes
+| 
 
 |-
 |  <span style="display:none">1</span>8A
 | Stromkovice-Vidlice
 | {{Relation|366459|tools=short}}
-| 7.42
+| 10.30
 | 1
 | lcn
 | yes
+| 
 
 |-
 |  <span style="display:none">2</span>13A
@@ -159,6 +176,7 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>8
@@ -168,6 +186,7 @@
 | 2
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">2</span>17
@@ -177,15 +196,17 @@
 | 1
 | lcn
 | 
+| 
 
 |-
 |  <span style="display:none">2</span>10
 | 
 | {{Relation|1059683|tools=short}}
-| 12
+| 15.29
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">2</span>11
@@ -195,6 +216,7 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">2</span>10A
@@ -204,6 +226,7 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">1</span>9
@@ -213,6 +236,7 @@
 | 1
 | lcn
 | no
+| 
 
 |-
 |  <span style="display:none">2</span>12
@@ -222,4 +246,55 @@
 | 1
 | lcn
 | no
+| 
+
+|-
+|  <span style="display:none">0</span>
+| 
+| {{Relation|1706939|tools=short}}
+| 17.32
+| 1
+| 
+| yes
+| 
+
+|-
+|  <span style="display:none">2</span>18
+| 18
+| {{Relation|1738115|tools=short}}
+| 5.29
+| 1
+| lcn
+| yes
+| 
+
+|-
+|  <span style="display:none">2</span>19A
+| 
+| {{Relation|1740747|tools=short}}
+| 6.60
+| 1
+| lcn
+| 
+| 
+
+|-
+|  <span style="display:none">2</span>19B
+| 
+| {{Relation|1740749|tools=short}}
+| 0.84
+| 2
+| lcn
+| 
+| 
+
+|-
+|  <span style="display:none">2</span>20
+| 
+| {{Relation|1740798|tools=short}}
+| 2.07
+| 1
+| lcn
+| 
+| 
 
