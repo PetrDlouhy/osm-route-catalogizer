@@ -54,6 +54,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		<xsl:value-of select="tag[@k = 'complete']/@v"/>
 		<xsl:text>&#xa;</xsl:text>
 
+		<xsl:text>| </xsl:text>
+		<xsl:value-of select="tag[@k = 'state']/@v"/>
+		<xsl:text>&#xa;</xsl:text>
+
 		<!--
 
 		<xsl:text>| </xsl:text>
