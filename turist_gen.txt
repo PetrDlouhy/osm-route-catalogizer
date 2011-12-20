@@ -1193,7 +1193,7 @@
 | 
 | Franciska - Kladská brána - Paprsek - Ramzová - Šerák - Trojmezí - Červenohorské sedlo - Švýcarna - Pod Pradědem - Ovčárna - Nad Malým kotlem - Jelení studánka
 | {{Relation|83678|tools=short}}
-| 49.36
+| 49.49
 | 1
 | no
 | yes
@@ -1253,7 +1253,7 @@
 | 
 | 
 | {{Relation|83686|tools=short}}
-| 3.03
+| 3.04
 | 1
 | no
 | yes
@@ -1271,13 +1271,13 @@
 | yes
 
 |-
-|  4802
+|  4802-wrong
 | kct_green
 | major
 | 
 | 
 | {{Relation|83688|tools=short}}
-| 8.89
+| 9.02
 | 1
 | no
 | yes
@@ -2453,7 +2453,7 @@
 | (červená Třebíč - Radostice)
 | Radostice;Ivančice;Hrubšice;Pod Templštejnem;Mohelský mlýn;Rabštejn;Dalešická přehrada (hráz);Popůvky;Hartvíkovice;Bařina;Holoubek;Jirkasův mlýn;Číměř;Vladislav;Třebíč
 | {{Relation|163185|tools=short}}
-| 31.96
+| 33.32
 | 5
 | no
 | yes
@@ -3377,7 +3377,7 @@
 | 
 | 
 | {{Relation|223318|tools=short}}
-| 14.33
+| 14.32
 | 3
 | no
 | yes
@@ -3389,8 +3389,8 @@
 | (červená Velká Bíteš - Náměšť nad Oslavou - Levnov - Pravková)
 | Velká Bíteš (bus);Náměšť nad Oslavou (žst);Lamberk (zříc. odb.);Senoradský mlýn;Vysoké Popovice (žst);Zastávka u Brna (žst);Javůrek;Pravková
 | {{Relation|223319|tools=short}}
-| 28.11
-| 8
+| 28.12
+| 9
 | no
 | yes
 
@@ -3473,7 +3473,7 @@
 | 
 | 
 | {{Relation|223329|tools=short}}
-| 9.60
+| 9.61
 | 1
 | no
 | yes
@@ -4553,7 +4553,7 @@
 | 
 | 
 | {{Relation|253091|tools=short}}
-| 90.49
+| 90.50
 | 1
 | no
 | yes
@@ -4646,7 +4646,7 @@
 |  
 | kct_blue
 | major
-| Modrá
+| 
 | 
 | {{Relation|253131|tools=short}}
 | 19.59
@@ -5477,8 +5477,8 @@
 | 
 | Plzeň-Černice - Čižice - Přeštice - Klatovy
 | {{Relation|254493|tools=short}}
-| 40.86
-| 2
+| 46.54
+| 1
 | no
 | yes
 
@@ -7889,8 +7889,8 @@
 | 
 | 
 | {{Relation|374955|tools=short}}
-| 19.00
-| 3
+| 19.39
+| 2
 | no
 | yes
 
@@ -8705,7 +8705,7 @@
 | 
 | Bělá - Točník - Vřesová studánka - Petrovka - Pod Pradědem - Ovčárna - Karlova Studánka
 | {{Relation|387407|tools=short}}
-| 16.28
+| 16.29
 | 1
 | no
 | yes
@@ -12653,7 +12653,7 @@
 | KCT:blue:Poruba, Slovan-Sudice (CZ/PL)
 | 
 | {{Relation|1102044|tools=short}}
-| 39.64
+| 39.70
 | 1
 | yes
 | yes
@@ -12869,7 +12869,7 @@
 | 
 | Dlouhá louka - Bouřňák
 | {{Relation|1109717|tools=short}}
-| 2.56
+| 2.57
 | 1
 | no
 | yes
@@ -14582,8 +14582,8 @@
 |  1675
 | kct_blue
 | major
-| 
-| Cvikov - Jablonné v Podještědí
+| Jablonné v Podještědí - Cvikov
+| Jablonné v Podještědí - Cvikov
 | {{Relation|1174597|tools=short}}
 | 19.71
 | 1
@@ -17813,7 +17813,7 @@
 | Dlouha Louka-Bouřnak
 | 
 | {{Relation|1544013|tools=short}}
-| 6.51
+| 6.53
 | 1
 | no
 | yes
@@ -18989,7 +18989,7 @@
 | 
 | Roupov - Lužany - Měčín
 | {{Relation|1599937|tools=short}}
-| 4.25
+| 4.58
 | 2
 | no
 | yes
@@ -19253,7 +19253,7 @@
 | 
 | 
 | {{Relation|1606543|tools=short}}
-| 9.19
+| 10.44
 | 1
 | no
 | yes
@@ -21623,6 +21623,18 @@
 | no
 
 |-
+|  29
+| kct_red
+| major
+| 
+| 
+| {{Relation|1726907|tools=short}}
+| 3.86
+| 1
+| no
+| yes
+
+|-
 |  6016
 | kct_yellow
 | major
@@ -21689,7 +21701,7 @@
 | 
 | 
 | {{Relation|1728146|tools=short}}
-| 3.42
+| 2.01
 | 1
 | no
 | yes
@@ -23072,5 +23084,65 @@
 | 13.53
 | 2
 | 
+| yes
+
+|-
+|  
+| kct_yellow
+| major
+| 
+| 
+| {{Relation|1904159|tools=short}}
+| 5.40
+| 1
+| no
+| yes
+
+|-
+|  0211 (odb. k hradu Skála)
+| kct_red
+| ruin
+| 
+| Skála
+| {{Relation|1920028|tools=short}}
+| 0.08
+| 1
+| yes
+| yes
+
+|-
+|  3410
+| kct_green
+| major
+| 
+| Bližší lhota (Horní planá) - ?
+| {{Relation|1920551|tools=short}}
+| 0.66
+| 1
+| no
+| yes
+
+|-
+|  4802
+| kct_green
+| major
+| 
+| 
+| {{Relation|1921309|tools=short}}
+| 5.02
+| 1
+| yes
+| yes
+
+|-
+|  
+| kct_blue
+| peak
+| 
+| 
+| {{Relation|1921313|tools=short}}
+| 0.27
+| 1
+| no
 | yes
 
