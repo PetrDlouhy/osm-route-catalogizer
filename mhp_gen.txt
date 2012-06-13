@@ -2,7 +2,7 @@
 |  <span style="display:none">2</span>A22
 | A22, Kunratický potok, proznačená část
 | {{Relation|14950|tools=short}}
-| 11.70
+| 11.71
 | 1
 | rcn
 | no
@@ -32,7 +32,7 @@
 |  <span style="display:none">2</span>A44
 | Petrovice–Letňany
 | {{Relation|19937|tools=short}}
-| 20.26
+| 20.31
 | 2
 | rcn
 | no
@@ -102,7 +102,7 @@
 |  <span style="display:none">1</span>A1
 | Vltava, levobřežní trasa
 | {{Relation|32836|tools=short}}
-| 26.14
+| 26.37
 | 3
 | rcn
 | no
@@ -132,7 +132,7 @@
 |  <span style="display:none">3</span>A214
 | 
 | {{Relation|75680|tools=short}}
-| 1.66
+| 2.19
 | 1
 | lcn
 | no
@@ -142,7 +142,7 @@
 |  <span style="display:none">2</span>A18
 | Suchdolská
 | {{Relation|102688|tools=short}}
-| 5.43
+| 5.42
 | 1
 | rcn
 | no
@@ -192,7 +192,7 @@
 |  <span style="display:none">0</span>BŘ-LE
 | Břevnov-Letná
 | {{Relation|108273|tools=short}}
-| 6.76
+| 6.77
 | 1
 | lcn
 | no
@@ -202,7 +202,7 @@
 |  <span style="display:none">3</span>A263
 | 
 | {{Relation|109095|tools=short}}
-| 3.89
+| 3.94
 | 1
 | lcn
 | no
@@ -222,7 +222,7 @@
 |  <span style="display:none">2</span>A14
 | Motolský potok
 | {{Relation|109807|tools=short}}
-| 14.28
+| 14.29
 | 1
 | rcn
 | proposed
@@ -232,7 +232,7 @@
 |  <span style="display:none">2</span>A13
 | Radlická
 | {{Relation|109813|tools=short}}
-| 13.71
+| 13.89
 | 1
 | rcn
 | proposed
@@ -242,7 +242,7 @@
 |  <span style="display:none">2</span>A11
 | Radotínský potok
 | {{Relation|109818|tools=short}}
-| 10.37
+| 10.36
 | 2
 | rcn
 | no
@@ -252,7 +252,7 @@
 |  <span style="display:none">2</span>A12
 | Prokopské údolí
 | {{Relation|109823|tools=short}}
-| 9.89
+| 9.90
 | 1
 | rcn
 | no
@@ -282,7 +282,7 @@
 |  <span style="display:none">3</span>A222
 | 
 | {{Relation|121905|tools=short}}
-| 1.27
+| 1.25
 | 1
 | lcn
 | no
@@ -292,7 +292,7 @@
 |  <span style="display:none">3</span>A165
 | 
 | {{Relation|123911|tools=short}}
-| 1.33
+| 1.48
 | 1
 | lcn
 | no
@@ -302,8 +302,8 @@
 |  <span style="display:none">0</span>ÚJ-BR
 | Újezd-Braník
 | {{Relation|125503|tools=short}}
-| 8.31
-| 3
+| 8.38
+| 2
 | lcn
 | no
 | 
@@ -332,7 +332,7 @@
 |  <span style="display:none">2</span>A28
 | Bohnické údolí
 | {{Relation|135876|tools=short}}
-| 1.86
+| 3.54
 | 1
 | rcn
 | no
@@ -342,8 +342,8 @@
 |  <span style="display:none">2</span>A27
 | A27 Bulovka, neznačená část
 | {{Relation|135891|tools=short}}
-| 5.88
-| 3
+| 2.01
+| 1
 | rcn
 | proposed
 | proposed
@@ -382,7 +382,7 @@
 |  <span style="display:none">2</span>A23
 | Botič
 | {{Relation|223932|tools=short}}
-| 10.94
+| 10.91
 | 4
 | rcn
 | no
@@ -392,8 +392,8 @@
 |  <span style="display:none">3</span>A216
 | 
 | {{Relation|223933|tools=short}}
-| 3.44
-| 3
+| 3.60
+| 1
 | lcn
 | no
 | 
@@ -412,7 +412,7 @@
 |  <span style="display:none">2</span>A21
 | Modřanská rokle
 | {{Relation|236770|tools=short}}
-| 12.04
+| 11.84
 | 1
 | rcn
 | proposed
@@ -482,7 +482,7 @@
 |  <span style="display:none">3</span>A204
 | 
 | {{Relation|301014|tools=short}}
-| 6.73
+| 6.75
 | 1
 | lcn
 | yes
@@ -492,7 +492,7 @@
 |  <span style="display:none">3</span>A202
 | 
 | {{Relation|301035|tools=short}}
-| 0.59
+| 0.62
 | 1
 | lcn
 | no
@@ -542,7 +542,7 @@
 |  <span style="display:none">3</span>A159
 | 
 | {{Relation|1180029|tools=short}}
-| 0.15
+| 0.14
 | 1
 | lcn
 | no
@@ -562,7 +562,7 @@
 |  <span style="display:none">2</span>A16
 | Veleslavínská - návrh (západ, region)
 | {{Relation|1189162|tools=short}}
-| 12.15
+| 12.14
 | 1
 | rcn
 | proposed
@@ -582,7 +582,7 @@
 |  <span style="display:none">2</span>A26
 | Rokytka - návrh
 | {{Relation|1189168|tools=short}}
-| 7.53
+| 7.04
 | 2
 | rcn
 | proposed
@@ -602,7 +602,7 @@
 |  <span style="display:none">2</span>A32
 | 
 | {{Relation|1189765|tools=short}}
-| 11.47
+| 11.48
 | 2
 | lcn
 | proposed
@@ -632,7 +632,7 @@
 |  <span style="display:none">2</span>A34
 | 
 | {{Relation|1189798|tools=short}}
-| 12.40
+| 12.79
 | 2
 | rcn
 | proposed
@@ -642,7 +642,7 @@
 |  <span style="display:none">2</span>A23
 | Botič-návrh
 | {{Relation|1190880|tools=short}}
-| 10.22
+| 10.21
 | 3
 | rcn
 | proposed
@@ -652,8 +652,8 @@
 |  <span style="display:none">3</span>A122
 | Hlubočepy-Jinonice
 | {{Relation|1191421|tools=short}}
-| 0.32
-| 2
+| 2.46
+| 1
 | lcn
 | no
 | 
@@ -662,7 +662,7 @@
 |  <span style="display:none">3</span>A201
 | 
 | {{Relation|1198073|tools=short}}
-| 2.69
+| 2.72
 | 1
 | lcn
 | no
@@ -682,8 +682,8 @@
 |  <span style="display:none">3</span>A122
 | Hlubočepy-Jinonice-návrh
 | {{Relation|1214422|tools=short}}
-| 2.58
-| 2
+| 0.47
+| 1
 | lcn
 | proposed
 | proposed
@@ -722,8 +722,8 @@
 |  <span style="display:none">2</span>A24
 | 
 | {{Relation|1584266|tools=short}}
-| 6.58
-| 2
+| 10.37
+| 1
 | rcn
 | no
 | 
@@ -732,7 +732,7 @@
 |  <span style="display:none">1</span>A1
 | Vltava, levobřežní trasa (návrh-local)
 | {{Relation|1607236|tools=short}}
-| 1.82
+| 1.80
 | 1
 | lcn
 | proposed
@@ -742,17 +742,7 @@
 |  <span style="display:none">3</span>A440
 | 
 | {{Relation|1632987|tools=short}}
-| 7.91
-| 1
-| lcn
-| no
-| 
-
-|-
-|  <span style="display:none">3</span>A248
-| 
-| {{Relation|1633033|tools=short}}
-| 2.34
+| 7.99
 | 1
 | lcn
 | no
@@ -762,7 +752,7 @@
 |  <span style="display:none">3</span>A209
 | 
 | {{Relation|1637718|tools=short}}
-| 1.64
+| 1.65
 | 2
 | lcn
 | no
@@ -772,7 +762,7 @@
 |  <span style="display:none">3</span>A270
 | 
 | {{Relation|1687695|tools=short}}
-| 2.52
+| 1.62
 | 1
 | rcn
 | no
@@ -782,7 +772,7 @@
 |  <span style="display:none">3</span>A310
 | 
 | {{Relation|1687696|tools=short}}
-| 2.92
+| 2.91
 | 1
 | lcn
 | no
@@ -792,7 +782,7 @@
 |  <span style="display:none">3</span>A150
 | 
 | {{Relation|1693987|tools=short}}
-| 1.00
+| 1.02
 | 1
 | lcn
 | no
@@ -862,7 +852,7 @@
 |  <span style="display:none">2</span>A25
 | Žižkovská-návrh
 | {{Relation|1710386|tools=short}}
-| 26.86
+| 27.13
 | 2
 | rcn
 | proposed
@@ -922,7 +912,7 @@
 |  <span style="display:none">3</span>A156
 | 
 | {{Relation|1728049|tools=short}}
-| 5.71
+| 5.66
 | 1
 | lcn
 | no
@@ -932,7 +922,7 @@
 |  <span style="display:none">3</span>A150
 | 
 | {{Relation|1728053|tools=short}}
-| 4.30
+| 4.20
 | 1
 | lcn
 | no
@@ -942,7 +932,7 @@
 |  <span style="display:none">3</span>A140
 | 
 | {{Relation|1728067|tools=short}}
-| 3.60
+| 3.61
 | 1
 | rcn
 | proposed
@@ -962,7 +952,7 @@
 |  <span style="display:none">1</span>A2
 | Vltava, pravobřežní trasa (návrh)
 | {{Relation|1728071|tools=short}}
-| 2.02
+| 2.01
 | 1
 | rcn
 | yes
@@ -982,8 +972,8 @@
 |  <span style="display:none">2</span>A24
 | 
 | {{Relation|1733668|tools=short}}
-| 24.09
-| 4
+| 20.30
+| 2
 | rcn
 | no
 | proposed
@@ -992,7 +982,7 @@
 |  <span style="display:none">2</span>A42
 | Hodkovice-Palmovka - návrh
 | {{Relation|1734128|tools=short}}
-| 24.14
+| 24.19
 | 1
 | rcn
 | no
@@ -1002,7 +992,7 @@
 |  <span style="display:none">2</span>A41
 | severojižní cyklomagistrála - návrh
 | {{Relation|1734146|tools=short}}
-| 11.10
+| 11.09
 | 2
 | rcn
 | no
@@ -1012,7 +1002,7 @@
 |  <span style="display:none">2</span>A43
 | A43 Hostivař-Prosek - návrh
 | {{Relation|1734158|tools=short}}
-| 10.92
+| 10.91
 | 3
 | rcn
 | no
@@ -1052,7 +1042,7 @@
 |  <span style="display:none">3</span>A274
 | 
 | {{Relation|1735249|tools=short}}
-| 3.18
+| 3.37
 | 1
 | lcn
 | proposed
@@ -1072,7 +1062,7 @@
 |  <span style="display:none">3</span>A235
 | 
 | {{Relation|1735268|tools=short}}
-| 3.50
+| 3.49
 | 1
 | lcn
 | proposed
@@ -1092,7 +1082,7 @@
 |  <span style="display:none">3</span>A252
 | 
 | {{Relation|1735270|tools=short}}
-| 2.75
+| 2.76
 | 1
 | lcn
 | proposed
@@ -1112,7 +1102,7 @@
 |  <span style="display:none">3</span>A230
 | 
 | {{Relation|1735300|tools=short}}
-| 15.30
+| 15.31
 | 1
 | rcn
 | proposed
@@ -1132,7 +1122,7 @@
 |  <span style="display:none">3</span>A410
 | 
 | {{Relation|1735348|tools=short}}
-| 5.96
+| 5.95
 | 1
 | lcn
 | no
@@ -1142,7 +1132,7 @@
 |  <span style="display:none">3</span>A412
 | 
 | {{Relation|1735349|tools=short}}
-| 3.73
+| 3.72
 | 1
 | rcn
 | no
@@ -1162,7 +1152,7 @@
 |  <span style="display:none">3</span>A124
 | 
 | {{Relation|1735679|tools=short}}
-| 2.95
+| 2.94
 | 1
 | lcn
 | proposed
@@ -1182,7 +1172,7 @@
 |  <span style="display:none">3</span>A133
 | 
 | {{Relation|1735747|tools=short}}
-| 2.83
+| 2.82
 | 1
 | lcn
 | 
@@ -1262,7 +1252,7 @@
 |  <span style="display:none">3</span>A272
 | 
 | {{Relation|1735860|tools=short}}
-| 3.80
+| 3.82
 | 1
 | lcn
 | no
@@ -1282,7 +1272,7 @@
 |  <span style="display:none">3</span>A254
 | 
 | {{Relation|1736037|tools=short}}
-| 4.24
+| 4.30
 | 1
 | lcn
 | no
@@ -1293,7 +1283,7 @@
 | 
 | {{Relation|1736319|tools=short}}
 | 7.89
-| 2
+| 1
 | rcn
 | proposed
 | proposed
@@ -1322,8 +1312,8 @@
 |  <span style="display:none">3</span>A276
 | 
 | {{Relation|1736348|tools=short}}
-| 6.01
-| 2
+| 2.50
+| 1
 | lcn
 | proposed
 | proposed
@@ -1332,8 +1322,8 @@
 |  <span style="display:none">3</span>A283
 | 
 | {{Relation|1736349|tools=short}}
-| 5.11
-| 2
+| 5.13
+| 1
 | lcn
 | proposed
 | proposed
@@ -1352,7 +1342,7 @@
 |  <span style="display:none">3</span>X231
 | 
 | {{Relation|1736351|tools=short}}
-| 2.51
+| 2.52
 | 2
 | lcn
 | recommended
@@ -1372,7 +1362,7 @@
 |  <span style="display:none">3</span>A253
 | 
 | {{Relation|1736637|tools=short}}
-| 3.13
+| 3.12
 | 1
 | lcn
 | proposed
@@ -1382,7 +1372,7 @@
 |  <span style="display:none">1</span>X1
 | 
 | {{Relation|1737500|tools=short}}
-| 8.11
+| 8.14
 | 1
 | rcn
 | recommended
@@ -1429,16 +1419,6 @@
 | proposed
 
 |-
-|  <span style="display:none">3</span>A281
-| 
-| {{Relation|1739010|tools=short}}
-| 0.00
-| 1
-| lcn
-| proposed
-| proposed
-
-|-
 |  <span style="display:none">3</span>A168
 | 
 | {{Relation|1739441|tools=short}}
@@ -1462,7 +1442,7 @@
 |  <span style="display:none">2</span>A18
 | Suchdolská
 | {{Relation|1739443|tools=short}}
-| 1.19
+| 1.56
 | 1
 | rcn
 | proposed
@@ -1512,7 +1492,7 @@
 |  <span style="display:none">3</span>A222
 | 
 | {{Relation|1739956|tools=short}}
-| 1.86
+| 2.63
 | 1
 | lcn
 | proposed
@@ -1522,7 +1502,7 @@
 |  <span style="display:none">3</span>A310
 | 
 | {{Relation|1740449|tools=short}}
-| 0.72
+| 0.75
 | 1
 | rcn
 | proposed
@@ -1552,7 +1532,7 @@
 |  <span style="display:none">3</span>A239
 | 
 | {{Relation|1741212|tools=short}}
-| 4.57
+| 4.56
 | 1
 | lcn
 | proposed
@@ -1562,7 +1542,7 @@
 |  <span style="display:none">3</span>A248
 | 
 | {{Relation|1741229|tools=short}}
-| 1.20
+| 3.54
 | 1
 | lcn
 | proposed
@@ -1572,7 +1552,7 @@
 |  <span style="display:none">3</span>A440
 | 
 | {{Relation|1741320|tools=short}}
-| 3.72
+| 3.64
 | 1
 | lcn
 | proposed
@@ -1582,7 +1562,7 @@
 |  <span style="display:none">3</span>A259
 | 
 | {{Relation|1741324|tools=short}}
-| 2.99
+| 2.82
 | 1
 | lcn
 | proposed
@@ -1602,7 +1582,7 @@
 |  <span style="display:none">3</span>X218
 | 
 | {{Relation|1741346|tools=short}}
-| 4.21
+| 4.20
 | 2
 | lcn
 | recommended
@@ -1642,7 +1622,7 @@
 |  <span style="display:none">2</span>A20
 | 
 | {{Relation|1741452|tools=short}}
-| 6.17
+| 6.18
 | 1
 | lcn
 | no
@@ -1712,7 +1692,7 @@
 |  <span style="display:none">2</span>X16
 | 
 | {{Relation|1741496|tools=short}}
-| 2.39
+| 2.40
 | 1
 | rcn
 | recommended
@@ -1722,7 +1702,7 @@
 |  <span style="display:none">3</span>A266
 | 
 | {{Relation|1742119|tools=short}}
-| 3.07
+| 3.08
 | 2
 | lcn
 | proposed
@@ -1782,7 +1762,7 @@
 |  <span style="display:none">3</span>A244
 | 
 | {{Relation|1742252|tools=short}}
-| 4.78
+| 5.10
 | 1
 | lcn
 | proposed
@@ -1792,8 +1772,8 @@
 |  <span style="display:none">3</span>A233
 | 
 | {{Relation|1742408|tools=short}}
-| 8.76
-| 2
+| 8.77
+| 1
 | rcn
 | proposed
 | proposed
@@ -1822,7 +1802,7 @@
 |  <span style="display:none">3</span>A430
 | 
 | {{Relation|1742564|tools=short}}
-| 8.76
+| 9.00
 | 1
 | rcn
 | proposed
@@ -1832,7 +1812,7 @@
 |  <span style="display:none">3</span>X430
 | 
 | {{Relation|1742659|tools=short}}
-| 2.54
+| 2.52
 | 3
 | lcn
 | recommended
@@ -1859,16 +1839,6 @@
 | recommended
 
 |-
-|  <span style="display:none">3</span>A241
-| 
-| {{Relation|1745132|tools=short}}
-| 0.85
-| 1
-| lcn
-| no
-| 
-
-|-
 |  <span style="display:none">2</span>X44
 | 
 | {{Relation|1745133|tools=short}}
@@ -1892,7 +1862,7 @@
 |  <span style="display:none">3</span>A262
 | 
 | {{Relation|1745168|tools=short}}
-| 5.63
+| 5.64
 | 1
 | lcn
 | proposed
@@ -1903,7 +1873,7 @@
 | A44, nevyznačené úseky, budoucí
 | {{Relation|1745670|tools=short}}
 | 1.94
-| 2
+| 1
 | rcn
 | recommended
 | proposed
@@ -1922,8 +1892,8 @@
 |  <span style="display:none">2</span>X15
 | 
 | {{Relation|1757327|tools=short}}
-| 6.09
-| 4
+| 6.24
+| 2
 | lcn
 | recommended
 | recommended
@@ -1972,7 +1942,7 @@
 |  <span style="display:none">3</span>A223
 | 
 | {{Relation|1762893|tools=short}}
-| 2.59
+| 2.66
 | 1
 | rcn
 | yes
@@ -1982,7 +1952,7 @@
 |  <span style="display:none">3</span>X142
 | 
 | {{Relation|1767811|tools=short}}
-| 3.43
+| 3.44
 | 1
 | lcn
 | recommended
@@ -2032,7 +2002,7 @@
 |  <span style="display:none">3</span>X236
 | X236, prodloužená A236, částečně doporučená C10 a Z24 v původní PNK
 | {{Relation|1768508|tools=short}}
-| 5.21
+| 5.22
 | 1
 | lcn
 | recommended
@@ -2062,7 +2032,7 @@
 |  <span style="display:none">2</span>X41
 | A41, doporučené bypassy
 | {{Relation|1768756|tools=short}}
-| 0.49
+| 0.50
 | 1
 | rcn
 | no
@@ -2082,8 +2052,8 @@
 |  <span style="display:none">3</span>A221
 | A221, navržená, v horní části klidové vedení dle dop. tras PNK
 | {{Relation|1768881|tools=short}}
-| 6.37
-| 1
+| 7.38
+| 2
 | lcn
 | proposed
 | proposed
@@ -2122,7 +2092,7 @@
 |  <span style="display:none">3</span>A270
 | 
 | {{Relation|1769200|tools=short}}
-| 1.32
+| 1.40
 | 1
 | lcn
 | no
@@ -2142,7 +2112,7 @@
 |  <span style="display:none">3</span>X272
 | 
 | {{Relation|1769202|tools=short}}
-| 1.87
+| 1.90
 | 2
 | lcn
 | recommended
@@ -2162,7 +2132,7 @@
 |  <span style="display:none">3</span>X272
 | 
 | {{Relation|1769236|tools=short}}
-| 2.59
+| 2.58
 | 1
 | lcn
 | recommended
@@ -2172,7 +2142,7 @@
 |  <span style="display:none">3</span>X235
 | X235, doporučená PNK, prodloužení A235
 | {{Relation|1769745|tools=short}}
-| 2.95
+| 2.94
 | 1
 | lcn
 | proposed
@@ -2222,7 +2192,7 @@
 |  <span style="display:none">2</span>A27
 | A27, Bulovka - Letňany, značená část
 | {{Relation|1770979|tools=short}}
-| 3.27
+| 9.36
 | 2
 | rcn
 | yes
@@ -2292,7 +2262,7 @@
 |  <span style="display:none">3</span>X321
 | 
 | {{Relation|1776885|tools=short}}
-| 3.99
+| 4.00
 | 1
 | lcn
 | recommended
@@ -2342,8 +2312,8 @@
 |  <span style="display:none">2</span>X21
 | Souběh a část. pokračování A21
 | {{Relation|1779191|tools=short}}
-| 1.42
-| 1
+| 1.98
+| 2
 | lcn
 | proposed
 | proposed
@@ -2382,7 +2352,7 @@
 |  <span style="display:none">1</span>X1
 | Alternativy k trase KČT 1
 | {{Relation|1781279|tools=short}}
-| 4.19
+| 4.18
 | 5
 | lcn
 | no
@@ -2392,7 +2362,7 @@
 |  <span style="display:none">3</span>X239
 | X239, doporučená trasa poblíž bud. A239
 | {{Relation|1781280|tools=short}}
-| 3.87
+| 3.89
 | 1
 | lcn
 | proposed
@@ -2412,7 +2382,7 @@
 |  <span style="display:none">3</span>X257
 | Doporučená trasa PNK, prodl. A257
 | {{Relation|1781390|tools=short}}
-| 5.07
+| 5.08
 | 1
 | lcn
 | no
@@ -2432,7 +2402,7 @@
 |  <span style="display:none">3</span>A257
 | 
 | {{Relation|1788655|tools=short}}
-| 1.39
+| 1.42
 | 1
 | lcn
 | proposed
@@ -2452,8 +2422,8 @@
 |  <span style="display:none">3</span>X265
 | Místní trasa Kbely - Rajská Zahrada
 | {{Relation|1788736|tools=short}}
-| 4.00
-| 1
+| 5.09
+| 2
 | lcn
 | no
 | recommended
@@ -2462,7 +2432,7 @@
 |  <span style="display:none">3</span>A265
 | Připravovaný úsek A265
 | {{Relation|1788737|tools=short}}
-| 1.63
+| 1.68
 | 1
 | lcn
 | no
@@ -2632,7 +2602,7 @@
 |  <span style="display:none">3</span>X215
 | 
 | {{Relation|1793982|tools=short}}
-| 1.45
+| 1.46
 | 1
 | lcn
 | no
@@ -2702,7 +2672,7 @@
 |  <span style="display:none">2</span>X42
 | X42
 | {{Relation|1814885|tools=short}}
-| 1.20
+| 1.21
 | 1
 | lcn
 | no
@@ -2722,7 +2692,7 @@
 |  <span style="display:none">3</span>X233
 | X233, alternativa budoucí A233
 | {{Relation|1814985|tools=short}}
-| 2.51
+| 2.52
 | 1
 | lcn
 | recommended
@@ -2732,7 +2702,7 @@
 |  <span style="display:none">3</span>X222
 | 
 | {{Relation|1815156|tools=short}}
-| 0.60
+| 0.94
 | 1
 | lcn
 | recommended
@@ -2762,7 +2732,7 @@
 |  <span style="display:none">3</span>X204
 | 
 | {{Relation|1818238|tools=short}}
-| 4.88
+| 4.89
 | 1
 | lcn
 | no
@@ -2792,7 +2762,7 @@
 |  <span style="display:none">3</span>X112
 | 
 | {{Relation|1819360|tools=short}}
-| 5.04
+| 5.05
 | 1
 | lcn
 | recommended
@@ -2922,7 +2892,7 @@
 |  <span style="display:none">2</span>A27
 | A27, alternativa přes Letňany
 | {{Relation|1863647|tools=short}}
-| 3.26
+| 2.89
 | 1
 | lcn
 | proposed
@@ -2932,7 +2902,7 @@
 |  <span style="display:none">3</span>X421
 | 
 | {{Relation|1863649|tools=short}}
-| 1.36
+| 1.40
 | 1
 | lcn
 | 
@@ -2942,7 +2912,7 @@
 |  <span style="display:none">2</span>A16
 | Veleslavínská - návrh (východ, lokální)
 | {{Relation|1863887|tools=short}}
-| 4.53
+| 4.54
 | 1
 | lcn
 | proposed
@@ -2952,7 +2922,7 @@
 |  <span style="display:none">1</span>A1
 | Vltava, levobřežní trasa (návrh-mailn)
 | {{Relation|1863888|tools=short}}
-| 4.91
+| 4.93
 | 2
 | rcn
 | proposed
@@ -2972,7 +2942,7 @@
 |  <span style="display:none">3</span>X159
 | 
 | {{Relation|1895219|tools=short}}
-| 0.23
+| 0.25
 | 1
 | lcn
 | 
@@ -2982,7 +2952,7 @@
 |  <span style="display:none">3</span>X171
 | 
 | {{Relation|1895626|tools=short}}
-| 1.27
+| 1.26
 | 1
 | lcn
 | no
@@ -2992,9 +2962,19 @@
 |  <span style="display:none">2</span>A28
 | Bohnické údolí - návrh
 | {{Relation|1904469|tools=short}}
-| 7.88
-| 2
+| 6.02
+| 1
 | rcn
 | proposed
 | proposed
+
+|-
+|  <span style="display:none">3</span>X131
+| Klidová aternativa k A1 kolem Meet Factory
+| {{Relation|2000674|tools=short}}
+| 2.57
+| 1
+| lcn
+| no
+| recommended
 
