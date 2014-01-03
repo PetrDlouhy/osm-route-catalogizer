@@ -7,4 +7,5 @@ running
 =======
 
 run ./trasy.sh to generate wiki output
+
 run ./duplicity.sh (trasy must be runned first) to see routes with duplicate refs
