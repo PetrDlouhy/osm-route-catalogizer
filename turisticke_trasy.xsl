@@ -88,7 +88,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		-->
 
 		<xsl:text>| </xsl:text>
-		<xsl:variable name="kct_color" select="replace(tag[matches(@k, '^kct_')]/@k, '^.*_', '')"/>
+		<xsl:variable name="kct_color" select="replace(string-join(tag[matches(@k, '^kct_')]/@k, ', '), '^.*_', '')"/>
 		<xsl:variable name="kct_type" select="tag[matches(@k, '^kct_')]/@v"/>
 		<xsl:variable name="osmc_line_color" select="replace(tag[@k = 'osmc:symbol']/@v, '^([^:]*):.*$', '$1')"/>
 		<xsl:variable name="osmc_background_color" select="replace(tag[@k = 'osmc:symbol']/@v, '^[^:]*:([^:]*):.*$', '$1')"/>
